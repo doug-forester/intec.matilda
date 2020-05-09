@@ -1,0 +1,3 @@
+<?php
+
+$MESS['title'] = 'Matilda';
