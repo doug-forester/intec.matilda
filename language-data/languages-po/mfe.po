@@ -1,0 +1,190 @@
+# CLDR language names for mfe
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: mfe\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "akan"
+
+msgid "American English"
+msgstr "angle (Lamerik)"
+
+msgid "Amharic"
+msgstr "amarik"
+
+msgid "Arabic"
+msgstr "arab"
+
+msgid "Australian English"
+msgstr "angle (Lostrali)"
+
+msgid "Austrian German"
+msgstr "alman (Lostris)"
+
+msgid "Bangla"
+msgstr "bengali"
+
+msgid "Belarusian"
+msgstr "bieloris"
+
+msgid "Brazilian Portuguese"
+msgstr "portige (Brezil)"
+
+msgid "British English"
+msgstr "angle (United Kingdom)"
+
+msgid "Bulgarian"
+msgstr "bilgar"
+
+msgid "Burmese"
+msgstr "birman"
+
+msgid "Canadian English"
+msgstr "angle (Kanada)"
+
+msgid "Canadian French"
+msgstr "franse (Kanada)"
+
+msgid "Chinese"
+msgstr "sinwa, mandarin"
+
+msgid "Czech"
+msgstr "tchek"
+
+msgid "Dutch"
+msgstr "olande"
+
+msgid "English"
+msgstr "angle"
+
+msgid "European Portuguese"
+msgstr "portige (Portigal)"
+
+msgid "European Spanish"
+msgstr "espagnol (Lespagn)"
+
+msgid "Flemish"
+msgstr "olande (Belzik)"
+
+msgid "French"
+msgstr "franse"
+
+msgid "German"
+msgstr "alman"
+
+msgid "Greek"
+msgstr "grek"
+
+msgid "Hausa"
+msgstr "haoussa"
+
+msgid "Hindi"
+msgstr "hindi"
+
+msgid "Hungarian"
+msgstr "hongrwa"
+
+msgid "Igbo"
+msgstr "igbo"
+
+msgid "Indonesian"
+msgstr "indonezien"
+
+msgid "Italian"
+msgstr "italien"
+
+msgid "Japanese"
+msgstr "zapone"
+
+msgid "Javanese"
+msgstr "zavane"
+
+msgid "Khmer"
+msgstr "khmer, santral"
+
+msgid "Kinyarwanda"
+msgstr "rwanda"
+
+msgid "Korean"
+msgstr "koreen"
+
+msgid "Malay"
+msgstr "male"
+
+msgid "Mexican Spanish"
+msgstr "espagnol (Mexik)"
+
+msgid "Moldavian"
+msgstr "roumin (Moldavi)"
+
+msgid "Morisyen"
+msgstr "kreol morisien"
+
+msgid "Nepali"
+msgstr "nepale"
+
+msgid "Persian"
+msgstr "persan"
+
+msgid "Polish"
+msgstr "polone"
+
+msgid "Portuguese"
+msgstr "portige"
+
+msgid "Punjabi"
+msgstr "penjabi"
+
+msgid "Romanian"
+msgstr "roumin"
+
+msgid "Russian"
+msgstr "ris"
+
+msgid "Somali"
+msgstr "somali"
+
+msgid "Spanish"
+msgstr "espagnol"
+
+msgid "Swedish"
+msgstr "swedwa"
+
+msgid "Swiss French"
+msgstr "franse (Laswis)"
+
+msgid "Swiss High German"
+msgstr "alman (Laswis)"
+
+msgid "Tamil"
+msgstr "tamoul"
+
+msgid "Thai"
+msgstr "thaï"
+
+msgid "Turkish"
+msgstr "tirk"
+
+msgid "Ukrainian"
+msgstr "ikrenien"
+
+msgid "Urdu"
+msgstr "ourdou"
+
+msgid "Vietnamese"
+msgstr "vietnamien"
+
+msgid "Yoruba"
+msgstr "yoruba"
+
+msgid "Zulu"
+msgstr "zoulou"

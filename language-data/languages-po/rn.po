@@ -1,0 +1,190 @@
+# CLDR language names for rn
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: rn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Igikani"
+
+msgid "American English"
+msgstr "Icongereza (Leta Zunze Ubumwe za Amerika)"
+
+msgid "Amharic"
+msgstr "Ikimuhariki"
+
+msgid "Arabic"
+msgstr "Icarabu"
+
+msgid "Australian English"
+msgstr "Icongereza (Ositaraliya)"
+
+msgid "Austrian German"
+msgstr "Ikidage (Otirishe)"
+
+msgid "Bangla"
+msgstr "Ikibengali"
+
+msgid "Belarusian"
+msgstr "Ikibelarusiya"
+
+msgid "Brazilian Portuguese"
+msgstr "Igiporutugari (Burezili)"
+
+msgid "British English"
+msgstr "Icongereza (Ubwongereza)"
+
+msgid "Bulgarian"
+msgstr "Ikinyabuligariya"
+
+msgid "Burmese"
+msgstr "Ikinyabirimaniya"
+
+msgid "Canadian English"
+msgstr "Icongereza (Kanada)"
+
+msgid "Canadian French"
+msgstr "Igifaransa (Kanada)"
+
+msgid "Chinese"
+msgstr "Igishinwa"
+
+msgid "Czech"
+msgstr "Igiceke"
+
+msgid "Dutch"
+msgstr "Igiholandi"
+
+msgid "English"
+msgstr "Icongereza"
+
+msgid "European Portuguese"
+msgstr "Igiporutugari (Porutugali)"
+
+msgid "European Spanish"
+msgstr "Icesipanyolo (Hisipaniya)"
+
+msgid "Flemish"
+msgstr "Igiholandi (Ububiligi)"
+
+msgid "French"
+msgstr "Igifaransa"
+
+msgid "German"
+msgstr "Ikidage"
+
+msgid "Greek"
+msgstr "Ikigereki"
+
+msgid "Hausa"
+msgstr "Igihawusa"
+
+msgid "Hindi"
+msgstr "Igihindi"
+
+msgid "Hungarian"
+msgstr "Ikinyahongiriya"
+
+msgid "Igbo"
+msgstr "Ikigubo"
+
+msgid "Indonesian"
+msgstr "Ikinyendoziya"
+
+msgid "Italian"
+msgstr "Igitaliyani"
+
+msgid "Japanese"
+msgstr "Ikiyapani"
+
+msgid "Javanese"
+msgstr "Ikinyejava"
+
+msgid "Khmer"
+msgstr "Igikambodiya"
+
+msgid "Kinyarwanda"
+msgstr "Ikinyarwanda"
+
+msgid "Korean"
+msgstr "Ikinyakoreya"
+
+msgid "Malay"
+msgstr "Ikinyamaleziya"
+
+msgid "Mexican Spanish"
+msgstr "Icesipanyolo (Migizike)"
+
+msgid "Moldavian"
+msgstr "Ikinyarumaniya (Moludavi)"
+
+msgid "Nepali"
+msgstr "Ikinepali"
+
+msgid "Persian"
+msgstr "Igiperisi"
+
+msgid "Polish"
+msgstr "Ikinyapolonye"
+
+msgid "Portuguese"
+msgstr "Igiporutugari"
+
+msgid "Punjabi"
+msgstr "Igipunjabi"
+
+msgid "Romanian"
+msgstr "Ikinyarumaniya"
+
+msgid "Rundi"
+msgstr "Ikirundi"
+
+msgid "Russian"
+msgstr "Ikirusiya"
+
+msgid "Somali"
+msgstr "Igisomali"
+
+msgid "Spanish"
+msgstr "Icesipanyolo"
+
+msgid "Swedish"
+msgstr "Igisuweduwa"
+
+msgid "Swiss French"
+msgstr "Igifaransa (Ubusuwisi)"
+
+msgid "Swiss High German"
+msgstr "Ikidage (Ubusuwisi)"
+
+msgid "Tamil"
+msgstr "Igitamili"
+
+msgid "Thai"
+msgstr "Ikinyatayilandi"
+
+msgid "Turkish"
+msgstr "Igiturukiya"
+
+msgid "Ukrainian"
+msgstr "Ikinyayukereni"
+
+msgid "Urdu"
+msgstr "Inyeyurudu"
+
+msgid "Vietnamese"
+msgstr "Ikinyaviyetinamu"
+
+msgid "Yoruba"
+msgstr "Ikiyoruba"
+
+msgid "Zulu"
+msgstr "Ikizulu"

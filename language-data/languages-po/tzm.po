@@ -1,0 +1,190 @@
+# CLDR language names for tzm
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: tzm\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Takanit"
+
+msgid "American English"
+msgstr "Tanglizt (Iwunak Idduklen n Amirika)"
+
+msgid "Amharic"
+msgstr "Tamharit"
+
+msgid "Arabic"
+msgstr "Taεrabt"
+
+msgid "Australian English"
+msgstr "Tanglizt (Usṭralya)"
+
+msgid "Austrian German"
+msgstr "Talmanit (Ustriyya)"
+
+msgid "Bangla"
+msgstr "Tabinɣalit"
+
+msgid "Belarusian"
+msgstr "Tabilarusit"
+
+msgid "Brazilian Portuguese"
+msgstr "Taburtuɣalit (Bṛazil)"
+
+msgid "British English"
+msgstr "Tanglizt (Tagelda Taddukelt)"
+
+msgid "Bulgarian"
+msgstr "Tabelɣarit"
+
+msgid "Burmese"
+msgstr "Taburmanit"
+
+msgid "Canadian English"
+msgstr "Tanglizt (Kanada)"
+
+msgid "Canadian French"
+msgstr "Tafṛansist (Kanada)"
+
+msgid "Central Atlas Tamazight"
+msgstr "Tamaziɣt n laṭlaṣ"
+
+msgid "Chinese"
+msgstr "Tacinwit,Mandarin"
+
+msgid "Czech"
+msgstr "Tačikt"
+
+msgid "Dutch"
+msgstr "Tahulanḍit"
+
+msgid "English"
+msgstr "Tanglizt"
+
+msgid "European Portuguese"
+msgstr "Taburtuɣalit (Purtuɣal)"
+
+msgid "European Spanish"
+msgstr "tasbelyunit (Sbanya)"
+
+msgid "Flemish"
+msgstr "Tahulanḍit (Beljika)"
+
+msgid "French"
+msgstr "Tafṛansist"
+
+msgid "German"
+msgstr "Talmanit"
+
+msgid "Greek"
+msgstr "Tayunanit"
+
+msgid "Hausa"
+msgstr "Tahawsat"
+
+msgid "Hindi"
+msgstr "Tahindit"
+
+msgid "Hungarian"
+msgstr "Tahenɣarit"
+
+msgid "Igbo"
+msgstr "Tigbut"
+
+msgid "Indonesian"
+msgstr "Tindunisit"
+
+msgid "Italian"
+msgstr "Taṭalyant"
+
+msgid "Japanese"
+msgstr "Tajappunit"
+
+msgid "Javanese"
+msgstr "Tajavanit"
+
+msgid "Khmer"
+msgstr "Taxmert ,Talammast"
+
+msgid "Kinyarwanda"
+msgstr "Tarwandit"
+
+msgid "Korean"
+msgstr "Takurit"
+
+msgid "Malay"
+msgstr "Tamalizit"
+
+msgid "Mexican Spanish"
+msgstr "tasbelyunit (Miksik)"
+
+msgid "Moldavian"
+msgstr "Taṛumanit (Mulḍavya)"
+
+msgid "Nepali"
+msgstr "Tanippalit"
+
+msgid "Persian"
+msgstr "Tafarisit"
+
+msgid "Polish"
+msgstr "Tappulunit"
+
+msgid "Portuguese"
+msgstr "Taburtuɣalit"
+
+msgid "Punjabi"
+msgstr "Tabenjabit"
+
+msgid "Romanian"
+msgstr "Taṛumanit"
+
+msgid "Russian"
+msgstr "Tarusit"
+
+msgid "Somali"
+msgstr "Taṣumalit"
+
+msgid "Spanish"
+msgstr "tasbelyunit"
+
+msgid "Swedish"
+msgstr "Taswidit"
+
+msgid "Swiss French"
+msgstr "Tafṛansist (Swisra)"
+
+msgid "Swiss High German"
+msgstr "Talmanit (Swisra)"
+
+msgid "Tamil"
+msgstr "Tatamilt"
+
+msgid "Thai"
+msgstr "Taṭayt"
+
+msgid "Turkish"
+msgstr "Taturkit"
+
+msgid "Ukrainian"
+msgstr "Tukranit"
+
+msgid "Urdu"
+msgstr "Turdut"
+
+msgid "Vietnamese"
+msgstr "Taviṭnamit"
+
+msgid "Yoruba"
+msgstr "Tayurubat"
+
+msgid "Zulu"
+msgstr "tazulut"

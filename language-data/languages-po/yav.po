@@ -1,0 +1,190 @@
+# CLDR language names for yav
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: yav\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "akánɛ"
+
+msgid "American English"
+msgstr "íŋgilísé (amálíka)"
+
+msgid "Amharic"
+msgstr "amalíke"
+
+msgid "Arabic"
+msgstr "́pakas"
+
+msgid "Australian English"
+msgstr "íŋgilísé (Otalalí)"
+
+msgid "Austrian German"
+msgstr "ŋndiáman (Otilís)"
+
+msgid "Bangla"
+msgstr "pengálɛ́ɛ"
+
+msgid "Belarusian"
+msgstr "pielúse"
+
+msgid "Brazilian Portuguese"
+msgstr "nupɔlitukɛ́ɛ (Pilesíl)"
+
+msgid "British English"
+msgstr "íŋgilísé (ingilíís)"
+
+msgid "Bulgarian"
+msgstr "bulgálɛ"
+
+msgid "Burmese"
+msgstr "bímanɛ"
+
+msgid "Canadian English"
+msgstr "íŋgilísé (Kánáta)"
+
+msgid "Canadian French"
+msgstr "feleŋsí (Kánáta)"
+
+msgid "Chinese"
+msgstr "sinúɛ"
+
+msgid "Czech"
+msgstr "cɛ́kɛ́ɛ"
+
+msgid "Dutch"
+msgstr "nilándɛ"
+
+msgid "English"
+msgstr "íŋgilísé"
+
+msgid "European Portuguese"
+msgstr "nupɔlitukɛ́ɛ (pɔltukáal)"
+
+msgid "European Spanish"
+msgstr "nuɛspanyɔ́lɛ (panyá)"
+
+msgid "Flemish"
+msgstr "nilándɛ (Pɛlsíik)"
+
+msgid "French"
+msgstr "feleŋsí"
+
+msgid "German"
+msgstr "ŋndiáman"
+
+msgid "Greek"
+msgstr "yavánɛ"
+
+msgid "Hausa"
+msgstr "pakas"
+
+msgid "Hindi"
+msgstr "índí"
+
+msgid "Hungarian"
+msgstr "ɔ́ŋgɛ"
+
+msgid "Igbo"
+msgstr "íbo"
+
+msgid "Indonesian"
+msgstr "índonísiɛ"
+
+msgid "Italian"
+msgstr "itáliɛ"
+
+msgid "Japanese"
+msgstr "ndiáman"
+
+msgid "Javanese"
+msgstr "yávanɛ"
+
+msgid "Khmer"
+msgstr "kímɛɛ"
+
+msgid "Kinyarwanda"
+msgstr "nuluándɛ́ɛ"
+
+msgid "Korean"
+msgstr "kolíe"
+
+msgid "Malay"
+msgstr "máliɛ"
+
+msgid "Mexican Spanish"
+msgstr "nuɛspanyɔ́lɛ (mɛksíik)"
+
+msgid "Moldavian"
+msgstr "nulumɛ́ŋɛ (moltafí)"
+
+msgid "Nepali"
+msgstr "nunipálɛ"
+
+msgid "Persian"
+msgstr "nupɛ́lisɛ"
+
+msgid "Polish"
+msgstr "nupolonɛ́ɛ"
+
+msgid "Portuguese"
+msgstr "nupɔlitukɛ́ɛ"
+
+msgid "Punjabi"
+msgstr "nupunsapíɛ́"
+
+msgid "Romanian"
+msgstr "nulumɛ́ŋɛ"
+
+msgid "Russian"
+msgstr "nulúse"
+
+msgid "Somali"
+msgstr "nusomalíɛ"
+
+msgid "Spanish"
+msgstr "nuɛspanyɔ́lɛ"
+
+msgid "Swedish"
+msgstr "nusuetua"
+
+msgid "Swiss French"
+msgstr "feleŋsí (suwíis)"
+
+msgid "Swiss High German"
+msgstr "ŋndiáman (suwíis)"
+
+msgid "Tamil"
+msgstr "nutámule"
+
+msgid "Thai"
+msgstr "nutáyɛ"
+
+msgid "Turkish"
+msgstr "nutúluke"
+
+msgid "Ukrainian"
+msgstr "nukeleniɛ́ŋɛ"
+
+msgid "Urdu"
+msgstr "nulutú"
+
+msgid "Vietnamese"
+msgstr "nufiɛtnamíɛŋ"
+
+msgid "Yangben"
+msgstr "nuasue"
+
+msgid "Yoruba"
+msgstr "nuyolúpa"
+
+msgid "Zulu"
+msgstr "nusulú"

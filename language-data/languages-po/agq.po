@@ -1,0 +1,190 @@
+# CLDR language names for agq
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: agq\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Aghem"
+msgstr "Aghem"
+
+msgid "Akan"
+msgstr "Akan"
+
+msgid "American English"
+msgstr "Kɨŋgele (USA)"
+
+msgid "Amharic"
+msgstr "Àmalì"
+
+msgid "Arabic"
+msgstr "Àlabì"
+
+msgid "Australian English"
+msgstr "Kɨŋgele (Ùsɨ̀tɛ̀lɛlìa)"
+
+msgid "Austrian German"
+msgstr "Dzamɛ̀ (Usɨtɨ̀là)"
+
+msgid "Bangla"
+msgstr "Bɨ̀ŋgalì"
+
+msgid "Belarusian"
+msgstr "Bɛ̀làlusàn"
+
+msgid "Brazilian Portuguese"
+msgstr "Kpotùwgîi (Bɨ̀làzîi)"
+
+msgid "British English"
+msgstr "Kɨŋgele (Yùnaetɛ Kiŋdɔ̀m)"
+
+msgid "Bulgarian"
+msgstr "Bùugɨlìa"
+
+msgid "Burmese"
+msgstr "Bùumɛsɛ̀"
+
+msgid "Canadian English"
+msgstr "Kɨŋgele (Kanadà)"
+
+msgid "Canadian French"
+msgstr "Kɨ̀fàlàŋsi (Kanadà)"
+
+msgid "Chinese"
+msgstr "Chàenê"
+
+msgid "Czech"
+msgstr "Chɛ̂"
+
+msgid "Dutch"
+msgstr "Dɔ̂s"
+
+msgid "English"
+msgstr "Kɨŋgele"
+
+msgid "European Portuguese"
+msgstr "Kpotùwgîi (Kputuwgà)"
+
+msgid "European Spanish"
+msgstr "Sɨ̀kpanìs (Sɨ̀kpɛ̂n)"
+
+msgid "Flemish"
+msgstr "Dɔ̂s (Bɛɛdzwùm)"
+
+msgid "French"
+msgstr "Kɨ̀fàlàŋsi"
+
+msgid "German"
+msgstr "Dzamɛ̀"
+
+msgid "Greek"
+msgstr "Gɨ̀lêʔ"
+
+msgid "Hausa"
+msgstr "Kɨtsɔŋkaŋ"
+
+msgid "Hindi"
+msgstr "Endì"
+
+msgid "Hungarian"
+msgstr "Hɔŋgalìa"
+
+msgid "Igbo"
+msgstr "Egbò"
+
+msgid "Indonesian"
+msgstr "Èndònɛshìa"
+
+msgid "Italian"
+msgstr "Ètalìa"
+
+msgid "Japanese"
+msgstr "Dzàkpànê"
+
+msgid "Javanese"
+msgstr "Dzàbvànê"
+
+msgid "Khmer"
+msgstr "Kɨmɛ̀"
+
+msgid "Kinyarwanda"
+msgstr "Lùwandà"
+
+msgid "Korean"
+msgstr "kùulîa"
+
+msgid "Malay"
+msgstr "Màlae"
+
+msgid "Mexican Spanish"
+msgstr "Sɨ̀kpanìs (Mɛkɨzikù)"
+
+msgid "Moldavian"
+msgstr "Lùmanyìa (Mòodovà)"
+
+msgid "Nepali"
+msgstr "Nɛ̀kpalì"
+
+msgid "Persian"
+msgstr "Kpɛɛshìa"
+
+msgid "Polish"
+msgstr "Kpɔlìs"
+
+msgid "Portuguese"
+msgstr "Kpotùwgîi"
+
+msgid "Punjabi"
+msgstr "Kpuwndzabì"
+
+msgid "Romanian"
+msgstr "Lùmanyìa"
+
+msgid "Russian"
+msgstr "Lushìa"
+
+msgid "Somali"
+msgstr "Sòmalì"
+
+msgid "Spanish"
+msgstr "Sɨ̀kpanìs"
+
+msgid "Swedish"
+msgstr "Suedìs"
+
+msgid "Swiss French"
+msgstr "Kɨ̀fàlàŋsi (Suezàlân)"
+
+msgid "Swiss High German"
+msgstr "Dzamɛ̀ (Suezàlân)"
+
+msgid "Tamil"
+msgstr "Tamì"
+
+msgid "Thai"
+msgstr "Tàe"
+
+msgid "Turkish"
+msgstr "Tʉʉkìs"
+
+msgid "Ukrainian"
+msgstr "Ùkɛlɛnìa"
+
+msgid "Urdu"
+msgstr "Uudùw"
+
+msgid "Vietnamese"
+msgstr "Vìyɛtnàmê"
+
+msgid "Yoruba"
+msgstr "Yulùba"
+
+msgid "Zulu"
+msgstr "Zulù"

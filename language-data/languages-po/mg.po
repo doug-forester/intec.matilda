@@ -1,0 +1,190 @@
+# CLDR language names for mg
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: mg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Akan"
+
+msgid "American English"
+msgstr "Anglisy (Etazonia)"
+
+msgid "Amharic"
+msgstr "Amharika"
+
+msgid "Arabic"
+msgstr "Arabo"
+
+msgid "Australian English"
+msgstr "Anglisy (Aostralia)"
+
+msgid "Austrian German"
+msgstr "Alemanina (Aotrisy)"
+
+msgid "Bangla"
+msgstr "Bengali"
+
+msgid "Belarusian"
+msgstr "Bielorosy"
+
+msgid "Brazilian Portuguese"
+msgstr "Portiogey (Brezila)"
+
+msgid "British English"
+msgstr "Anglisy (Angletera)"
+
+msgid "Bulgarian"
+msgstr "Biolgara"
+
+msgid "Burmese"
+msgstr "Birmana"
+
+msgid "Canadian English"
+msgstr "Anglisy (Kanada)"
+
+msgid "Canadian French"
+msgstr "Frantsay (Kanada)"
+
+msgid "Chinese"
+msgstr "Sinoa, Mandarin"
+
+msgid "Czech"
+msgstr "Tseky"
+
+msgid "Dutch"
+msgstr "Holandey"
+
+msgid "English"
+msgstr "Anglisy"
+
+msgid "European Portuguese"
+msgstr "Portiogey (Pôrtiogala)"
+
+msgid "European Spanish"
+msgstr "Espaniola (Espaina)"
+
+msgid "Flemish"
+msgstr "Holandey (Belzika)"
+
+msgid "French"
+msgstr "Frantsay"
+
+msgid "German"
+msgstr "Alemanina"
+
+msgid "Greek"
+msgstr "Grika"
+
+msgid "Hausa"
+msgstr "haoussa"
+
+msgid "Hindi"
+msgstr "hindi"
+
+msgid "Hungarian"
+msgstr "hongroà"
+
+msgid "Igbo"
+msgstr "igbo"
+
+msgid "Indonesian"
+msgstr "Indonezianina"
+
+msgid "Italian"
+msgstr "Italianina"
+
+msgid "Japanese"
+msgstr "Japoney"
+
+msgid "Javanese"
+msgstr "Javaney"
+
+msgid "Khmer"
+msgstr "khmer"
+
+msgid "Kinyarwanda"
+msgstr "Roande"
+
+msgid "Korean"
+msgstr "Koreanina"
+
+msgid "Malagasy"
+msgstr "Malagasy"
+
+msgid "Malay"
+msgstr "Malay"
+
+msgid "Mexican Spanish"
+msgstr "Espaniola (Meksika)"
+
+msgid "Moldavian"
+msgstr "Romanianina (Môldavia)"
+
+msgid "Nepali"
+msgstr "Nepale"
+
+msgid "Persian"
+msgstr "Persa"
+
+msgid "Polish"
+msgstr "Poloney"
+
+msgid "Portuguese"
+msgstr "Portiogey"
+
+msgid "Punjabi"
+msgstr "Penjabi"
+
+msgid "Romanian"
+msgstr "Romanianina"
+
+msgid "Russian"
+msgstr "Rosianina"
+
+msgid "Somali"
+msgstr "Somalianina"
+
+msgid "Spanish"
+msgstr "Espaniola"
+
+msgid "Swedish"
+msgstr "Soisa"
+
+msgid "Swiss French"
+msgstr "Frantsay (Soisa)"
+
+msgid "Swiss High German"
+msgstr "Alemanina (Soisa)"
+
+msgid "Tamil"
+msgstr "Tamoila"
+
+msgid "Thai"
+msgstr "Taioaney"
+
+msgid "Turkish"
+msgstr "Tiorka"
+
+msgid "Ukrainian"
+msgstr "Okrainianina"
+
+msgid "Urdu"
+msgstr "Ordò"
+
+msgid "Vietnamese"
+msgstr "Vietnamianina"
+
+msgid "Yoruba"
+msgstr "Yôrobà"
+
+msgid "Zulu"
+msgstr "Zolò"

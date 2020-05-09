@@ -1,0 +1,190 @@
+# CLDR language names for sg
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: sg\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Akâan"
+
+msgid "American English"
+msgstr "Anglëe (ÂLeaa-Ôko tî Amerika)"
+
+msgid "Amharic"
+msgstr "Amarîki"
+
+msgid "Arabic"
+msgstr "Arâbo"
+
+msgid "Australian English"
+msgstr "Anglëe (Ostralïi, Sotralïi)"
+
+msgid "Austrian German"
+msgstr "Zâmani (Otrîsi)"
+
+msgid "Bangla"
+msgstr "Bengäli"
+
+msgid "Belarusian"
+msgstr "Bielörûsi"
+
+msgid "Brazilian Portuguese"
+msgstr "Portugëe, Pûra (Brezîli)"
+
+msgid "British English"
+msgstr "Anglëe (Ködörögbïä--Ôko)"
+
+msgid "Bulgarian"
+msgstr "Bulugäri"
+
+msgid "Burmese"
+msgstr "Miamära, Birimäni"
+
+msgid "Canadian English"
+msgstr "Anglëe (Kanadäa)"
+
+msgid "Canadian French"
+msgstr "Farânzi (Kanadäa)"
+
+msgid "Chinese"
+msgstr "Shinuäa"
+
+msgid "Czech"
+msgstr "Tyêki"
+
+msgid "Dutch"
+msgstr "Holandëe"
+
+msgid "English"
+msgstr "Anglëe"
+
+msgid "European Portuguese"
+msgstr "Portugëe, Pûra (Pörtugäle, Ködörö Pûra)"
+
+msgid "European Spanish"
+msgstr "Espanyöl (Espânye)"
+
+msgid "Flemish"
+msgstr "Holandëe (Bêleze, Belezîki)"
+
+msgid "French"
+msgstr "Farânzi"
+
+msgid "German"
+msgstr "Zâmani"
+
+msgid "Greek"
+msgstr "Gerêki"
+
+msgid "Hausa"
+msgstr "Haüsä"
+
+msgid "Hindi"
+msgstr "Hîndi"
+
+msgid "Hungarian"
+msgstr "Hongruäa"
+
+msgid "Igbo"
+msgstr "Ïgbö"
+
+msgid "Indonesian"
+msgstr "Enndonezïi"
+
+msgid "Italian"
+msgstr "Ênnde"
+
+msgid "Japanese"
+msgstr "Zaponëe"
+
+msgid "Javanese"
+msgstr "Zavanëe"
+
+msgid "Khmer"
+msgstr "Kmêre"
+
+msgid "Kinyarwanda"
+msgstr "Ruandäa"
+
+msgid "Korean"
+msgstr "Koreyëen"
+
+msgid "Malay"
+msgstr "Malëe"
+
+msgid "Mexican Spanish"
+msgstr "Espanyöl (Mekisîki)"
+
+msgid "Moldavian"
+msgstr "Rumëen (Moldavùii)"
+
+msgid "Nepali"
+msgstr "Nepalëe"
+
+msgid "Persian"
+msgstr "Farsî"
+
+msgid "Polish"
+msgstr "Polonëe"
+
+msgid "Portuguese"
+msgstr "Portugëe, Pûra"
+
+msgid "Punjabi"
+msgstr "Penzäbï"
+
+msgid "Romanian"
+msgstr "Rumëen"
+
+msgid "Russian"
+msgstr "Rûsi"
+
+msgid "Sango"
+msgstr "Sängö"
+
+msgid "Somali"
+msgstr "Somalïi"
+
+msgid "Spanish"
+msgstr "Espanyöl"
+
+msgid "Swedish"
+msgstr "Sueduäa"
+
+msgid "Swiss French"
+msgstr "Farânzi (Sûîsi)"
+
+msgid "Swiss High German"
+msgstr "Zâmani (Sûîsi)"
+
+msgid "Tamil"
+msgstr "Tämûli"
+
+msgid "Thai"
+msgstr "Thâi"
+
+msgid "Turkish"
+msgstr "Tûrûku"
+
+msgid "Ukrainian"
+msgstr "Ukrêni"
+
+msgid "Urdu"
+msgstr "Ûrdu"
+
+msgid "Vietnamese"
+msgstr "Vietnäm"
+
+msgid "Yoruba"
+msgstr "Yoruba"
+
+msgid "Zulu"
+msgstr "Zûlu"

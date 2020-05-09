@@ -1,0 +1,190 @@
+# CLDR language names for ebu
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: ebu\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Kĩakan"
+
+msgid "American English"
+msgstr "Kĩthungu (Marekani)"
+
+msgid "Amharic"
+msgstr "Kĩamhari"
+
+msgid "Arabic"
+msgstr "Kĩarabu"
+
+msgid "Australian English"
+msgstr "Kĩthungu (Australia)"
+
+msgid "Austrian German"
+msgstr "Kĩnjeremani (Austria)"
+
+msgid "Bangla"
+msgstr "Kĩbangla"
+
+msgid "Belarusian"
+msgstr "Kĩmbelarusi"
+
+msgid "Brazilian Portuguese"
+msgstr "Kĩreno (Brazili)"
+
+msgid "British English"
+msgstr "Kĩthungu (Uingereza)"
+
+msgid "Bulgarian"
+msgstr "Kĩbulgaria"
+
+msgid "Burmese"
+msgstr "Kĩburma"
+
+msgid "Canadian English"
+msgstr "Kĩthungu (Kanada)"
+
+msgid "Canadian French"
+msgstr "Kĩfaransa (Kanada)"
+
+msgid "Chinese"
+msgstr "Kĩchina"
+
+msgid "Czech"
+msgstr "Kĩcheki"
+
+msgid "Dutch"
+msgstr "Kĩholanzi"
+
+msgid "Embu"
+msgstr "Kĩembu"
+
+msgid "English"
+msgstr "Kĩthungu"
+
+msgid "European Portuguese"
+msgstr "Kĩreno (Ureno)"
+
+msgid "European Spanish"
+msgstr "Kĩhispania (Hispania)"
+
+msgid "Flemish"
+msgstr "Kĩholanzi (Ubelgiji)"
+
+msgid "French"
+msgstr "Kĩfaransa"
+
+msgid "German"
+msgstr "Kĩnjeremani"
+
+msgid "Greek"
+msgstr "Kĩngriki"
+
+msgid "Hausa"
+msgstr "Kĩhausa"
+
+msgid "Hindi"
+msgstr "Kĩhindĩ"
+
+msgid "Hungarian"
+msgstr "Kĩhungari"
+
+msgid "Igbo"
+msgstr "Kĩigbo"
+
+msgid "Indonesian"
+msgstr "Kĩindonesia"
+
+msgid "Italian"
+msgstr "Kĩitaliano"
+
+msgid "Japanese"
+msgstr "Kĩnjapani"
+
+msgid "Javanese"
+msgstr "Kĩjava"
+
+msgid "Khmer"
+msgstr "Kĩkambodia"
+
+msgid "Kinyarwanda"
+msgstr "Kĩnyarwanda"
+
+msgid "Korean"
+msgstr "Kĩkorea"
+
+msgid "Malay"
+msgstr "Kĩmalesia"
+
+msgid "Mexican Spanish"
+msgstr "Kĩhispania (Meksiko)"
+
+msgid "Moldavian"
+msgstr "Kĩromania (Moldova)"
+
+msgid "Nepali"
+msgstr "Kĩnepali"
+
+msgid "Persian"
+msgstr "Kĩanjemi"
+
+msgid "Polish"
+msgstr "Kĩpolandi"
+
+msgid "Portuguese"
+msgstr "Kĩreno"
+
+msgid "Punjabi"
+msgstr "Kĩpunjabi"
+
+msgid "Romanian"
+msgstr "Kĩromania"
+
+msgid "Russian"
+msgstr "Kĩrusi"
+
+msgid "Somali"
+msgstr "Kĩsomali"
+
+msgid "Spanish"
+msgstr "Kĩhispania"
+
+msgid "Swedish"
+msgstr "Kĩswidi"
+
+msgid "Swiss French"
+msgstr "Kĩfaransa (Uswisi)"
+
+msgid "Swiss High German"
+msgstr "Kĩnjeremani (Uswisi)"
+
+msgid "Tamil"
+msgstr "Kĩtamil"
+
+msgid "Thai"
+msgstr "Kĩtailandi"
+
+msgid "Turkish"
+msgstr "Kĩturuki"
+
+msgid "Ukrainian"
+msgstr "Kĩukrania"
+
+msgid "Urdu"
+msgstr "Kĩurdu"
+
+msgid "Vietnamese"
+msgstr "Kĩvietinamu"
+
+msgid "Yoruba"
+msgstr "Kĩyoruba"
+
+msgid "Zulu"
+msgstr "Kĩzulu"

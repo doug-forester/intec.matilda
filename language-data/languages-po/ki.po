@@ -1,0 +1,190 @@
+# CLDR language names for ki
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: ki\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Kiakan"
+
+msgid "American English"
+msgstr "Gĩthungũ (Amerika)"
+
+msgid "Amharic"
+msgstr "Kiamhari"
+
+msgid "Arabic"
+msgstr "Kĩarabu"
+
+msgid "Australian English"
+msgstr "Gĩthungũ (Australia)"
+
+msgid "Austrian German"
+msgstr "Kĩnjeremani (Austria)"
+
+msgid "Bangla"
+msgstr "Kibangla"
+
+msgid "Belarusian"
+msgstr "Kibelarusi"
+
+msgid "Brazilian Portuguese"
+msgstr "Kireno (Brazili)"
+
+msgid "British English"
+msgstr "Gĩthungũ (Ngeretha)"
+
+msgid "Bulgarian"
+msgstr "Kibulgaria"
+
+msgid "Burmese"
+msgstr "Kiburma"
+
+msgid "Canadian English"
+msgstr "Gĩthungũ (Kanada)"
+
+msgid "Canadian French"
+msgstr "Kĩbaranja (Kanada)"
+
+msgid "Chinese"
+msgstr "Kĩcaina"
+
+msgid "Czech"
+msgstr "Kichecki"
+
+msgid "Dutch"
+msgstr "Kiholanzi"
+
+msgid "English"
+msgstr "Gĩthungũ"
+
+msgid "European Portuguese"
+msgstr "Kireno (Ureno)"
+
+msgid "European Spanish"
+msgstr "Kihispania (Hispania)"
+
+msgid "Flemish"
+msgstr "Kiholanzi (Ubelgiji)"
+
+msgid "French"
+msgstr "Kĩbaranja"
+
+msgid "German"
+msgstr "Kĩnjeremani"
+
+msgid "Greek"
+msgstr "Kigiriki"
+
+msgid "Hausa"
+msgstr "Kihausa"
+
+msgid "Hindi"
+msgstr "Kĩhĩndĩ"
+
+msgid "Hungarian"
+msgstr "Kihungari"
+
+msgid "Igbo"
+msgstr "Kiigbo"
+
+msgid "Indonesian"
+msgstr "Kiindonesia"
+
+msgid "Italian"
+msgstr "Kĩtaliano"
+
+msgid "Japanese"
+msgstr "Kĩnjabani"
+
+msgid "Javanese"
+msgstr "Kijava"
+
+msgid "Khmer"
+msgstr "Kikambodia"
+
+msgid "Kikuyu"
+msgstr "Gikuyu"
+
+msgid "Kinyarwanda"
+msgstr "Kinyarwanda"
+
+msgid "Korean"
+msgstr "Kikorea"
+
+msgid "Malay"
+msgstr "Kimalesia"
+
+msgid "Mexican Spanish"
+msgstr "Kihispania (Meksiko)"
+
+msgid "Moldavian"
+msgstr "Kiromania (Moldova)"
+
+msgid "Nepali"
+msgstr "Kinepali"
+
+msgid "Persian"
+msgstr "Kiajemi"
+
+msgid "Polish"
+msgstr "Kipolandi"
+
+msgid "Portuguese"
+msgstr "Kireno"
+
+msgid "Punjabi"
+msgstr "Kipunjabi"
+
+msgid "Romanian"
+msgstr "Kiromania"
+
+msgid "Russian"
+msgstr "Kĩracia"
+
+msgid "Somali"
+msgstr "Kĩcumarĩ"
+
+msgid "Spanish"
+msgstr "Kihispania"
+
+msgid "Swedish"
+msgstr "Kiswidi"
+
+msgid "Swiss French"
+msgstr "Kĩbaranja (Uswisi)"
+
+msgid "Swiss High German"
+msgstr "Kĩnjeremani (Uswisi)"
+
+msgid "Tamil"
+msgstr "Kitamil"
+
+msgid "Thai"
+msgstr "Kitailandi"
+
+msgid "Turkish"
+msgstr "Kituruki"
+
+msgid "Ukrainian"
+msgstr "Kiukrania"
+
+msgid "Urdu"
+msgstr "Kiurdu"
+
+msgid "Vietnamese"
+msgstr "Kivietinamu"
+
+msgid "Yoruba"
+msgstr "Kiyoruba"
+
+msgid "Zulu"
+msgstr "Kizulu"

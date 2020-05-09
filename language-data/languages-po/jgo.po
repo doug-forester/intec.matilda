@@ -1,0 +1,52 @@
+# CLDR language names for jgo
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: jgo\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Arabic"
+msgstr "Alâbɛ"
+
+msgid "Canadian English"
+msgstr "Aŋgɛlúshi (Kanadâ)"
+
+msgid "Canadian French"
+msgstr "Fɛlánci (Kanadâ)"
+
+msgid "Chinese"
+msgstr "Shinwâ"
+
+msgid "English"
+msgstr "Aŋgɛlúshi"
+
+msgid "French"
+msgstr "Fɛlánci"
+
+msgid "German"
+msgstr "Njáman"
+
+msgid "Greek"
+msgstr "Ŋgɛlɛ̂k"
+
+msgid "Modern Standard Arabic"
+msgstr "Alâbɛ (Mbí)"
+
+msgid "Ngomba"
+msgstr "Ndaꞌa"
+
+msgid "Swiss French"
+msgstr "Fɛlánci (Sẅísɛ)"
+
+msgid "Swiss High German"
+msgstr "Njáman (Sẅísɛ)"
+
+msgid "Unknown language"
+msgstr "cú-pʉɔ yi pɛ́ ká kɛ́ jí"

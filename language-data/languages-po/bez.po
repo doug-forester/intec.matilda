@@ -1,0 +1,190 @@
+# CLDR language names for bez
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: bez\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Hiakan"
+
+msgid "American English"
+msgstr "Hiingereza (Humalekani)"
+
+msgid "Amharic"
+msgstr "Hiamhari"
+
+msgid "Arabic"
+msgstr "Hiharabu"
+
+msgid "Australian English"
+msgstr "Hiingereza (Huaustlalia)"
+
+msgid "Austrian German"
+msgstr "Hijerumani (Huastlia)"
+
+msgid "Bangla"
+msgstr "Hibangla"
+
+msgid "Belarusian"
+msgstr "Hibelarusi"
+
+msgid "Bena"
+msgstr "Hibena"
+
+msgid "Brazilian Portuguese"
+msgstr "Hileno (Hublazili)"
+
+msgid "British English"
+msgstr "Hiingereza (Huuingereza)"
+
+msgid "Bulgarian"
+msgstr "Hibulgaria"
+
+msgid "Burmese"
+msgstr "Hiburma"
+
+msgid "Canadian English"
+msgstr "Hiingereza (Hukanada)"
+
+msgid "Canadian French"
+msgstr "Hifaransa (Hukanada)"
+
+msgid "Chinese"
+msgstr "Hichina"
+
+msgid "Czech"
+msgstr "Hicheki"
+
+msgid "Dutch"
+msgstr "Hiholanzi"
+
+msgid "English"
+msgstr "Hiingereza"
+
+msgid "European Portuguese"
+msgstr "Hileno (Huuleno)"
+
+msgid "European Spanish"
+msgstr "Hihispania (Huhispania)"
+
+msgid "Flemish"
+msgstr "Hiholanzi (Huubelgiji)"
+
+msgid "French"
+msgstr "Hifaransa"
+
+msgid "German"
+msgstr "Hijerumani"
+
+msgid "Greek"
+msgstr "Higiriki"
+
+msgid "Hausa"
+msgstr "Hihausa"
+
+msgid "Hindi"
+msgstr "Hihindi"
+
+msgid "Hungarian"
+msgstr "Hihungari"
+
+msgid "Igbo"
+msgstr "Hiibo"
+
+msgid "Indonesian"
+msgstr "Hiindonesia"
+
+msgid "Italian"
+msgstr "Hiitaliano"
+
+msgid "Japanese"
+msgstr "Hijapani"
+
+msgid "Javanese"
+msgstr "Hijava"
+
+msgid "Khmer"
+msgstr "Hikambodia"
+
+msgid "Kinyarwanda"
+msgstr "Hinyarwanda"
+
+msgid "Korean"
+msgstr "Hikorea"
+
+msgid "Malay"
+msgstr "Himalesia"
+
+msgid "Mexican Spanish"
+msgstr "Hihispania (Humeksiko)"
+
+msgid "Moldavian"
+msgstr "Hilomania (Humoldova)"
+
+msgid "Nepali"
+msgstr "Hinepali"
+
+msgid "Persian"
+msgstr "Hiajemi"
+
+msgid "Polish"
+msgstr "Hipolandi"
+
+msgid "Portuguese"
+msgstr "Hileno"
+
+msgid "Punjabi"
+msgstr "Hipunjabi"
+
+msgid "Romanian"
+msgstr "Hilomania"
+
+msgid "Russian"
+msgstr "Hilusi"
+
+msgid "Somali"
+msgstr "Hisomali"
+
+msgid "Spanish"
+msgstr "Hihispania"
+
+msgid "Swedish"
+msgstr "Hiswidi"
+
+msgid "Swiss French"
+msgstr "Hifaransa (Huuswisi)"
+
+msgid "Swiss High German"
+msgstr "Hijerumani (Huuswisi)"
+
+msgid "Tamil"
+msgstr "Hitamil"
+
+msgid "Thai"
+msgstr "Hitailand"
+
+msgid "Turkish"
+msgstr "Hituluki"
+
+msgid "Ukrainian"
+msgstr "Hiukrania"
+
+msgid "Urdu"
+msgstr "Hiurdu"
+
+msgid "Vietnamese"
+msgstr "Hivietinamu"
+
+msgid "Yoruba"
+msgstr "Hiyoruba"
+
+msgid "Zulu"
+msgstr "Hizulu"

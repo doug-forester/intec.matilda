@@ -1,0 +1,190 @@
+# CLDR language names for nd
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: nd\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "isi-Akhani"
+
+msgid "American English"
+msgstr "isi-Ngisi (Amelika)"
+
+msgid "Amharic"
+msgstr "isi-Amaharikhi"
+
+msgid "Arabic"
+msgstr "isi-Alabhu"
+
+msgid "Australian English"
+msgstr "isi-Ngisi (Australia)"
+
+msgid "Austrian German"
+msgstr "isi-Jalimani (Austria)"
+
+msgid "Bangla"
+msgstr "isi-Bhengali"
+
+msgid "Belarusian"
+msgstr "isi-Bhelarashiyani"
+
+msgid "Brazilian Portuguese"
+msgstr "isi-Potukezi (Brazili)"
+
+msgid "British English"
+msgstr "isi-Ngisi (United Kingdom)"
+
+msgid "Bulgarian"
+msgstr "isi-Bulgaria"
+
+msgid "Burmese"
+msgstr "isi-Burma"
+
+msgid "Canadian English"
+msgstr "isi-Ngisi (Khanada)"
+
+msgid "Canadian French"
+msgstr "isi-Fulentshi (Khanada)"
+
+msgid "Chinese"
+msgstr "isi-China"
+
+msgid "Czech"
+msgstr "isi-Czech"
+
+msgid "Dutch"
+msgstr "isi-Dutch"
+
+msgid "English"
+msgstr "isi-Ngisi"
+
+msgid "European Portuguese"
+msgstr "isi-Potukezi (Portugal)"
+
+msgid "European Spanish"
+msgstr "isi-Sipeyini (Spain)"
+
+msgid "Flemish"
+msgstr "isi-Dutch (Bhelgium)"
+
+msgid "French"
+msgstr "isi-Fulentshi"
+
+msgid "German"
+msgstr "isi-Jalimani"
+
+msgid "Greek"
+msgstr "isi-Giliki"
+
+msgid "Hausa"
+msgstr "isi-Hausa"
+
+msgid "Hindi"
+msgstr "isi-Hindi"
+
+msgid "Hungarian"
+msgstr "isi-Hangari"
+
+msgid "Igbo"
+msgstr "isi-Igbo"
+
+msgid "Indonesian"
+msgstr "isi-Indonesia"
+
+msgid "Italian"
+msgstr "isi-Italiano"
+
+msgid "Japanese"
+msgstr "isi-Japhani"
+
+msgid "Javanese"
+msgstr "isi-Java"
+
+msgid "Khmer"
+msgstr "isi-Khambodiya"
+
+msgid "Kinyarwanda"
+msgstr "isi-Ruwanda"
+
+msgid "Korean"
+msgstr "isi-Koriya"
+
+msgid "Malay"
+msgstr "isi-Malayi"
+
+msgid "Mexican Spanish"
+msgstr "isi-Sipeyini (Meksikho)"
+
+msgid "Moldavian"
+msgstr "isi-Romani (Moldova)"
+
+msgid "Nepali"
+msgstr "isi-Nepali"
+
+msgid "North Ndebele"
+msgstr "isiNdebele"
+
+msgid "Persian"
+msgstr "isi-Pheshiyani"
+
+msgid "Polish"
+msgstr "isi-Pholoshi"
+
+msgid "Portuguese"
+msgstr "isi-Potukezi"
+
+msgid "Punjabi"
+msgstr "isi-Phunjabi"
+
+msgid "Romanian"
+msgstr "isi-Romani"
+
+msgid "Russian"
+msgstr "isi-Rashiya"
+
+msgid "Somali"
+msgstr "isi-Somali"
+
+msgid "Spanish"
+msgstr "isi-Sipeyini"
+
+msgid "Swedish"
+msgstr "isi-Swidishi"
+
+msgid "Swiss French"
+msgstr "isi-Fulentshi (Switzerland)"
+
+msgid "Swiss High German"
+msgstr "isi-Jalimani (Switzerland)"
+
+msgid "Tamil"
+msgstr "isi-Thamil"
+
+msgid "Thai"
+msgstr "isi-Thayi"
+
+msgid "Turkish"
+msgstr "isi-Thekishi"
+
+msgid "Ukrainian"
+msgstr "isi-Ukrain"
+
+msgid "Urdu"
+msgstr "isi-Udu"
+
+msgid "Vietnamese"
+msgstr "isi-Vietnamese"
+
+msgid "Yoruba"
+msgstr "isi-Yorubha"
+
+msgid "Zulu"
+msgstr "isi-Zulu"

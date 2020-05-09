@@ -1,0 +1,205 @@
+# CLDR language names for sah
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: sah\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Abkhazian"
+msgstr "Абхаастыы"
+
+msgid "Afrikaans"
+msgstr "Аппырыкааныстыы"
+
+msgid "Albanian"
+msgstr "Албаанныы"
+
+msgid "Aleut"
+msgstr "Алеуттуу"
+
+msgid "American English"
+msgstr "Ааҥыллыы (Америка Холбоһуктаах Штааттара)"
+
+msgid "Amharic"
+msgstr "Амхаардыы"
+
+msgid "Arabic"
+msgstr "Араабтыы"
+
+msgid "Armenian"
+msgstr "Эрмээннии"
+
+msgid "Asturian"
+msgstr "Астуурдуу"
+
+msgid "Avaric"
+msgstr "Аваардыы"
+
+msgid "Azerbaijani"
+msgstr "Адьырбайдьаанныы"
+
+msgid "Bangla"
+msgstr "Бенгаллыы"
+
+msgid "Belarusian"
+msgstr "Бөлөрүүстүү"
+
+msgid "Bosnian"
+msgstr "Босныйалыы"
+
+msgid "Brazilian Portuguese"
+msgstr "Португааллыы (Бразилия)"
+
+msgid "British English"
+msgstr "Ааҥыллыы (Улуу Британия)"
+
+msgid "Bulgarian"
+msgstr "Булҕаардыы"
+
+msgid "Canadian English"
+msgstr "Ааҥыллыы (Канаада)"
+
+msgid "Canadian French"
+msgstr "Боронсуустуу (Канаада)"
+
+msgid "Catalan"
+msgstr "Каталаанныы"
+
+msgid "Central Kurdish"
+msgstr "Киин куурдуу"
+
+msgid "Chechen"
+msgstr "Чэчиэннии"
+
+msgid "Chinese"
+msgstr "Кытайдыы"
+
+msgid "Czech"
+msgstr "Чиэхтии"
+
+msgid "Danish"
+msgstr "Даатскайдыы"
+
+msgid "English"
+msgstr "Ааҥыллыы"
+
+msgid "Estonian"
+msgstr "Эстиэнийэлии"
+
+msgid "Filipino"
+msgstr "Пилипииннии"
+
+msgid "Finnish"
+msgstr "Пииннии"
+
+msgid "French"
+msgstr "Боронсуустуу"
+
+msgid "Georgian"
+msgstr "Курусууннуу"
+
+msgid "German"
+msgstr "Ниэмэстии"
+
+msgid "Greek"
+msgstr "Гириэктии"
+
+msgid "Hungarian"
+msgstr "Бэҥгиэрдии"
+
+msgid "Italian"
+msgstr "Ытаалыйалыы"
+
+msgid "Japanese"
+msgstr "Дьоппуоннуу"
+
+msgid "Kazakh"
+msgstr "Хаһаахтыы"
+
+msgid "Korean"
+msgstr "Кэриэйдии"
+
+msgid "Kyrgyz"
+msgstr "Кыргыстыы"
+
+msgid "Latin"
+msgstr "Латыынныы"
+
+msgid "Malay"
+msgstr "Малаайдыы"
+
+msgid "Mexican Spanish"
+msgstr "Ыспаанныы (Миэксикэ)"
+
+msgid "Modern Standard Arabic"
+msgstr "Араабтыы (Аан дойду)"
+
+msgid "Mongolian"
+msgstr "Моҕуоллуу"
+
+msgid "Nepali"
+msgstr "Ньыпааллыы"
+
+msgid "Nogai"
+msgstr "Нагаайдыы"
+
+msgid "Persian"
+msgstr "Пиэристии"
+
+msgid "Portuguese"
+msgstr "Португааллыы"
+
+msgid "Punjabi"
+msgstr "Пандьаабтыы"
+
+msgid "Romanian"
+msgstr "Румыынныы"
+
+msgid "Russian"
+msgstr "Нууччалыы"
+
+msgid "Sakha"
+msgstr "саха тыла"
+
+msgid "Slovak"
+msgstr "Словаактыы"
+
+msgid "Spanish"
+msgstr "Ыспаанныы"
+
+msgid "Tajik"
+msgstr "Тадьыыктыы"
+
+msgid "Tamil"
+msgstr "Тамыллыы"
+
+msgid "Tatar"
+msgstr "Татаардыы"
+
+msgid "Telugu"
+msgstr "Төлүгүлүү"
+
+msgid "Tibetan"
+msgstr "Тибиэттии"
+
+msgid "US English"
+msgstr "Ааҥыллыы (АХШ)"
+
+msgid "Ukrainian"
+msgstr "Украйыыньыстыы"
+
+msgid "Uyghur"
+msgstr "Уйгуурдуу"
+
+msgid "Uzbek"
+msgstr "Үзбиэктии"
+
+msgid "Zulu"
+msgstr "Зуулулуу"

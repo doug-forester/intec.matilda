@@ -1,0 +1,520 @@
+# CLDR language names for tt
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: tt\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Afrikaans"
+msgstr "африкаанс"
+
+msgid "Albanian"
+msgstr "албан"
+
+msgid "American English"
+msgstr "Америка инглизчәсе"
+
+msgid "Amharic"
+msgstr "амхар"
+
+msgid "Arabic"
+msgstr "гарәп"
+
+msgid "Armenian"
+msgstr "әрмән"
+
+msgid "Assamese"
+msgstr "ассам"
+
+msgid "Australian English"
+msgstr "инглиз (Австралия)"
+
+msgid "Austrian German"
+msgstr "алман (Австрия)"
+
+msgid "Azerbaijani"
+msgstr "әзәрбайҗан"
+
+msgid "Balinese"
+msgstr "бали"
+
+msgid "Bangla"
+msgstr "бенгали"
+
+msgid "Bashkir"
+msgstr "башкорт"
+
+msgid "Basque"
+msgstr "баск"
+
+msgid "Belarusian"
+msgstr "белорус"
+
+msgid "Bemba"
+msgstr "бемба"
+
+msgid "Bosnian"
+msgstr "босния"
+
+msgid "Brazilian Portuguese"
+msgstr "португал (Бразилия)"
+
+msgid "Breton"
+msgstr "бретон"
+
+msgid "British English"
+msgstr "Британия инглизчәсе"
+
+msgid "Bulgarian"
+msgstr "болгар"
+
+msgid "Burmese"
+msgstr "бирма"
+
+msgid "Canadian English"
+msgstr "инглиз (Канада)"
+
+msgid "Canadian French"
+msgstr "француз (Канада)"
+
+msgid "Catalan"
+msgstr "каталан"
+
+msgid "Cebuano"
+msgstr "себуано"
+
+msgid "Central Atlas Tamazight"
+msgstr "үзәк атлас тамазигт"
+
+msgid "Central Kurdish"
+msgstr "үзәк көрд"
+
+msgid "Cherokee"
+msgstr "чероки"
+
+msgid "Chinese"
+msgstr "кытай (тәрҗемә киңәше: аерым алганда, мандарин кытайчасы)"
+
+msgid "Chinese, Mandarin"
+msgstr "мандарин кытайчасы"
+
+msgid "Corsican"
+msgstr "корсика"
+
+msgid "Croatian"
+msgstr "хорват"
+
+msgid "Czech"
+msgstr "чех"
+
+msgid "Danish"
+msgstr "дания"
+
+msgid "Divehi"
+msgstr "мальдив"
+
+msgid "Dutch"
+msgstr "голланд"
+
+msgid "Dzongkha"
+msgstr "дзонг-кха"
+
+msgid "English"
+msgstr "инглиз"
+
+msgid "Esperanto"
+msgstr "эсперанто"
+
+msgid "Estonian"
+msgstr "эстон"
+
+msgid "European Portuguese"
+msgstr "португал (Европа)"
+
+msgid "European Spanish"
+msgstr "испан (Европа)"
+
+msgid "Faroese"
+msgstr "фарер"
+
+msgid "Filipino"
+msgstr "филиппин"
+
+msgid "Finnish"
+msgstr "фин"
+
+msgid "Flemish"
+msgstr "голланд (Бельгия)"
+
+msgid "French"
+msgstr "француз"
+
+msgid "Fulah"
+msgstr "фула"
+
+msgid "Galician"
+msgstr "галисия"
+
+msgid "Georgian"
+msgstr "грузин"
+
+msgid "German"
+msgstr "алман"
+
+msgid "Greek"
+msgstr "грек"
+
+msgid "Guarani"
+msgstr "гуарани"
+
+msgid "Gujarati"
+msgstr "гуҗарати"
+
+msgid "Haitian Creole"
+msgstr "гаити креол"
+
+msgid "Hausa"
+msgstr "хауса"
+
+msgid "Hawaiian"
+msgstr "гавайи"
+
+msgid "Hebrew"
+msgstr "яһүд"
+
+msgid "Herero"
+msgstr "гереро"
+
+msgid "Hiligaynon"
+msgstr "хилигайнон"
+
+msgid "Hindi"
+msgstr "һинд"
+
+msgid "Hungarian"
+msgstr "венгр"
+
+msgid "Ibibio"
+msgstr "ибибио"
+
+msgid "Icelandic"
+msgstr "исланд"
+
+msgid "Igbo"
+msgstr "игбо"
+
+msgid "Inari Sami"
+msgstr "инари-саам"
+
+msgid "Indonesian"
+msgstr "индонезия"
+
+msgid "Inuktitut"
+msgstr "инуктикут"
+
+msgid "Irish"
+msgstr "ирланд"
+
+msgid "Italian"
+msgstr "итальян"
+
+msgid "Japanese"
+msgstr "япон"
+
+msgid "Kannada"
+msgstr "каннада"
+
+msgid "Kanuri"
+msgstr "канури"
+
+msgid "Kashmiri"
+msgstr "кашмири"
+
+msgid "Kazakh"
+msgstr "казакъ"
+
+msgid "Khmer"
+msgstr "кхмер"
+
+msgid "Kinyarwanda"
+msgstr "руанда"
+
+msgid "Konkani"
+msgstr "конкани"
+
+msgid "Korean"
+msgstr "корея"
+
+msgid "Kurdish"
+msgstr "көрд"
+
+msgid "Kurukh"
+msgstr "курух"
+
+msgid "Kyrgyz"
+msgstr "кыргыз"
+
+msgid "Kʼicheʼ"
+msgstr "киче"
+
+msgid "Lao"
+msgstr "лаос"
+
+msgid "Latin"
+msgstr "латин"
+
+msgid "Latin American Spanish"
+msgstr "испан (Латин Америкасы)"
+
+msgid "Latvian"
+msgstr "латыш"
+
+msgid "Lithuanian"
+msgstr "литва"
+
+msgid "Lower Sorbian"
+msgstr "түбән сорб"
+
+msgid "Lule Sami"
+msgstr "луле-саам"
+
+msgid "Luxembourgish"
+msgstr "люксембург"
+
+msgid "Macedonian"
+msgstr "македон"
+
+msgid "Malagasy"
+msgstr "малагаси"
+
+msgid "Malay"
+msgstr "малай"
+
+msgid "Malayalam"
+msgstr "малаялам"
+
+msgid "Maltese"
+msgstr "мальта"
+
+msgid "Manipuri"
+msgstr "манипури"
+
+msgid "Maori"
+msgstr "маори"
+
+msgid "Mapuche"
+msgstr "мапуче"
+
+msgid "Marathi"
+msgstr "маратхи"
+
+msgid "Mari"
+msgstr "мари"
+
+msgid "Mende"
+msgstr "менде"
+
+msgid "Mexican Spanish"
+msgstr "испан (Мексика)"
+
+msgid "Mohawk"
+msgstr "могаук"
+
+msgid "Moldavian"
+msgstr "румын (Молдова)"
+
+msgid "Mongolian"
+msgstr "монгол"
+
+msgid "Nepali"
+msgstr "непали"
+
+msgid "Niuean"
+msgstr "ниуэ"
+
+msgid "Northern Sami"
+msgstr "төньяк саам"
+
+msgid "Nyanja"
+msgstr "ньянҗа"
+
+msgid "Occitan"
+msgstr "окситан"
+
+msgid "Odia"
+msgstr "ория"
+
+msgid "Oromo"
+msgstr "оромо"
+
+msgid "Papiamento"
+msgstr "папьяменто"
+
+msgid "Pashto"
+msgstr "пушту"
+
+msgid "Persian"
+msgstr "фарсы"
+
+msgid "Polish"
+msgstr "поляк"
+
+msgid "Portuguese"
+msgstr "португал"
+
+msgid "Punjabi"
+msgstr "пәнҗаби"
+
+msgid "Quechua"
+msgstr "кечуа"
+
+msgid "Romanian"
+msgstr "румын"
+
+msgid "Romansh"
+msgstr "ретороман"
+
+msgid "Russian"
+msgstr "рус"
+
+msgid "Sakha"
+msgstr "саха"
+
+msgid "Sanskrit"
+msgstr "санскрит"
+
+msgid "Santali"
+msgstr "сантали"
+
+msgid "Scottish Gaelic"
+msgstr "шотланд гэль"
+
+msgid "Serbian"
+msgstr "серб"
+
+msgid "Simplified Chinese"
+msgstr "гадиләштерелгән кытай"
+
+msgid "Simplified Mandarin Chinese"
+msgstr "гадиләштерелгән мандарин кытайчасы"
+
+msgid "Sindhi"
+msgstr "синдһи"
+
+msgid "Sinhala"
+msgstr "сингал"
+
+msgid "Skolt Sami"
+msgstr "колтта-саам"
+
+msgid "Slovak"
+msgstr "словак"
+
+msgid "Slovenian"
+msgstr "словен"
+
+msgid "Somali"
+msgstr "сомали"
+
+msgid "Southern Sami"
+msgstr "көньяк саам"
+
+msgid "Spanish"
+msgstr "испан"
+
+msgid "Swedish"
+msgstr "швед"
+
+msgid "Swiss French"
+msgstr "француз (Швейцария)"
+
+msgid "Swiss High German"
+msgstr "югары алман (Швейцария)"
+
+msgid "Syriac"
+msgstr "сүрия"
+
+msgid "Tajik"
+msgstr "таҗик"
+
+msgid "Tamil"
+msgstr "тамил"
+
+msgid "Tatar"
+msgstr "татар"
+
+msgid "Telugu"
+msgstr "телугу"
+
+msgid "Thai"
+msgstr "тай"
+
+msgid "Tibetan"
+msgstr "тибет"
+
+msgid "Tigrinya"
+msgstr "тигринья"
+
+msgid "Tongan"
+msgstr "тонга"
+
+msgid "Traditional Chinese"
+msgstr "традицион кытай"
+
+msgid "Traditional Mandarin Chinese"
+msgstr "традицион мандарин кытайчасы"
+
+msgid "Turkish"
+msgstr "төрек"
+
+msgid "Turkmen"
+msgstr "төрекмән"
+
+msgid "UK English"
+msgstr "инглиз (Берләшкән Корольлек)"
+
+msgid "US English"
+msgstr "инглиз (АКШ)"
+
+msgid "Ukrainian"
+msgstr "украин"
+
+msgid "Unknown language"
+msgstr "билгесез тел"
+
+msgid "Upper Sorbian"
+msgstr "югары сорб"
+
+msgid "Urdu"
+msgstr "урду"
+
+msgid "Uyghur"
+msgstr "уйгыр"
+
+msgid "Uzbek"
+msgstr "үзбәк"
+
+msgid "Venda"
+msgstr "венда"
+
+msgid "Vietnamese"
+msgstr "вьетнам"
+
+msgid "Welsh"
+msgstr "уэльс"
+
+msgid "Wolof"
+msgstr "волоф"
+
+msgid "Yiddish"
+msgstr "идиш"
+
+msgid "Yoruba"
+msgstr "йоруба"

@@ -1,0 +1,190 @@
+# CLDR language names for sn
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: sn\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "chiAkani"
+
+msgid "American English"
+msgstr "Chirungu (Amerika)"
+
+msgid "Amharic"
+msgstr "chiAmaric"
+
+msgid "Arabic"
+msgstr "chiArabu"
+
+msgid "Australian English"
+msgstr "Chirungu (Australia)"
+
+msgid "Austrian German"
+msgstr "chiJerimani (Austria)"
+
+msgid "Bangla"
+msgstr "chiBengali"
+
+msgid "Belarusian"
+msgstr "chiBelarusi"
+
+msgid "Brazilian Portuguese"
+msgstr "chiPutukezi (Brazil)"
+
+msgid "British English"
+msgstr "Chirungu (United Kingdom)"
+
+msgid "Bulgarian"
+msgstr "chiBulgarian"
+
+msgid "Burmese"
+msgstr "chiBurma"
+
+msgid "Canadian English"
+msgstr "Chirungu (Kanada)"
+
+msgid "Canadian French"
+msgstr "chiFurenchi (Kanada)"
+
+msgid "Chinese"
+msgstr "chiChinese"
+
+msgid "Czech"
+msgstr "chiCzech"
+
+msgid "Dutch"
+msgstr "chiDutch"
+
+msgid "English"
+msgstr "Chirungu"
+
+msgid "European Portuguese"
+msgstr "chiPutukezi (Portugal)"
+
+msgid "European Spanish"
+msgstr "chiSpanish (Spain)"
+
+msgid "Flemish"
+msgstr "chiDutch (Beljium)"
+
+msgid "French"
+msgstr "chiFurenchi"
+
+msgid "German"
+msgstr "chiJerimani"
+
+msgid "Greek"
+msgstr "chiGreek"
+
+msgid "Hausa"
+msgstr "chiHausa"
+
+msgid "Hindi"
+msgstr "chiHindi"
+
+msgid "Hungarian"
+msgstr "chiHungari"
+
+msgid "Igbo"
+msgstr "chiIgbo"
+
+msgid "Indonesian"
+msgstr "chiIndonesia"
+
+msgid "Italian"
+msgstr "chiTariana"
+
+msgid "Japanese"
+msgstr "chiJapani"
+
+msgid "Javanese"
+msgstr "chiJava"
+
+msgid "Khmer"
+msgstr "chiKhema"
+
+msgid "Kinyarwanda"
+msgstr "chiRwanda"
+
+msgid "Korean"
+msgstr "chiKoria"
+
+msgid "Malay"
+msgstr "chiMalay"
+
+msgid "Mexican Spanish"
+msgstr "chiSpanish (Mexico)"
+
+msgid "Moldavian"
+msgstr "chiRomanian (Moldova)"
+
+msgid "Nepali"
+msgstr "chiNepali"
+
+msgid "Persian"
+msgstr "chiPeshiya"
+
+msgid "Polish"
+msgstr "chiPolish"
+
+msgid "Portuguese"
+msgstr "chiPutukezi"
+
+msgid "Punjabi"
+msgstr "chiPunjabi"
+
+msgid "Romanian"
+msgstr "chiRomanian"
+
+msgid "Russian"
+msgstr "chiRashiya"
+
+msgid "Shona"
+msgstr "chiShona"
+
+msgid "Somali"
+msgstr "chiSomali"
+
+msgid "Spanish"
+msgstr "chiSpanish"
+
+msgid "Swedish"
+msgstr "chiSwedish"
+
+msgid "Swiss French"
+msgstr "chiFurenchi (Switzerland)"
+
+msgid "Swiss High German"
+msgstr "chiJerimani (Switzerland)"
+
+msgid "Tamil"
+msgstr "chiTamil"
+
+msgid "Thai"
+msgstr "chiThai"
+
+msgid "Turkish"
+msgstr "chiTurkish"
+
+msgid "Ukrainian"
+msgstr "chiUkrenia"
+
+msgid "Urdu"
+msgstr "chiUrdu"
+
+msgid "Vietnamese"
+msgstr "chiVietnam"
+
+msgid "Yoruba"
+msgstr "chiYoruba"
+
+msgid "Zulu"
+msgstr "chiZulu"

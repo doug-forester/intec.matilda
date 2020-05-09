@@ -1,0 +1,163 @@
+# CLDR language names for mgh
+# Automatically generated using tools available at
+# https://github.com/WeblateOrg/language-data
+
+msgid ""
+msgstr ""
+"Project-Id-Version: Weblate\n"
+"Language: mgh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Weblate\n"
+
+
+msgid "Akan"
+msgstr "Ikan"
+
+msgid "American English"
+msgstr "Ingilishi (Umarekani)"
+
+msgid "Amharic"
+msgstr "Imhari"
+
+msgid "Arabic"
+msgstr "Iarabu"
+
+msgid "Bangla"
+msgstr "Ibangla"
+
+msgid "Belarusian"
+msgstr "Ibelausi"
+
+msgid "Bulgarian"
+msgstr "Ibulgaria"
+
+msgid "Burmese"
+msgstr "Iburma"
+
+msgid "Canadian English"
+msgstr "Ingilishi (Ukanada)"
+
+msgid "Canadian French"
+msgstr "Ifaransa (Ukanada)"
+
+msgid "Chinese"
+msgstr "Ichina"
+
+msgid "Czech"
+msgstr "Icheki"
+
+msgid "Dutch"
+msgstr "Iholanzi"
+
+msgid "English"
+msgstr "Ingilishi"
+
+msgid "European Spanish"
+msgstr "Ihispaniola (Uhispania)"
+
+msgid "French"
+msgstr "Ifaransa"
+
+msgid "German"
+msgstr "Ijerimani"
+
+msgid "Greek"
+msgstr "Igiriki"
+
+msgid "Hausa"
+msgstr "Ihausa"
+
+msgid "Hindi"
+msgstr "Ihindi"
+
+msgid "Hungarian"
+msgstr "Ihungari"
+
+msgid "Igbo"
+msgstr "Igbo"
+
+msgid "Italian"
+msgstr "Italiano"
+
+msgid "Japanese"
+msgstr "Ijapani"
+
+msgid "Javanese"
+msgstr "Ijava"
+
+msgid "Khmer"
+msgstr "Ikambodia"
+
+msgid "Kinyarwanda"
+msgstr "Inyaranda"
+
+msgid "Korean"
+msgstr "Ikorea"
+
+msgid "Makhuwa-Meetto"
+msgstr "Makua"
+
+msgid "Malay"
+msgstr "Imalesia"
+
+msgid "Nepali"
+msgstr "Inepali"
+
+msgid "Persian"
+msgstr "Iajemi"
+
+msgid "Polish"
+msgstr "Ipolandi"
+
+msgid "Portuguese"
+msgstr "Nreno"
+
+msgid "Punjabi"
+msgstr "Ipunjabi"
+
+msgid "Romanian"
+msgstr "Iromania"
+
+msgid "Russian"
+msgstr "Irisi"
+
+msgid "Somali"
+msgstr "Isomali"
+
+msgid "Spanish"
+msgstr "Ihispaniola"
+
+msgid "Swedish"
+msgstr "Iswidi"
+
+msgid "Swiss French"
+msgstr "Ifaransa (Uswisi)"
+
+msgid "Swiss High German"
+msgstr "Ijerimani (Uswisi)"
+
+msgid "Tamil"
+msgstr "Itamil"
+
+msgid "Thai"
+msgstr "Itailandi"
+
+msgid "Turkish"
+msgstr "Ituruki"
+
+msgid "Ukrainian"
+msgstr "Iukran"
+
+msgid "Urdu"
+msgstr "Ihurdu"
+
+msgid "Vietnamese"
+msgstr "Ivyetinamu"
+
+msgid "Yoruba"
+msgstr "Iyoruba"
+
+msgid "Zulu"
+msgstr "Izulu"
