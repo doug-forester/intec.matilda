@@ -1,0 +1,147 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.basket.basket/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_COLUMNS_LIST_MOBILE%27]
+msgid "Колонки, отображаемые на мобильных устройствах"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_DEFERRED_REFRESH%27]
+msgid ""
+"Использовать механизм отложенной актуализации данных товаров с провайдером"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_USE_DYNAMIC_SCROLL%27]
+msgid "Использовать динамическую подгрузку товаров"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_SHOW_FILTER%27]
+msgid "Отображать фильтр товаров"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_SHOW_RESTORE%27]
+msgid "Разрешить восстановление удалённых товаров"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_EMPTY_BASKET_HINT_PATH%27]
+msgid "Ссылка для продолжения покупок"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_TOTAL_BLOCK_DISPLAY%27]
+msgid "Отображение блока с общей информацией по корзине"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_TOTAL_BLOCK_DISPLAY_TOP%27]
+msgid "Над корзиной"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_TOTAL_BLOCK_DISPLAY_BOTTOM%27]
+msgid "Под корзиной"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_PRICE_DISPLAY_MODE%27]
+msgid "Отображать цену в отдельной колонке"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_SHOW_DISCOUNT_PERCENT%27]
+msgid "Отображать процент скидки рядом с изображением"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_DISCOUNT_PERCENT_POSITION%27]
+msgid "Расположение процента скидки"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_PRODUCT_BLOCKS_ORDER%27]
+msgid "Порядок отображения блоков товара"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_PRODUCT_BLOCKS_ORDER_PROPERTIES%27]
+msgid "Свойства корзины"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_PRODUCT_BLOCKS_ORDER_SKU%27]
+msgid "Торговое предложение"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_PRODUCT_BLOCKS_ORDER_COLUMNS%27]
+msgid "Свойства товара"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_USE_PRICE_ANIMATION%27]
+msgid "Использовать анимацию цен"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_LABEL_PROP%27]
+msgid "Свойства меток товара"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_LABEL_PROP_MOBILE%27]
+msgid "Свойства меток товара, отображаемые на мобильных устройствах"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_LABEL_PROP_POSITION%27]
+msgid "Расположение меток товара"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_OFFERS_PROPS%27]
+msgid "Свойства, влияющие на пересчет корзины"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_USE_ENHANCED_ECOMMERCE%27]
+msgid "Отправлять данные электронной торговли в Google и Яндекс"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_DATA_LAYER_NAME%27]
+msgid "Имя контейнера данных"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_BRAND_PROPERTY%27]
+msgid "Свойство брендов"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_ORDER_FAST%27]
+msgid "Быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_ORDER_FAST_USE%27]
+msgid "Использовать быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_ORDER_FAST_TEMPLATE%27]
+msgid "Быстрый заказ. Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_GIFTS_PAGE_COUNT%27]
+msgid "Количество отображаемых элементов"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_TEMPLATE_DEFAULT_1_GIFTS_COLUMNS%27]
+msgid "Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27SHOW_FILTER_TIP%27]
+msgid "Для мобильных устройств фильтр не отображается."
+msgstr ""
+
+#: %24MESS[%27USE_ENHANCED_ECOMMERCE_TIP%27]
+msgid ""
+"Требуется дополнительная настройка в Google Analytics Enhanced Ecommerce и/"
+"или Яндекс.Метрике"
+msgstr ""
+
+#: %24MESS[%27EMPTY_BASKET_HINT_PATH_TIP%27]
+msgid ""
+"Ссылка для продолжения покупок отображается в случае если корзина пуста.<br>"
+"При условии, что путь пустой, текст не будет отображен."
+msgstr ""

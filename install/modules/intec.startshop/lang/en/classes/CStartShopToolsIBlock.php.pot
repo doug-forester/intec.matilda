@@ -1,0 +1,30 @@
+#. extracted from install/modules/intec.startshop/lang/en/classes/CStartShopToolsIBlock.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27cstartshoptoolsiblock.properties.quantity%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27cstartshoptoolsiblock.properties.quantity_ratio%27]
+msgid "Коэффициент количества"
+msgstr ""
+
+#: %24MESS[%27cstartshoptoolsiblock.properties.currency%27]
+msgid "Валюта для \"#PRICE_TYPE#\""
+msgstr ""
+
+#: %24MESS[%27cstartshoptoolsiblock.properties.offers_link_property%27]
+msgid "Свойство привязки к товару"
+msgstr ""

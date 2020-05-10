@@ -1,0 +1,54 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news.detail/store.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_DATE%22]
+msgid "Display element date"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_NAME%22]
+msgid "Display element title"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_PICTURE%22]
+msgid "Display element detail image"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_TEXT%22]
+msgid "Display element preview text"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_USE_SHARE%22]
+msgid "Show Social Network Bookmarks Bar"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_SHARE_HIDE%22]
+msgid "Hide Social Network Bookmarks Bar By Default"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_SHARE_TEMPLATE%22]
+msgid "Social Network Bookmarks Template"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_SHARE_SYSTEM%22]
+msgid "Use Social Networks And Bookmarks"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_SHARE_SHORTEN_URL_LOGIN%22]
+msgid "bit.ly Login"
+msgstr ""
+
+#: %24MESS[%22T_IBLOCK_DESC_NEWS_SHARE_SHORTEN_URL_KEY%22]
+msgid "bit.ly Key"
+msgstr ""

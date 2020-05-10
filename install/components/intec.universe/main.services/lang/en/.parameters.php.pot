@@ -1,0 +1,102 @@
+#. extracted from install/components/intec.universe/main.services/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:27-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_SERVICES_GROUPS_SORT%27]
+msgid "Параметры сортировки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_SECTIONS%27]
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_ELEMENTS_COUNT%27]
+msgid "Кол-во выводимых элементов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_HEADER_BLOCK_SHOW%27]
+msgid "Показывать заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_HEADER_BLOCK_POSITION%27]
+msgid "Выравнивание текста заголовока блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_HEADER_BLOCK_TEXT%27]
+msgid "Текст заголовка блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_HEADER_BLOCK_TEXT_DEFAULT%27]
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_DESCRIPTION_BLOCK_SHOW%27]
+msgid "Показывать описание блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_DESCRIPTION_BLOCK_POSITION%27]
+msgid "Выравнивание текста описания блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_DESCRIPTION_BLOCK_TEXT%27]
+msgid "Текст описания блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_LIST_PAGE_URL%27]
+msgid "URL, ведущий на страницу с услугами"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_SECTION_URL%27]
+msgid "URL, ведущий на страницу с содержимым раздела"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_DETAIL_URL%27]
+msgid "URL, ведущий на страницу с содержимым элемента раздела"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_SORT_BY%27]
+msgid "Свойство для сортировки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_ORDER_BY%27]
+msgid "Направление сортировки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_ORDER_BY_ASC%27]
+msgid "По возрастанию"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_ORDER_BY_DESC%27]
+msgid "По убыванию"
+msgstr ""

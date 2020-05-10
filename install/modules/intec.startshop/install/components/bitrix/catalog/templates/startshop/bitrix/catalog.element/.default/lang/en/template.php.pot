@@ -1,0 +1,170 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/catalog/templates/startshop/bitrix/catalog.element/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SH_CE_DEFAULT_CML2_ARTICLE%27]
+msgid "Артикул"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_ADD_TO_BASKET%27]
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_ADDED_TO_BASKET%27]
+msgid "Добавлено"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_PRODUCT_AVAILABLE%27]
+msgid "В наличии"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_PRODUCT_NOT_AVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_SHOW_ALL_PROPERTIES%27]
+msgid "Все характеристики"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_SECTION_DESCRIPTION%27]
+msgctxt "$MESS['SH_CE_DEFAULT_SECTION_DESCRIPTION']"
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27SH_CE_DEFAULT_SECTION_PROPERTIES%27]
+msgctxt "$MESS['SH_CE_DEFAULT_SECTION_PROPERTIES']"
+msgid "Характеристики"
+msgstr ""
+
+#: %24MESS[%27REVIEWS_TITLE%27]
+msgctxt "$MESS['REVIEWS_TITLE']"
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%27DOCUMENTS_TITLE%27]
+msgctxt "$MESS['DOCUMENTS_TITLE']"
+msgid "Документы"
+msgstr ""
+
+#: %24MESS[%27DOCUMENTS_SIZE%27]
+msgid "Размер"
+msgstr ""
+
+#: %24MESS[%27DOCUMENTS_VALUE%27]
+msgid "КБ"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_REVIEWS%22]
+msgctxt "$MESS[\"PRODUCT_REVIEWS\"]"
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_DOCUMENTS%22]
+msgctxt "$MESS[\"PRODUCT_DOCUMENTS\"]"
+msgid "Документы"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_DESCRIPTION%22]
+msgctxt "$MESS[\"PRODUCT_DESCRIPTION\"]"
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_ACCESSORIES%22]
+msgid "Аксессуары"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_GOING_GOODS%22]
+msgid "Сопутствующие товары"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_YOU_LOOKED%22]
+msgid "Вы смотрели"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_PROPERTIES%22]
+msgctxt "$MESS[\"PRODUCT_PROPERTIES\"]"
+msgid "Характеристики"
+msgstr ""
+
+#: %24MESS[%27MARK_HIT%27]
+msgid "Хит"
+msgstr ""
+
+#: %24MESS[%27MARK_NEW%27]
+msgid "Новинка"
+msgstr ""
+
+#: %24MESS[%27MARK_RECOMEND%27]
+msgid "Рекомендуем"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_BUY%22]
+msgid "Успей купить!"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_COMPLETED%22]
+msgid "Акция завершена"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_TIME_TO_END%22]
+msgid "До конца продаж осталось"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_JANUARY%22]
+msgid "Январь"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_FEBRUARY%22]
+msgid "Февраль"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_MARCH%22]
+msgid "Март"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_APRIL%22]
+msgid "Апрель"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_MAY%22]
+msgid "Май"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_JUNE%22]
+msgid "Июнь"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_JULY%22]
+msgid "Июль"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_AUGUST%22]
+msgid "Август"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_SEPTEMBER%22]
+msgid "Сентябрь"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_OCTOBER%22]
+msgid "Октябрь"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_NOVEMBER%22]
+msgid "Ноябрь"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_OF_DAY_MONTH_DECEMBER%22]
+msgid "Декабрь"
+msgstr ""

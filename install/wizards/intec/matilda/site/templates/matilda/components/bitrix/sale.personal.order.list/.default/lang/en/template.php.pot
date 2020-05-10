@@ -1,0 +1,172 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.personal.order.list/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_FILTER_CURRENT%27]
+msgid "Текущие заказы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_FILTER_COMPLETED%27]
+msgid "Выполненные заказы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_FILTER_CANCELED%27]
+msgid "Отмененные заказы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_CUR_ORDERS%27]
+msgid "Посмотреть текущие заказы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_FROM%27]
+msgid "от"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_NO_ORDERS%27]
+msgid "Заказы не найдены"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_ORDER%27]
+msgid "Заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_ORDER_DETAIL%27]
+msgctxt "$MESS['C_SALE_PERSONAL_ORDER_LIST_ORDER_DETAIL']"
+msgid "Подробнее о заказе"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_PAY_SUM%27]
+msgid "Сумма к оплате"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_CANCELLED%27]
+msgid "Отменён"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_PAYSYSTEM%27]
+msgid "Способ оплаты"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_DELIVERY%27]
+msgid "Доставка"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_BASKET%27]
+msgid "Состав заказа"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_CANCEL_ORDER%27]
+msgctxt "$MESS['C_SALE_PERSONAL_ORDER_LIST_CANCEL_ORDER']"
+msgid "Отменить заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_REPEAT_ORDER%27]
+msgctxt "$MESS['C_SALE_PERSONAL_ORDER_LIST_REPEAT_ORDER']"
+msgid "Повторить заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_PAYED%27]
+msgid "Оплата"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_PAY%27]
+msgid "Оплатить"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_SHT%27]
+msgid "шт."
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_ORDERS_ALL%27]
+msgid "Посмотреть все заказы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_YES%27]
+msgid "Оплачено"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_NO%27]
+msgid "Не оплачено"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_NUM_SIGN%27]
+msgid "№#NUMBER#"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_TITLE_PRODUCT%27]
+msgid "Товар"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_TITLE_COUNT%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_TITLE_PRICE%27]
+msgid "Сумма"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_FROM_SUM%27]
+msgid "на сумму"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_ORDER_N%27]
+msgid "Счет"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_FROM_ORDER%27]
+msgid "Сумма к оплате по счету "
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_TYPE_PAY%27]
+msgid "Тип счета"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_SNIP%27]
+msgid "Отгрузка"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_SUM_SNIPMENT%27]
+msgid "Стоимость доставки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_SHIPPING_STATUS%27]
+msgid "Статус отгрузки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_STATUS%27]
+msgid "Статус"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_DELIVERY_SERVICE%27]
+msgid "Служба доставки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_BUTTONS_DETAIL%27]
+msgctxt "$MESS['C_SALE_PERSONAL_ORDER_LIST_BUTTONS_DETAIL']"
+msgid "Подробнее о заказе"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_BUTTONS_COPY%27]
+msgctxt "$MESS['C_SALE_PERSONAL_ORDER_LIST_BUTTONS_COPY']"
+msgid "Повторить заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_BUTTONS_CANCEL%27]
+msgctxt "$MESS['C_SALE_PERSONAL_ORDER_LIST_BUTTONS_CANCEL']"
+msgid "Отменить заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_PERSONAL_ORDER_LIST_MESSAGES_EMPTY%27]
+msgid "Заказов не найдено"
+msgstr ""

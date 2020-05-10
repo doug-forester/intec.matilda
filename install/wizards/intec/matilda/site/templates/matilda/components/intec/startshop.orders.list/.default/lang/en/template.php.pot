@@ -1,0 +1,70 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec/startshop.orders.list/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SOL_DEFAULT_FILTER_ALL%27]
+msgid "Все"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_HEADER_ORDER%27]
+msgid "Заказ №"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_HEADER_FROM%27]
+msgid "от"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_HEADER_SUM%27]
+msgid "на сумму"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_STATUS_PAYMENT%27]
+msgid "Оплата"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_STATUS_PAYMENT_TRUE%27]
+msgid "Оплачено"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_STATUS_PAYMENT_FALSE%27]
+msgid "Не оплачено"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_STATUS_ORDER%27]
+msgid "Статус"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_INFORMATION_PAYMENT%27]
+msgid "Способ оплаты:"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_INFORMATION_DELIVERY%27]
+msgid "Служба доставки:"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_INFORMATION_DELIVERY_PRICE%27]
+msgid "Стоимость доставки:"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_INFORMATION_SUM%27]
+msgid "Сумма к оплате:"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_BUTTON_ORDER%27]
+msgid "Подробнее о заказе"
+msgstr ""
+
+#: %24MESS[%27SOL_DEFAULT_NOTIFICATION_EMPTY%27]
+msgid "Вы еще не сделали ни одного заказа"
+msgstr ""

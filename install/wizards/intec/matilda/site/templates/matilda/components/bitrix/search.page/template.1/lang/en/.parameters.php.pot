@@ -1,0 +1,56 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/search.page/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22TP_BSP_USE_SUGGEST%22]
+msgid "Show search phrase prompts"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_SHOW_RATING%22]
+msgid "Show ratings"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_PATH_TO_USER_PROFILE%22]
+msgid "User profile path template"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_SHOW_RATING_CONFIG%22]
+msgctxt "$MESS[\"TP_BSP_SHOW_RATING_CONFIG\"]"
+msgid "default"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_RATING_TYPE%22]
+msgid "Rating buttons design"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_RATING_TYPE_CONFIG%22]
+msgctxt "$MESS[\"TP_BSP_RATING_TYPE_CONFIG\"]"
+msgid "default"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_RATING_TYPE_STANDART_TEXT%22]
+msgid "Like/Unlike (text)"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_RATING_TYPE_STANDART_GRAPHIC%22]
+msgid "Like/Unlike (image)"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_RATING_TYPE_LIKE_TEXT%22]
+msgid "Like (text)"
+msgstr ""
+
+#: %24MESS[%22TP_BSP_RATING_TYPE_LIKE_GRAPHIC%22]
+msgid "Like (image)"
+msgstr ""

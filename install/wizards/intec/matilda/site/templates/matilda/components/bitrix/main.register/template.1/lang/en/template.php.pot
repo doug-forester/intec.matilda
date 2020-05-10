@@ -1,0 +1,274 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/main.register/template.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22AUTH_REGISTER%22]
+msgid "Registration"
+msgstr ""
+
+#: %24MESS[%22REGISTER_CAPTCHA_TITLE%22]
+msgid "Spam bot protection (CAPTCHA)"
+msgstr ""
+
+#: %24MESS[%22REGISTER_CAPTCHA_PROMT%22]
+msgid "CAPTCHA image characters"
+msgstr ""
+
+#: %24MESS[%22AUTH_REQ%22]
+msgid "Required fields."
+msgstr ""
+
+#: %24MESS[%22USER_DONT_KNOW%22]
+msgid "(unknown)"
+msgstr ""
+
+#: %24MESS[%22USER_MALE%22]
+msgid "Male"
+msgstr ""
+
+#: %24MESS[%22USER_FEMALE%22]
+msgid "Female"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_LOGIN%22]
+msgid "Login (min. 3 characters)"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_EMAIL%22]
+msgid "E-mail"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PASSWORD%22]
+msgid "Password"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_CONFIRM_PASSWORD%22]
+msgid "Password confirmation"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_NAME%22]
+msgid "Name"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_SECOND_NAME%22]
+msgid "Middle Name"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_LAST_NAME%22]
+msgid "Last Name"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_AUTO_TIME_ZONE%22]
+msgid "Time Zone"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_PROFESSION%22]
+msgid "Job Title"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_WWW%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_WWW\"]"
+msgid "Web page"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_ICQ%22]
+msgid "ICQ"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_GENDER%22]
+msgid "Gender"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_BIRTHDAY%22]
+msgid "Birthday"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_PHOTO%22]
+msgid "Photo"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_PHONE%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_PHONE\"]"
+msgid "Phone"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_FAX%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_FAX\"]"
+msgid "Fax"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_MOBILE%22]
+msgid "Mobile"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_PAGER%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_PAGER\"]"
+msgid "Pager"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_STREET%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_STREET\"]"
+msgid "Address"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_MAILBOX%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_MAILBOX\"]"
+msgid "Mailbox"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_CITY%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_CITY\"]"
+msgid "City"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_STATE%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_STATE\"]"
+msgid "State"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_ZIP%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_ZIP\"]"
+msgid "Zip code"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_COUNTRY%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_COUNTRY\"]"
+msgid "Country"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_PERSONAL_NOTES%22]
+msgctxt "$MESS[\"REGISTER_FIELD_PERSONAL_NOTES\"]"
+msgid "Notes"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_COMPANY%22]
+msgid "Company"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_DEPARTMENT%22]
+msgid "Department"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_POSITION%22]
+msgid "Position"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_WWW%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_WWW\"]"
+msgid "Web page"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_PHONE%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_PHONE\"]"
+msgid "Phone"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_FAX%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_FAX\"]"
+msgid "Fax"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_PAGER%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_PAGER\"]"
+msgid "Pager"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_STREET%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_STREET\"]"
+msgid "Address"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_MAILBOX%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_MAILBOX\"]"
+msgid "Mailbox"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_CITY%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_CITY\"]"
+msgid "City"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_STATE%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_STATE\"]"
+msgid "State"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_ZIP%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_ZIP\"]"
+msgid "Zip code"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_COUNTRY%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_COUNTRY\"]"
+msgid "Country"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_PROFILE%22]
+msgid "Profile"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_LOGO%22]
+msgid "Company logo"
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_WORK_NOTES%22]
+msgctxt "$MESS[\"REGISTER_FIELD_WORK_NOTES\"]"
+msgid "Notes"
+msgstr ""
+
+#: %24MESS[%22REGISTER_EMAIL_WILL_BE_SENT%22]
+msgid ""
+"A registration confirmation request will be sent to the specified e-mail "
+"address."
+msgstr ""
+
+#: %24MESS[%22MAIN_REGISTER_AUTH%22]
+msgid "You have been registered and authorized successfully."
+msgstr ""
+
+#: %24MESS[%22main_profile_time_zones_auto%22]
+msgid "Auto Time Zone:"
+msgstr ""
+
+#: %24MESS[%22main_profile_time_zones_auto_def%22]
+msgid "(default)"
+msgstr ""
+
+#: %24MESS[%22main_profile_time_zones_auto_yes%22]
+msgid "Yes, use browser settings"
+msgstr ""
+
+#: %24MESS[%22main_profile_time_zones_auto_no%22]
+msgid "No, select from list"
+msgstr ""
+
+#: %24MESS[%22main_profile_time_zones_zones%22]
+msgid "Time Zone:"
+msgstr ""
+
+#: %24MESS[%22AUTH_SECURE_NOTE%22]
+msgid ""
+"The password will be encrypted before it is sent. This will prevent the "
+"password from appearing in open form over data transmission channels."
+msgstr ""
+
+#: %24MESS[%22AUTH_NONSECURE_NOTE%22]
+msgid ""
+"The password will be sent in open form. Enable JavaScript in your web "
+"browser to enable password encryption."
+msgstr ""
+
+#: %24MESS[%22REGISTER_FIELD_TITLE%22]
+msgid "Salutation"
+msgstr ""

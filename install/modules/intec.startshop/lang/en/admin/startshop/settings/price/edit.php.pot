@@ -1,0 +1,97 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/price/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить тип цены"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактирование типа цены"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Тип цены"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Тип цены с таким кодом уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Тип цены успешно добавлен!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Тип цены успешно изменен!"
+msgstr ""
+
+#: %24MESS[%27fields.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27fields.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27fields.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27fields.base%27]
+msgid "Базовый тип"
+msgstr ""
+
+#: %24MESS[%27fields.groups%27]
+msgid "Группы пользователей"
+msgstr ""
+
+#: %24MESS[%27fields.groups.description%27]
+msgid ""
+"Тип цен будет доступен только для выбранных групп в поле <b>Группы "
+"пользователей</b>, если <b>не будет выбрано</b> ни одной <b>группы</b>, то "
+"тип цены будет <b>доступен всем пользователям</b>."
+msgstr ""
+
+#: %24MESS[%27fields.group.not_selected%27]
+msgid "(не выбрано)"
+msgstr ""
+
+#: %24MESS[%27fields.language.caption%27]
+msgid "Языковые настройки"
+msgstr ""
+
+#: %24MESS[%27fields.language.language%27]
+msgid "Язык"
+msgstr ""
+
+#: %24MESS[%27fields.language.name%27]
+msgid "Название"
+msgstr ""

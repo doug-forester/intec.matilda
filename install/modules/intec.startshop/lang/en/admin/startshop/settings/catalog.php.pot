@@ -1,0 +1,72 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/catalog.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgctxt "$MESS['title']"
+msgid "Торговые каталоги"
+msgstr ""
+
+#: %24MESS[%27table.header.iblock%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27table.header.use_quantity%27]
+msgid "Используется количественный учет"
+msgstr ""
+
+#: %24MESS[%27actions.delete%27]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27actions.edit%27]
+msgid "Изменить"
+msgstr ""
+
+#: %24MESS[%27actions.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27actions.enable_quantity%27]
+msgid "Включить количественный учет"
+msgstr ""
+
+#: %24MESS[%27actions.disable_quantity%27]
+msgid "Отключить количественный учет"
+msgstr ""
+
+#: %24MESS[%27actions.group.delete%27]
+msgid "удалить"
+msgstr ""
+
+#: %24MESS[%27actions.group.enable_quantity%27]
+msgid "включить количественный учет"
+msgstr ""
+
+#: %24MESS[%27actions.group.disable_quantity%27]
+msgid "отключить количественный учет"
+msgstr ""
+
+#: %24MESS[%27nav.title%27]
+msgctxt "$MESS['nav.title']"
+msgid "Торговые каталоги"
+msgstr ""
+
+#: %24MESS[%27active.yes%27]
+msgid "Да"
+msgstr ""
+
+#: %24MESS[%27active.no%27]
+msgid "Нет"
+msgstr ""

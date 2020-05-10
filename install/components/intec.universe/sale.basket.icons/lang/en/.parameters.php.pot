@@ -1,0 +1,46 @@
+#. extracted from install/components/intec.universe/sale.basket.icons/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:27-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_BASKET_SHOW%27]
+msgid "Отображать иконку корзины"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_BASKET_URL%27]
+msgid "Страница корзины"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_DELAY_SHOW%27]
+msgid "Отображать иконку отложенных товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_COMPARE_SHOW%27]
+msgid "Отображать иконку сравнения товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_COMPARE_IBLOCK_ID%27]
+msgid "Инфоблок сравнения товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_COMPARE_IBLOCK_TYPE%27]
+msgid "Тип инфоблока сравнения товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_COMPARE_CODE%27]
+msgid "Код сравнения товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_ICONS_PARAMETERS_COMPARE_URL%27]
+msgid "Страница отложенных товаров"
+msgstr ""

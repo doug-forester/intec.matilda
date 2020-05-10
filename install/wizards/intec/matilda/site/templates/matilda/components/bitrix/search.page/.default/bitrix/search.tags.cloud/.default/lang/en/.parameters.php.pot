@@ -1,0 +1,46 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/search.page/.default/bitrix/search.tags.cloud/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS+[%27SEARCH_FONT_MAX%27]
+msgid "Largest font size (px)"
+msgstr ""
+
+#: %24MESS+[%27SEARCH_FONT_MIN%27]
+msgid "Smallest font size (px)"
+msgstr ""
+
+#: %24MESS+[%27SEARCH_COLOR_OLD%27]
+msgid "Latest tag color (ex. \"FEFEFE\")"
+msgstr ""
+
+#: %24MESS+[%27SEARCH_COLOR_NEW%27]
+msgid "Earliest tag color (ex. \"C0C0C0\")"
+msgstr ""
+
+#: %24MESS+[%27SEARCH_PERIOD_NEW_TAGS%27]
+msgid "Consider tag new during (days)"
+msgstr ""
+
+#: %24MESS+[%27SEARCH_SHOW_CHAIN%27]
+msgid "Display breadcrumb navigation."
+msgstr ""
+
+#: %24MESS+[%27SEARCH_COLOR_TYPE%27]
+msgid "Use gradient colors"
+msgstr ""
+
+#: %24MESS+[%27SEARCH_WIDTH%27]
+msgid "Tag cloud width (ex. \"100%\", \"100px\", \"100pt\" or \"100in\")"
+msgstr ""

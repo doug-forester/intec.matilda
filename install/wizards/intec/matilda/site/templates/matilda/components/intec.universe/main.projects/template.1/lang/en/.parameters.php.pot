@@ -1,0 +1,164 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.projects/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_LINK_USE%27]
+msgid "Использовать ссылки на элементах"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_LINK_BLANK%27]
+msgid "Открывать ссылки в новой вкладке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_COLUMNS%27]
+msgid "Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_TABS_USE%27]
+msgid "Использовать вкладки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_TABS_POSITION%27]
+msgid "Позиция вкладок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_TABS_ELEMENTS%27]
+msgid "Количество элементов во вкладках"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT%27]
+msgid "Выравнивание элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT_LEFT%27]
+msgctxt "$MESS['C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT_CENTER%27]
+msgctxt "$MESS['C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT_RIGHT%27]
+msgctxt "$MESS['C_MAIN_PROJECTS_TEMPLATE_1_ALIGNMENT_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT%27]
+msgid "Эффект элементов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT_NONE%27]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT_BLUR%27]
+msgid "Размытие"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT_BRIGHTNESS%27]
+msgid "Яркость"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT_GRAYSCALE%27]
+msgid "Черно-белый"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT_SEPIA%27]
+msgid "Сепия"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_EFFECT_ZOOM%27]
+msgid "Увеличение"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_TRANSPARENCY%27]
+msgid "Прозрачность элементов (%)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_USE%27]
+msgid "Использовать слайдер"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_NAVIGATION%27]
+msgid "Слайдер. Показывать навигационные стрелки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_DOTS%27]
+msgid "Слайдер. Показывать навигационные точки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_LOOP%27]
+msgid "Слайдер. Зациклить прокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_AUTO_USE%27]
+msgid "Слайдер. Использовать автопрокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_AUTO_PAUSE%27]
+msgid "Слайдер. Останавливать автопрокрутку при наведении курсора мыши"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_AUTO_SPEED%27]
+msgid "Слайдер. Скорость анимации смены слайда при автопрокрутке (мс)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_SLIDER_AUTO_TIME%27]
+msgid "Слайдер. Время задержки перед сменой слайда при автопрокрутке (мс)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_FOOTER_SHOW%27]
+msgid "Отображать нижний блок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_FOOTER_POSITION%27]
+msgid "Расположение нижнего блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_FOOTER_BUTTON_SHOW%27]
+msgid "Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_FOOTER_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_FOOTER_BUTTON_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_POSITION_LEFT%27]
+msgctxt "$MESS['C_MAIN_PROJECTS_TEMPLATE_1_POSITION_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_POSITION_CENTER%27]
+msgctxt "$MESS['C_MAIN_PROJECTS_TEMPLATE_1_POSITION_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_PROJECTS_TEMPLATE_1_POSITION_RIGHT%27]
+msgctxt "$MESS['C_MAIN_PROJECTS_TEMPLATE_1_POSITION_RIGHT']"
+msgid "Справа"
+msgstr ""

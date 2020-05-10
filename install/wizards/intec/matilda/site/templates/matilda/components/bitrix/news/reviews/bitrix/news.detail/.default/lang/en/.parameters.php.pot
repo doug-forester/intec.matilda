@@ -1,0 +1,58 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news/reviews/bitrix/news.detail/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_DOCUMENT%27]
+msgid "Свойство \"Скан отзыва\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_SERVICES%27]
+msgid "Свойство \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_PORTFOLIO%27]
+msgid "Свойство \"Портфолио\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_PERSON_NAME%27]
+msgid "Свойство \"Имя\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_PERSON_POSITION%27]
+msgid "Свойство \"Должность\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PROPERTY_SITE_URL%27]
+msgid "Свойство \"Адрес сайта\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_VIDEO_SHOW%27]
+msgid "Показывать \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_DOCUMENT_SHOW%27]
+msgid "Показывать \"Скан отзыва\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_SERVICES_SHOW%27]
+msgid "Показывать \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_REVIEWS_LIST_PORTFOLIO_SHOW%27]
+msgid "Показывать \"Портфолио\""
+msgstr ""

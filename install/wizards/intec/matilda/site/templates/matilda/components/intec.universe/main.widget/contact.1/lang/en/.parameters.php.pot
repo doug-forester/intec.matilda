@@ -1,0 +1,176 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.widget/contact.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_CONTACT_TYPE%27]
+msgid "Источник контактов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_CONTACT_TYPE_PARAMS%27]
+msgid "параметры"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_CONTACT_TYPE_IBLOCK%27]
+msgid "инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_MAP_VENDOR%27]
+msgid "Карта"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_MAP_VENDOR_YANDEX%27]
+msgid "Яндекс"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_MAP_VENDOR_GOOGLE%27]
+msgid "Google"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_CONSENT_URL%27]
+msgid "Ссылка на страницу соглашения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_WIDE%27]
+msgid "Во всю ширину окна"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_BLOCK_SHOW%27]
+msgid "Показывать блок с информацией"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_BLOCK_VIEW%27]
+msgid "Вид отображения блока с информацией"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_BLOCK_VIEW_LEFT%27]
+msgid "Рядом с картой"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_BLOCK_VIEW_OVER%27]
+msgid "Поверх карты"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_BLOCK_TITLE%27]
+msgid "Заголовок блока с информацией"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_BLOCK_TITLE_DEFAULT%27]
+msgid "Наши контакты"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_ADDRESS_SHOW%27]
+msgid "Показывать адрес"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_ADDRESS_CITY%27]
+msgid "Город"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_ADDRESS_STREET%27]
+msgid "Улица, дом"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PHONE_SHOW%27]
+msgid "Показывать телефон"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PHONE_VALUES%27]
+msgid "Номер телефона"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_SHOW%27]
+msgid "Показывать кнопку с формой"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_ID%27]
+msgid "Форма"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_TEMPLATE%27]
+msgid "Шаблон формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_TITLE%27]
+msgid "Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_MAIN_WIDGET_CONTACT_1_FORM_TITLE_DEFAULT']"
+msgid "Заказать звонок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_BUTTON_TEXT%27]
+msgid "Текст кнопки формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_FORM_BUTTON_TEXT_DEFAULT%27]
+msgctxt "$MESS['C_MAIN_WIDGET_CONTACT_1_FORM_BUTTON_TEXT_DEFAULT']"
+msgid "Заказать звонок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_EMAIL_SHOW%27]
+msgid "Показывать Эл. почту"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_EMAIL_VALUES%27]
+msgid "Эл. почта"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PROPERTY_MAP%27]
+msgid "Свойство \"Место на карте\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PROPERTY_CITY%27]
+msgid "Свойство \"Город\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PROPERTY_STREET%27]
+msgid "Свойство \"Улица, дом\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PROPERTY_PHONE%27]
+msgid "Свойство \"Номер телефона\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PROPERTY_EMAIL%27]
+msgid "Свойство \"Эл. почта\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_MAIN%27]
+msgid "Элемент инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_REGIONALITY_STRICT%27]
+msgid "Контакты. Выводить контакты только с заполненными регионами"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_WIDGET_CONTACT_1_PROPERTY_REGION%27]
+msgid "Контакты. Свойство \"Регион\""
+msgstr ""

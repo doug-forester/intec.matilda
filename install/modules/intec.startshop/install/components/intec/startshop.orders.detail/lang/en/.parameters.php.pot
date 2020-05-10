@@ -1,0 +1,42 @@
+#. extracted from install/modules/intec.startshop/install/components/intec/startshop.orders.detail/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SOD_GROUP_404%27]
+msgid "Настройка 404 ошибки"
+msgstr ""
+
+#: %24MESS[%27SOD_CURRENCY%27]
+msgid "Валюта"
+msgstr ""
+
+#: %24MESS[%27SOD_LIST_PAGE_URL%27]
+msgid "Путь к списку заказов"
+msgstr ""
+
+#: %24MESS[%27SOD_URL_ORDER_NOT_EXISTS%27]
+msgid "Страница, если заказа не существует или он не доступен"
+msgstr ""
+
+#: %24MESS[%27SOD_404_SET_STATUS%27]
+msgid "Устанавливать статус 404"
+msgstr ""
+
+#: %24MESS[%27SOD_404_REDIRECT%27]
+msgid "Показ специальной страницы"
+msgstr ""
+
+#: %24MESS[%27SOD_404_PAGE%27]
+msgid "Специальная страница (по умолчанию /404.php)"
+msgstr ""

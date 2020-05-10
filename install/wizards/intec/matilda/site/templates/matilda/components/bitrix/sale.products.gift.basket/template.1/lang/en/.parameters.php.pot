@@ -1,0 +1,404 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.products.gift.basket/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CP_SPGB_TPL_THEME_SITE%22]
+msgid "Брать тему из настроек сайта (для решения bitrix.eshop)"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_THEME_BLUE%22]
+msgid "синяя (тема по умолчанию)"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_THEME_GREEN%22]
+msgid "зеленая"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_THEME_RED%22]
+msgid "красная"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_THEME_YELLOW%22]
+msgid "желтая"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_DML_SIMPLE%22]
+msgid "простой режим"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_DML_EXT%22]
+msgid "расширенный"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PROP_EMPTY%22]
+msgid "не выбрано"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_TEMPLATE_THEME%22]
+msgid "Цветовая тема"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_CUSTOM_FILTER%22]
+msgid "Фильтр товаров"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SETTINGS_INVALID_CONDITION%22]
+msgid "Условие задано неверно"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCKS_ORDER%22]
+msgid "Порядок отображения блоков товара"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_BLOCKS_ORDER_TIP%22]
+msgid ""
+"Для некоторых блоков порядок может не соблюдаться в связи с особенностями "
+"шаблона. Также, блок товара может не отображаться, так как его функционал "
+"выключен или недоступен."
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_PRICE%22]
+msgid "Цена"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_QUANTITY_LIMIT%22]
+msgid "Остаток"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_QUANTITY%22]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_BUTTONS%22]
+msgid "Действия"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_PROPS%22]
+msgid "Свойства"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_SKU%22]
+msgid "Торговое предложение"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_BLOCK_COMPARE%22]
+msgid "Сравнение"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_DISPLAY_MODE%22]
+msgid "Схема отображения"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_SLIDER%22]
+msgid "Показывать слайдер для товаров"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SLIDER_INTERVAL%22]
+msgid "Интервал смены слайдов, мс"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SLIDER_PROGRESS%22]
+msgid "Показывать полосу прогресса"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_ROW_VARIANTS%22]
+msgid "Вариант отображения товаров"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SETTINGS_VARIANT%22]
+msgid "Вариант"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SETTINGS_DELETE%22]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SETTINGS_QUANTITY%22]
+msgid "Количество товаров на странице"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SETTINGS_QUANTITY_BIG_DATA%22]
+msgid "Количество товаров BigData на странице"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_ENLARGE_PRODUCT%22]
+msgid "Выделять товары в списке"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_ENLARGE_PROP%22]
+msgid "Выделять по выбранному свойству"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_ENLARGE_PRODUCT_STRICT%22]
+msgid "по выбранному шаблону (строго)"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_ENLARGE_PRODUCT_PROP%22]
+msgid ""
+"по свойству, подгонять по шаблону (возможно изменение сортировки элементов)"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_ADD_PICT_PROP%22]
+msgid "Дополнительная картинка основного товара"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_LABEL_PROP%22]
+msgid "Свойства меток товара"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_LABEL_PROP_MOBILE%22]
+msgid "Свойства меток товара, отображаемые на мобильных устройствах"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_LABEL_PROP_POSITION%22]
+msgid "Расположение меток товара"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_OFFER_ADD_PICT_PROP%22]
+msgid "Дополнительные картинки предложения"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_OFFER_TREE_PROPS%22]
+msgid "Свойства для отбора предложений"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PRODUCT_SUBSCRIPTION%22]
+msgid "Разрешить оповещения для отсутствующих товаров"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_DISCOUNT_PERCENT%22]
+msgid "Показывать процент скидки"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_DISCOUNT_PERCENT_POSITION%22]
+msgid "Расположение процента скидки"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_OLD_PRICE%22]
+msgid "Показывать старую цену"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_MAX_QUANTITY%22]
+msgid "Показывать остаток товара"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_MAX_QUANTITY_Y%22]
+msgid "с отображением реального остатка"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_MAX_QUANTITY_M%22]
+msgid "с подменой остатка текстом"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_MAX_QUANTITY_N%22]
+msgid "не показывать"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_SHOW_MAX_QUANTITY%22]
+msgid "Текст для остатка"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_SHOW_MAX_QUANTITY_DEFAULT%22]
+msgid "Наличие"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_RELATIVE_QUANTITY_FACTOR%22]
+msgid "Значение, от которого происходит подмена"
+msgstr ""
+
+#: %24MESS[%22RELATIVE_QUANTITY_FACTOR_TIP%22]
+msgid ""
+"Сравнение происходит со значением, рассчитанным по формуле \"Доступное "
+"количество\"/\"Коэффициент единицы измерения\""
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_RELATIVE_QUANTITY_MANY%22]
+msgid "Текст для значения больше"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_RELATIVE_QUANTITY_MANY_DEFAULT%22]
+msgid "много"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_RELATIVE_QUANTITY_FEW%22]
+msgid "Текст для значения меньше"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_RELATIVE_QUANTITY_FEW_DEFAULT%22]
+msgid "мало"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_ADD_TO_BASKET_ACTION%22]
+msgid "Показывать кнопку добавления в корзину или покупки"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_SHOW_CLOSE_POPUP%22]
+msgid "Показывать кнопку продолжения покупок во всплывающих окнах"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_BUY%22]
+msgid "Текст кнопки \"Купить\""
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_ADD_TO_BASKET%22]
+msgid "Текст кнопки \"Добавить в корзину\""
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_DETAIL%22]
+msgid "Текст кнопки \"Подробнее\""
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_SUBSCRIBE%22]
+msgid "Текст кнопки \"Уведомить о поступлении\""
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_COMPARE%22]
+msgid "Текст кнопки \"Сравнить\""
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_NOT_AVAILABLE%22]
+msgid "Сообщение об отсутствии товара"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_BUY_DEFAULT%22]
+msgid "Купить"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_ADD_TO_BASKET_DEFAULT%22]
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_DETAIL_DEFAULT%22]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_SUBSCRIBE_DEFAULT%22]
+msgid "Подписаться"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_BTN_COMPARE_DEFAULT%22]
+msgid "Сравнить"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_MESS_NOT_AVAILABLE_DEFAULT%22]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%22ADD_TO_BASKET_ACTION_BUY%22]
+msgid "покупки"
+msgstr ""
+
+#: %24MESS[%22ADD_TO_BASKET_ACTION_ADD%22]
+msgid "добавления в корзину"
+msgstr ""
+
+#: %24MESS[%22TEMPLATE_THEME_TIP%22]
+msgid "Цветовая тема для отображения. По умолчанию берется синяя тема."
+msgstr ""
+
+#: %24MESS[%22PRODUCT_DISPLAY_MODE_TIP%22]
+msgid "Схема отображения товаров (с SKU или без и т.д.)"
+msgstr ""
+
+#: %24MESS[%22ADD_PICT_PROP_TIP%22]
+msgid "Свойство дополнительных картинок товара"
+msgstr ""
+
+#: %24MESS[%22LABEL_PROP_TIP%22]
+msgid "Свойство меток товара"
+msgstr ""
+
+#: %24MESS[%22OFFER_ADD_PICT_PROP_TIP%22]
+msgid "Свойство дополнительных картинок предложений (если есть)"
+msgstr ""
+
+#: %24MESS[%22OFFER_TREE_PROPS_TIP%22]
+msgid ""
+"Свойства, по значениям которых будут группироваться торговые предложения"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_SUBSCRIPTION_TIP%22]
+msgid ""
+"Разрешить оповещать клиента, что интересующий его товар стал доступен к "
+"покупке"
+msgstr ""
+
+#: %24MESS[%22SHOW_DISCOUNT_PERCENT_TIP%22]
+msgid "Вывод процентного значения скидки, если скидка есть"
+msgstr ""
+
+#: %24MESS[%22SHOW_OLD_PRICE_TIP%22]
+msgid "Показывать старую цену, если есть скидка"
+msgstr ""
+
+#: %24MESS[%22SHOW_CLOSE_POPUP_TIP%22]
+msgid ""
+"Если опция отмечена, во всплывающих окнах будет показана кнопка \"Продолжить "
+"покупки\""
+msgstr ""
+
+#: %24MESS[%22MESS_BTN_BUY_TIP%22]
+msgctxt "$MESS[\"MESS_BTN_BUY_TIP\"]"
+msgid "Какой текст выводить на кнопке"
+msgstr ""
+
+#: %24MESS[%22MESS_BTN_ADD_TO_BASKET_TIP%22]
+msgctxt "$MESS[\"MESS_BTN_ADD_TO_BASKET_TIP\"]"
+msgid "Какой текст выводить на кнопке"
+msgstr ""
+
+#: %24MESS[%22MESS_BTN_DETAIL_TIP%22]
+msgctxt "$MESS[\"MESS_BTN_DETAIL_TIP\"]"
+msgid "Какой текст выводить на кнопке"
+msgstr ""
+
+#: %24MESS[%22MESS_BTN_SUBSCRIBE_TIP%22]
+msgctxt "$MESS[\"MESS_BTN_SUBSCRIBE_TIP\"]"
+msgid "Какой текст выводить на кнопке"
+msgstr ""
+
+#: %24MESS[%22MESS_NOT_AVAILABLE_TIP%22]
+msgid "Сообщение об отсутствии товара и невозможности его купить"
+msgstr ""
+
+#: %24MESS[%22MESS_BTN_COMPARE_TIP%22]
+msgctxt "$MESS[\"MESS_BTN_COMPARE_TIP\"]"
+msgid "Какой текст выводить на кнопке"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_PROPERTY_CODE_MOBILE%22]
+msgid "Свойства товаров, отображаемые на мобильных устройствах"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_COMPARE_NAME%22]
+msgid "Уникальное имя для списка сравнения"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_USE_ENHANCED_ECOMMERCE%22]
+msgid "Отправлять данные электронной торговли в Google и Яндекс"
+msgstr ""
+
+#: %24MESS[%22USE_ENHANCED_ECOMMERCE_TIP%22]
+msgid ""
+"Требуется дополнительная настройка в Google Analytics Enhanced \n"
+"Ecommerce и/или Яндекс.Метрике"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_DATA_LAYER_NAME%22]
+msgid "Имя контейнера данных"
+msgstr ""
+
+#: %24MESS[%22CP_SPGB_TPL_BRAND_PROPERTY%22]
+msgid "Свойство брендов"
+msgstr ""

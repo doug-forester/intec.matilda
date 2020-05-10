@@ -1,0 +1,68 @@
+#. extracted from install/modules/intec.constructorlite/lang/en/admin/fonts/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:35-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить шрифт"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактировать шрифт #name#"
+msgstr ""
+
+#: %24MESS[%27menu.back%27]
+msgctxt "$MESS['menu.back']"
+msgid "Назад"
+msgstr ""
+
+#: %24MESS[%27menu.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Шрифт"
+msgstr ""
+
+#: %24MESS[%27tabs.files%27]
+msgid "Файлы"
+msgstr ""
+
+#: %24MESS[%27errors.invalidLink%27]
+msgid "Некорректный адрес шрифта"
+msgstr ""
+
+#: %24MESS[%27errors.invalidFont%27]
+msgid "Некорректный шрифт"
+msgstr ""
+
+#: %24MESS[%27errors.fontExists%27]
+msgid "Шрифт \"#code#\" уже существует"
+msgstr ""
+
+#: %24MESS[%27fields.link%27]
+msgid "Адрес файла стилей с шрифтом"
+msgstr ""
+
+#: %24MESS[%27buttons.back%27]
+msgctxt "$MESS['buttons.back']"
+msgid "Назад"
+msgstr ""
+
+#: %24MESS[%27buttons.next%27]
+msgid "Далее"
+msgstr ""
+
+#: %24MESS[%27buttons.remove%27]
+msgid "Удалить файл"
+msgstr ""

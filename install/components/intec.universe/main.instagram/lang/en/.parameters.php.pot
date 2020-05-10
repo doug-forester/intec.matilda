@@ -1,0 +1,26 @@
+#. extracted from install/components/intec.universe/main.instagram/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:27-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27MAIN_INSTAGRAM_ACCESS_TOKEN%27]
+msgid "\"Access token\" приложения"
+msgstr ""
+
+#: %24MESS[%27MAIN_INSTAGRAM_COUNT_ITEMS%27]
+msgid "Максимальное количество выводимых элементов"
+msgstr ""
+
+#: %24MESS[%27MAIN_INSTAGRAM_CACHE_PATH%27]
+msgid "Путь до раздела с файлом кеша"
+msgstr ""

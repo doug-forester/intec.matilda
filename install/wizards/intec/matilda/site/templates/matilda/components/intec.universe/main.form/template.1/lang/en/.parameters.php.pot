@@ -1,0 +1,190 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.form/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_TITLE%27]
+msgid "Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_TITLE_DEFAULT%27]
+msgid "Ваш текст"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_DESCRIPTION_SHOW%27]
+msgid "Отображать описание блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_DESCRIPTION_TEXT%27]
+msgid "Описание блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_DESCRIPTION_TEXT_DEFAULT%27]
+msgid "Ваше описание"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BUTTON_TEXT%27]
+msgid "Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BUTTON_TEXT_DEFAULT%27]
+msgid "Ваш текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_THEME%27]
+msgid "Цвет текста"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_THEME_LIGHT%27]
+msgid "Светлый"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_THEME_DARK%27]
+msgid "Темный"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_VIEW%27]
+msgid "Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_VIEW_LEFT%27]
+msgid "Текст слева"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_VIEW_RIGHT%27]
+msgid "Текст справа"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_VIEW_VERTICAL%27]
+msgid "Вертикально"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL%27]
+msgid "Выравнивание элементов"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL_LEFT%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL_CENTER%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL_RIGHT%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_ALIGN_HORIZONTAL_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_COLOR%27]
+msgid "Цвет фона блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_USE%27]
+msgid "Использовать фоновое изображение в блоке"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_PATH%27]
+msgid "Путь до фонового изображения блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL%27]
+msgid "Фоновое изображение. Расположение по горизонтали"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL_LEFT%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL_CENTER%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL_RIGHT%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_HORIZONTAL_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_VERTICAL%27]
+msgid "Фоновое изображение. Расположение по вертикали"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_VERTICAL_TOP%27]
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_VERTICAL_CENTER%27]
+msgctxt "$MESS['C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_VERTICAL_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_VERTICAL_BOTTOM%27]
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_SIZE%27]
+msgid "Фоновое изображение. Размер изображения"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_SIZE_COVER%27]
+msgid "Запонить весь блок"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_SIZE_CONTAIN%27]
+msgid "Уместить в блок"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_REPEAT%27]
+msgid "Фоновое изображение. Повторение изображения"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_REPEAT_NO%27]
+msgid "Не повторять"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_REPEAT_YES%27]
+msgid "Повторять"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_REPEAT_X%27]
+msgid "Повторять по горизонтали"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_REPEAT_Y%27]
+msgid "Повторять по вертикали"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_PARALLAX_USE%27]
+msgid "Фоновое изображение. Использовать эффект параллакса"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMPLATE_1_BACKGROUND_IMAGE_PARALLAX_RATIO%27]
+msgid "Фоновое изображение. Сила эффекта параллакса (0 - 100)"
+msgstr ""
+
+#: %24MESS[%27%27]
+msgctxt "$MESS['']"
+msgid ""
+msgstr ""

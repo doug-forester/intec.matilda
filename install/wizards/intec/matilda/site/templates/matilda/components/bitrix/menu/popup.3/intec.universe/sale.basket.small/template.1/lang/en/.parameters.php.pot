@@ -1,0 +1,86 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/menu/popup.3/intec.universe/sale.basket.small/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_FORM_ID%27]
+msgid "Веб-форма"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_BASKET_SHOW%27]
+msgid "Выводить корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_DELAYED_SHOW%27]
+msgid "Выводить отложенные"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_FORM_SHOW%27]
+msgid "Выводить форму"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_FORM_TITLE%27]
+msgid "Заголовок веб-формы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_FORM_TITLE_DEFAULT%27]
+msgid "Обратная связь"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_PERSONAL_SHOW%27]
+msgid "Выводить авторизацию"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_CATALOG_URL%27]
+msgid "Каталог"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_BASKET_URL%27]
+msgid "Корзина"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_ORDER_URL%27]
+msgid "Оформление заказа"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_COMPARE_URL%27]
+msgid "Сравнение товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_PERSONAL_URL%27]
+msgid "Личный кабинет"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу соглашения"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_HIDDEN%27]
+msgid "Скрывать панель при пролистывании"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_REGISTER_URL%27]
+msgid "Страница регистрации"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_FORGOT_PASSWORD_URL%27]
+msgid "Страница забытого пароля"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_PANEL_1_PROFILE_URL%27]
+msgid "Страница профиля"
+msgstr ""

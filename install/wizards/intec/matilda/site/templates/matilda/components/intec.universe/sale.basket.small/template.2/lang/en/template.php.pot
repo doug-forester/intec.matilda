@@ -1,0 +1,99 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/sale.basket.small/template.2/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_EDITOR%27]
+msgid "Летающая корзина"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_WARNING%27]
+msgid "Выберите шаблон из списка"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BASKET_TITLE%27]
+msgid "Ваша корзина"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BASKET_SUM_TITLE%27]
+msgid "Всего:"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_CLEAR%27]
+msgid "Очистить корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_CREATE_ORDER%27]
+msgid "Оформить заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_CONTINUE_SHOPPING%27]
+msgid "Продолжить покупки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BASKET_EMPTY_TITLE%27]
+msgid "Ваша корзина пуста"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BASKET_EMPTY_DESCRIPTION%27]
+msgid "Выберите в каталоге интересующий товар<br>и нажмите кнопку «В корзину»."
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_TO_CATALOG%27]
+msgid "Перейти в каталог"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_DELAYED_TITLE%27]
+msgid "Отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_DELAYED_EMPTY_TITLE%27]
+msgid "Отложенных товаров нет"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_DELAYED_EMPTY_DESCRIPTION%27]
+msgid "Выберите в каталоге интересующий товар<br>и нажмите кнопку "
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_TO_BASKET%27]
+msgid "Перейти в корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_DECLINE_1%27]
+msgid "товар"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_DECLINE_2%27]
+msgid "товара"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_DECLINE_3%27]
+msgid "товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BUTTONS_PRODUCT_REMOVE%27]
+msgctxt "$MESS['C_SALE_BASKET_SMALL_TEMPLATE_2_BUTTONS_PRODUCT_REMOVE']"
+msgid ""
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_ECONOMY%27]
+msgid "Экономия: "
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BUTTONS_PRODUCT_ADD%27]
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_2_BUTTONS_PRODUCT_DELAY%27]
+msgid "В избранное"
+msgstr ""

@@ -1,0 +1,236 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.slider/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_HEADER_OVER%27]
+msgid "Свойство \"Надзаголовок\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_LINK%27]
+msgid "Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_LINK_BLANK%27]
+msgid "Свойство \"Ссылка. Открывать в новой вкладке\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_BUTTON_SHOW%27]
+msgid "Свойство \"Показывать кнопку\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_BUTTON_TEXT%27]
+msgid "Свойство \"Текст кнопки\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_TEXT_POSITION%27]
+msgid "Свойство \"Расположение текста\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_TEXT_ALIGN%27]
+msgid "Свойство \"Выравнивание текста\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_TEXT_HALF%27]
+msgid "Свойство \"Текст в пол слайда\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_PICTURE%27]
+msgid "Свойство \"Доп. изображение"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_PICTURE_ALIGN_VERTICAL%27]
+msgid "Свойство \"Вертикальное выравнивание доп. изображения\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_ADDITIONAL%27]
+msgid "Свойство \"Доп. текст\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_SCHEME%27]
+msgid "Свойство \"Темный текст\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_FADE%27]
+msgid "Свойство \"Затемнять фон\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_VIDEO_FILE_MP4%27]
+msgid "Свойство \"Видео файл *.mp4\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_VIDEO_FILE_WEBM%27]
+msgid "Свойство \"Видео файл *.webm\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PROPERTY_VIDEO_FILE_OGV%27]
+msgid "Свойство \"Видео файл *.ogv\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_HEIGHT%27]
+msgid "Высота баннера"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_HEADER_SHOW%27]
+msgid "Отображать заголовок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_HEADER_H1%27]
+msgid "Заголовок. H1"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_HEADER_VIEW%27]
+msgid "Заголовок. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_DESCRIPTION_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_DESCRIPTION_VIEW%27]
+msgid "Описание. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_HEADER_OVER_SHOW%27]
+msgid "Отображать надзаголовок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_HEADER_OVER_VIEW%27]
+msgid "Надзаголовок. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_BUTTON_VIEW%27]
+msgid "Кнопка. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_PICTURE_SHOW%27]
+msgid "Отображать доп. изображение"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_VIDEO_SHOW%27]
+msgid "Отображать видео"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ADDITIONAL_SHOW%27]
+msgid "Отображать доп. текст"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ADDITIONAL_VIEW%27]
+msgid "Доп. текст. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_BUTTONS_BACK_SHOW%27]
+msgid "Кнопка \"Назад\". Отображать"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_BUTTONS_BACK_LINK%27]
+msgid "Кнопка \"Назад\". Ссылка"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_NAV_SHOW%27]
+msgid "Слайдер. Отображать навигационные стрелки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_NAV_VIEW%27]
+msgid "Слайдер. Навигационные стрелки. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_DOTS_SHOW%27]
+msgid "Слайдер. Отображать навигационные точки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_DOTS_VIEW%27]
+msgid "Слайдер. Навигационные точки. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_LOOP%27]
+msgid "Слайдер. Зациклить прокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_AUTO_USE%27]
+msgid "Слайдер. Использовать автопрокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_AUTO_TIME%27]
+msgid "Слайдер. Автопрокрутка. Время задержки перед сменой слайда (мс)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_SLIDER_AUTO_HOVER%27]
+msgid "Слайдер. Автопрокрутка. Останавливать при наведении курсора на слайдер"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_SHOW%27]
+msgid "Отображать кнопку \"Заказать\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_ID%27]
+msgid "Заказать. Форма"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_TEMPLATE%27]
+msgid "Заказать. Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_FIELD%27]
+msgid "Заказать. Поле формы для автозаполнения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_TITLE%27]
+msgid "Заказать. Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_CONSENT%27]
+msgid "Заказать. Ссылка на страницу с соглашением обработки личных данных"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_BUTTON%27]
+msgid "Заказать. Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_MAIN_SLIDER_TEMPLATE_1_ORDER_FORM_TITLE_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_ORDER_BUTTON_DEFAULT%27]
+msgctxt "$MESS['C_MAIN_SLIDER_TEMPLATE_1_ORDER_BUTTON_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_VIEW_1%27]
+msgid "Вид 1"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_VIEW_2%27]
+msgid "Вид 2"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_VIEW_3%27]
+msgid "Вид 3"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_VIEW_4%27]
+msgid "Вид 4"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_1_VIEW_5%27]
+msgid "Вид 5"
+msgstr ""

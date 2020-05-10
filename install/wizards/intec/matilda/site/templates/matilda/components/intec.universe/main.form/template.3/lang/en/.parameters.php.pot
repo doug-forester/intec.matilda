@@ -1,0 +1,80 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.form/template.3/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_FORM_TEMP3_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_VIEW%27]
+msgid "Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_IMAGE%27]
+msgid "Путь до изображения блока (может быть внешней ссылкой)"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_TITLE%27]
+msgid "Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_DESCRIPTION_SHOW%27]
+msgid "Отображать описание блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_DESCRIPTION%27]
+msgid "Описание блока"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_BUTTON1_TEXT%27]
+msgid "Текст кнопки 1"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_BUTTON2_TEXT%27]
+msgid "Текст кнопки 2"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_TITLE_DEFAULT%27]
+msgid "Ваш текст"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_BUTTON1_TEXT_DEFAULT%27]
+msgctxt "$MESS['C_FORM_TEMP3_BUTTON1_TEXT_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_BUTTON2_TEXT_DEFAULT%27]
+msgctxt "$MESS['C_FORM_TEMP3_BUTTON2_TEXT_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_FORM1_ID%27]
+msgid "Форма 1"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_FORM2_ID%27]
+msgid "Форма 2"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_FORM1_NAME%27]
+msgid "Заголовок формы 1"
+msgstr ""
+
+#: %24MESS[%27C_FORM_TEMP3_FORM2_NAME%27]
+msgid "Заголовок формы 2"
+msgstr ""

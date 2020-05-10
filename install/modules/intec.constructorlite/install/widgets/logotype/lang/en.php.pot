@@ -1,0 +1,72 @@
+#. extracted from install/modules/intec.constructorlite/install/widgets/logotype/lang/en.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: return[]-%3E%27name%27
+msgid "Логотип"
+msgstr ""
+
+#: return[]-%3E%27settings.type.image%27
+msgid "Изображение"
+msgstr ""
+
+#: return[]-%3E%27settings.type.text%27
+msgid "Текст"
+msgstr ""
+
+#: return[]-%3E%27settings.link%27
+msgid "Включить ссылку<br />на главную страницу"
+msgstr ""
+
+#: return[]-%3E%27settings.text.font%27
+msgid "Шрифт"
+msgstr ""
+
+#: return[]-%3E%27settings.text.font.default%27
+msgid "(По умолчанию)"
+msgstr ""
+
+#: return[]-%3E%27settings.text%27
+msgctxt "return[]->'settings.text'"
+msgid "Содержимое"
+msgstr ""
+
+#: return[]-%3E%27settings.image.content%27
+msgctxt "return[]->'settings.image.content'"
+msgid "Содержимое"
+msgstr ""
+
+#: return[]-%3E%27settings.image.gallery%27
+msgid "Выбрать из галереи"
+msgstr ""
+
+#: return[]-%3E%27settings.image.url%27
+msgid "URL изображения"
+msgstr ""
+
+#: return[]-%3E%27settings.image.remove%27
+msgid "Удалить"
+msgstr ""
+
+#: return[]-%3E%27settings.image.width%27
+msgid "Ширина"
+msgstr ""
+
+#: return[]-%3E%27settings.image.height%27
+msgid "Высота"
+msgstr ""
+
+#: return[]-%3E%27settings.image.proportions%27
+msgid "Сохранять пропорции"
+msgstr ""

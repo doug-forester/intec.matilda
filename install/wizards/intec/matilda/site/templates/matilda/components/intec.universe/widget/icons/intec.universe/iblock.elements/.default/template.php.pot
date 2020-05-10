@@ -1,0 +1,23 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/widget/icons/intec.universe/iblock.elements/.default/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#. /**
+#.  * @var array $arResult
+#.  * @var array $arParams
+#.  * @var CBitrixComponentTemplate $this
+#.  */
+#: %24arStyleIconBg-%3E%27class%27
+msgid "icon-picture-bg"
+msgstr ""

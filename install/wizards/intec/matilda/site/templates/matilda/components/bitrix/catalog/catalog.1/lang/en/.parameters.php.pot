@@ -1,0 +1,543 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog/catalog.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_TABS_USE%27]
+msgid "Использовать вкладки в адресах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_PAGES_SECTIONS%27]
+msgid "Список разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_PAGES_SECTION%27]
+msgid "Раздел"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_PAGES_DETAIL%27]
+msgid "Детальная информация"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_PAGES_TAB%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SEF_PAGES_TAB']"
+msgid "Вкладка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_PAGES_COMPARE%27]
+msgid "Таблица сравнения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_PAGES_SMART_FILTER%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SEF_PAGES_SMART_FILTER']"
+msgid "Фильтр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_ELEMENT_ID%27]
+msgid "Идентификатор элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_ELEMENT_CODE%27]
+msgid "Символьный код элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_SECTION_ID%27]
+msgid "Идентификатор раздела"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_SECTION_CODE%27]
+msgid "Символьный код раздела"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_SECTION_CODE_PATH%27]
+msgid "Путь из символьных кодов раздела"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_SECTION_SMART_FILTER_PATH%27]
+msgid "Блок фильтра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SEF_VARIABLES_TAB%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SEF_VARIABLES_TAB']"
+msgid "Вкладка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VARIABLE_ALIASES_TAB%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_VARIABLE_ALIASES_TAB']"
+msgid "Вкладка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REGIONALITY_FILTER_USE%27]
+msgid "Мультирегиональность. Использовать фильтр по региону"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REGIONALITY_FILTER_PROPERTY%27]
+msgid "Мультирегиональность. Свойство фильтра по региону"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REGIONALITY_FILTER_STRICT%27]
+msgid "Мультирегиональность. Выводить только товары у которых выбран регион"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REGIONALITY_PRICES_TYPES_USE%27]
+msgid "Мультирегиональность. Использовать типы цен региона"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REGIONALITY_STORES_USE%27]
+msgid "Мультирегиональность. Использовать склады региона"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_TAGS%27]
+msgid "Теги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_TAGS_USE%27]
+msgid "Использовать теги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_TAGS_TEMPLATE%27]
+msgid "Теги. Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_TAGS_PROPERTY%27]
+msgid "Теги. Свойство \"Тэги\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_TAGS_COUNT%27]
+msgid "Теги. Подсчитывать количество элементов для каждого тэга"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_TAGS_VARIABLE_TAGS%27]
+msgid "Теги. Параметр запроса, в котором передаются выбранные теги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_MARKS_RECOMMEND%27]
+msgid "Свойство метки \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_MARKS_NEW%27]
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_MARKS_HIT%27]
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_ORDER_USE%27]
+msgid "Свойство \"Товар под заказ\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PRICE_CODE%27]
+msgid "Тип цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_CONVERT_CURRENCY%27]
+msgid "Показывать цены в одной валюте"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_CURRENCY_ID%27]
+msgid "Валюта, в которую будут сконвертированы цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_MENU%27]
+msgid "Меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_MENU_TEMPLATE%27]
+msgid "Шаблон меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_MENU_ROOT%27]
+msgid "Корневой тип меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_MENU_CHILD%27]
+msgid "Вложенный тип меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_MENU_LEVEL%27]
+msgid "Уровень вложенности меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT%27]
+msgid "Корневые разделы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_SECTION_DESCRIPTION_SHOW%27]
+msgid "Отображать описание в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION%27]
+msgid "Позиция описания в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_TOP%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_TOP']"
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_BOTTOM']"
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_CANONICAL_URL_USE%27]
+msgid "Использовать канонический адрес в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_CANONICAL_URL_TEMPLATE%27]
+msgid "Шаблон канонического адреса в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_TEMPLATE%27]
+msgid "Шаблон корневых разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_ROOT_MENU_SHOW%27]
+msgid "Отображать меню в корневых разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN%27]
+msgid "Вложенные разделы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_SHOW%27]
+msgid "Отображать описание в разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION%27]
+msgid "Позиция описания в разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_TOP%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_TOP']"
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_BOTTOM']"
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_CANONICAL_URL_USE%27]
+msgid "Использовать канонический адрес вложенных разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_CANONICAL_URL_TEMPLATE%27]
+msgid "Шаблон канонического адреса вложенных разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_TEMPLATE%27]
+msgid "Шаблон вложенных разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_CHILDREN_MENU_SHOW%27]
+msgid "Отображать меню во вложенных разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FILTER%27]
+msgctxt "$MESS['C_CATALOG_CATALOG_1_FILTER']"
+msgid "Фильтр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FILTER_AJAX%27]
+msgid "Обновление списка товаров через AJAX"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FILTER_TYPE%27]
+msgid "Тип фильтра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FILTER_TYPE_HORIZONTAL%27]
+msgid "Горизонтальный"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FILTER_TYPE_VERTICAL%27]
+msgid "Вертикальный"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FILTER_TEMPLATE%27]
+msgid "Шаблон фильтра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_ROOT_SHOW%27]
+msgid "Отображать товары в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_SORT_PRICE%27]
+msgid "Тип цены для сортировки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_VIEW%27]
+msgid "Вид отображения элементов по умолчанию"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_VIEW_TEXT%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_VIEW_LIST%27]
+msgid "Подробный список"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_VIEW_TILE%27]
+msgid "Плитка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_TEXT%27]
+msgid "Вид элементов \"Список\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_TEXT_TEMPLATE%27]
+msgid "Шаблон вида элементов \"Список\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_LIST%27]
+msgid "Вид элементов \"Подробный список\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_LIST_TEMPLATE%27]
+msgid "Шаблон вида элементов \"Подробный список\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_TILE%27]
+msgid "Вид элементов \"Плитка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LIST_TILE_TEMPLATE%27]
+msgid "Шаблон вида элементов \"Плитка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_DETAIL%27]
+msgid "Детальная страница"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_DETAIL_TEMPLATE%27]
+msgid "Шаблон детальной страницы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_DETAIL_MENU_SHOW%27]
+msgid "Показывать меню на детальной странице"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_DELAY_USE%27]
+msgid "Разрешить добавление товара в отложенные"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу с пользовательским соглашением"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FORM_ID%27]
+msgid "Форма для заказа товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FORM_PROPERTY_PRODUCT%27]
+msgid "Поле формы заказа для наименования товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_FORM_TEMPLATE%27]
+msgid "Шаблон формы заказа товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VOTE_MODE%27]
+msgid "В качестве рейтинга показывать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VOTE_MODE_RATING%27]
+msgid "Рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VOTE_MODE_AVERAGE%27]
+msgid "Среднее значение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUANTITY_MODE%27]
+msgid "Способ отображения остатка товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUANTITY_MODE_NUMBER%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUANTITY_MODE_TEXT%27]
+msgid "\"Много\"/\"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUANTITY_MODE_LOGIC%27]
+msgid "\"В наличии\"/\"Нет в наличии\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUANTITY_BOUNDS_MANY%27]
+msgid "Минимальное кол-во для маркера \"Много\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUANTITY_BOUNDS_FEW%27]
+msgid "Минимальное кол-во для маркера \"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_ARTICLE%27]
+msgid "Свойство \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_BRAND%27]
+msgid "Свойство \"Бренд\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_SERVICES%27]
+msgid "Свойство \"Сопутствующие услуги\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_DOCUMENTS%27]
+msgid "Свойство \"Документы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_ADDITIONAL%27]
+msgid "Свойство \"Дополнительные товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_ASSOCIATED%27]
+msgid "Свойство \"Сопутствующие товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_RECOMMENDED%27]
+msgid "Свойство \"Рекомендованные товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_PROPERTY_PICTURES%27]
+msgid "Свойство \"Изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_OFFERS_PROPERTY_ARTICLE%27]
+msgid "Свойство предложений \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_OFFERS_PROPERTY_PICTURES%27]
+msgid "Свойство предложений \"Изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VIDEO_IBLOCK_TYPE%27]
+msgid "Видео. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VIDEO_IBLOCK_ID%27]
+msgid "Видео. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_VIDEO_PROPERTY_URL%27]
+msgid "Видео. Свойство \"Ссылка на видео\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REVIEWS_IBLOCK_TYPE%27]
+msgid "Отзывы. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REVIEWS_IBLOCK_ID%27]
+msgid "Отзывы. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REVIEWS_PROPERTY_ELEMENT_ID%27]
+msgid "Отзывы. Свойство привязки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_REVIEWS_USE_CAPTCHA%27]
+msgid "Отзывы. Использовать captcha"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_LAZYLOAD_USE%27]
+msgid "Сравнение. Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_ACTION%27]
+msgid "Сравнение. Действие с товаром"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_ACTION_NONE%27]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_ACTION_BUY%27]
+msgid "Покупка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_ACTION_DETAIL%27]
+msgid "Переход к подробному просмотру"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SERVICES_IBLOCK_TYPE%27]
+msgid "Услуги. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SERVICES_IBLOCK_ID%27]
+msgid "Услуги. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SERVICES_PROPERTY_PRICE%27]
+msgid "Услуги. Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUICK_VIEW_USE%27]
+msgid "Использовать быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUICK_VIEW_DETAIL%27]
+msgid "Открывать быстрый просмотр вместо перехода на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUICK_VIEW_TEMPLATE%27]
+msgid "Шаблон быстрого просмотра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUICK_VIEW_PROPERTY_CODE%27]
+msgid "Свойства, выводимые в быстром просмоте"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_QUICK_VIEW%27]
+msgid "Быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_ORDER_FAST_USE%27]
+msgid "Использовать быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_ORDER_FAST_TEMPLATE%27]
+msgid "Шаблон быстрого заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_ORDER_FAST%27]
+msgid "Быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_ROOT_LAYOUT%27]
+msgid "Расположение элементов в корне каталога"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_SECTIONS_LAYOUT%27]
+msgid "Расположение элементов в разделах каталога"
+msgstr ""

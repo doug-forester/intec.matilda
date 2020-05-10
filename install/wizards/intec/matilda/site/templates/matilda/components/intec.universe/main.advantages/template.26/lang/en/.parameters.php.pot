@@ -1,0 +1,66 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.advantages/template.26/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_NAME%27]
+msgid "Свойство \"Название\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_IMAGES%27]
+msgid "Свойство \"Примеры страниц\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_TEXT_ADDITIONAL%27]
+msgid "Свойство \"Доп. текст\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_THEME%27]
+msgid "Свойство \"Цветовая схема блока\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_VIEW%27]
+msgid "Свойство \"Вид отображения\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_DETAIL_NARROW%27]
+msgid "Свойство \"Раскрывающийся детальный текст. Узкий блок\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_DEFAULT_TEXT_ADDITIONAL_NARROW%27]
+msgid "Свойство \"Вид по умолчанию. Узкий блок доп. текста\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_PROPERTY_COMPACT_POSITION%27]
+msgid "Свойство \"Компактный вид. Расположение текста\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_IMAGES_SHOW%27]
+msgid "Отображать \"Примеры страниц\", если есть"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Подробнее\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_ADVANTAGES_TEMPLATE_26_BUTTON_TEXT_DEFAULT%27]
+msgid "Подробнее"
+msgstr ""

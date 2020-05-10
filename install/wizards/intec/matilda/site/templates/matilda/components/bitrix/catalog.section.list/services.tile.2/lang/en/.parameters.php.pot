@@ -1,0 +1,62 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section.list/services.tile.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_COLUMNS%27]
+msgid "Количество колонок"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_PICTURE_TYPE%27]
+msgid "Тип изображения"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_PICTURE_TYPE_SQUARE%27]
+msgid "Квадратное"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_PICTURE_TYPE_ROUND%27]
+msgid "Скругленное"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_PICTURE_INDENTS%27]
+msgid "Отступы у изображения"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_NAME_POSITION%27]
+msgid "Позиция наименования"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_DESCRIPTION_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_DESCRIPTION_POSITION%27]
+msgid "Позиция описания"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_LIST_SERVICES_TILE_2_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""

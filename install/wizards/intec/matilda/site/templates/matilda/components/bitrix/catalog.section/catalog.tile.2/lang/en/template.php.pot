@@ -1,0 +1,78 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/catalog.tile.2/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_BASKET_ADD%27]
+msgid "+ В корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_BASKET_ADDED%27]
+msgid "Добавлено"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_UNAVAILABLE%27]
+msgid "Недоступно"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_MORE_INFO%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_ORDER%27]
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_1_LAZY_TEXT%27]
+msgid "Показать еще"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_DELAY_ADD_TITLE%27]
+msgid "Добавить в избранное"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_DELAY_ADDED_TITLE%27]
+msgid "Убрать из избранного"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_COMPARE_ADD_TITLE%27]
+msgid "Добавить в сравнение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_COMPARE_ADDED_TITLE%27]
+msgid "Убрать из сравнения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_QUICK_VIEW%27]
+msgid "Быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_QUANTITY_AVAILABLE%27]
+msgid "В наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_QUANTITY_UNAVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_QUANTITY_BOUNDS_MANY%27]
+msgid "Много"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_QUANTITY_BOUNDS_ENOUGH%27]
+msgid "Достаточно"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_2_QUANTITY_BOUNDS_FEW%27]
+msgid "Мало"
+msgstr ""

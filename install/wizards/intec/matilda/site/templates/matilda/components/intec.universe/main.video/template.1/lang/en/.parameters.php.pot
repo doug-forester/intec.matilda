@@ -1,0 +1,78 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.video/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_WIDE%27]
+msgid "Во всю ширину экрана"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_HEIGHT%27]
+msgid "Высота блока (мин. 300px)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_HEIGHT_AUTO%27]
+msgid "Автоматически"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_ROUNDED%27]
+msgid "Скругленные углы блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_FADE%27]
+msgid "Затемнить фон блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_SHADOW_USE%27]
+msgid "Отображать тень блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_SHADOW_MODE%27]
+msgid "Режим отображения тени"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_SHADOW_MODE_HOVER%27]
+msgid "При наведении"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_SHADOW_MODE_PERMANENT%27]
+msgid "Постоянно"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_THEME%27]
+msgid "Цветовая схема"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_THEME_LIGHT%27]
+msgid "Светлая"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_THEME_DARK%27]
+msgid "Темная"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_PARALLAX_USE%27]
+msgid "Использовать эффект паралакса"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEO_TEMPLATE_1_PARALLAX_RATIO%27]
+msgid "Сила эффекта паралакса (0 - 100)"
+msgstr ""

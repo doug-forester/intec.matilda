@@ -1,0 +1,182 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news/reviews/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_TITLE_SHOW%27]
+msgid "Отображать заголовок элемента"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_SERVICES%27]
+msgid "Оказанные услуги"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_SERVICES%27]
+msgid "Свойство \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_SERVICES_IBLOCK_TYPE%27]
+msgid "Оказанные услуги. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_SERVICES_IBLOCK_ID%27]
+msgid "Оказанные услуги. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_SERVICES_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_LIST_SERVICES_SHOW']"
+msgid "Отображать блок \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_SERVICES_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_DETAIL_SERVICES_SHOW']"
+msgid "Отображать блок \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_CASE%27]
+msgid "Выполненные работы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_CASES%27]
+msgid "Свойство \"Выполненные работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_CASE_IBLOCK_TYPE%27]
+msgid "Выполненные работы. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_CASE_IBLOCK_ID%27]
+msgid "Выполненные работы. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_CASE_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_LIST_CASE_SHOW']"
+msgid "Отображать блок \"Выполненные работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_CASES_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_DETAIL_CASES_SHOW']"
+msgid "Отображать блок \"Выполненные работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео отзыв\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_VIDEO_IBLOCK_TYPE%27]
+msgid "Видео отзыв. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_VIDEO_IBLOCK_ID%27]
+msgid "Видео отзыв. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_VIDEO_PROPERTY_LINK%27]
+msgid "Видео отзыв. Ссылка \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_VIDEO_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_LIST_VIDEO_SHOW']"
+msgid "Отображать блок \"Видео отзыв\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_VIDEO_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_DETAIL_VIDEO_SHOW']"
+msgid "Отображать блок \"Видео отзыв\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_DOCUMENT%27]
+msgid "Свойство \"Скан отзыва\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_PERSON_NAME%27]
+msgid "Свойство \"Имя\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_PERSON_POSITION%27]
+msgid "Свойство \"Должность\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_PROPERTY_SITE_URL%27]
+msgid "Свойство \"Адрес сайта\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_LIST_DOCUMENT_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_LIST_DOCUMENT_SHOW']"
+msgid "Показывать \"Скан отзыва\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_DETAIL_DOCUMENT_SHOW%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_DETAIL_DOCUMENT_SHOW']"
+msgid "Показывать \"Скан отзыва\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_SHOW%27]
+msgid "Показывать форму \"Оставить отзыв\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_ID%27]
+msgid "\"Оставить отзыв\". Форма"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_TEMPLATE%27]
+msgid "\"Оставить отзыв\". Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_TITLE%27]
+msgid "\"Оставить отзыв\". Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_CONSENT%27]
+msgid ""
+"\"Оставить отзыв\". Ссылка на страницу с соглашением обработки персональных "
+"данных"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_BUTTON%27]
+msgid "\"Оставить отзыв\". Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_POSITION%27]
+msgid "\"Оставить отзыв\". Расположение кнопки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_POSITION_TOP%27]
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_POSITION_BOTTOM%27]
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_FORM_TITLE_DEFAULT']"
+msgid "Оставить отзыв"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_REVIEWS_FORM_BUTTON_DEFAULT%27]
+msgctxt "$MESS['C_NEWS_REVIEWS_FORM_BUTTON_DEFAULT']"
+msgid "Оставить отзыв"
+msgstr ""

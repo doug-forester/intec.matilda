@@ -1,0 +1,94 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/forms/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить веб форму"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактирование веб формы"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Веб форма"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Веб форма с таким кодом уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Веб форма успешно добавлена!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Веб форма успешно изменена!"
+msgstr ""
+
+#: %24MESS[%27fields.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27fields.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27fields.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.site%27]
+msgid "Сайты"
+msgstr ""
+
+#: %24MESS[%27fields.use_post%27]
+msgid "Отправлять результаты на эл. почту"
+msgstr ""
+
+#: %24MESS[%27fields.use_captcha%27]
+msgid "Использовать проверочный код"
+msgstr ""
+
+#: %24MESS[%27fields.language.caption%27]
+msgid "Языковые настройки"
+msgstr ""
+
+#: %24MESS[%27fields.language.language%27]
+msgid "Язык"
+msgstr ""
+
+#: %24MESS[%27fields.language.name%27]
+msgid "Название"
+msgstr ""
+
+#: %24MESS[%27fields.language.button%27]
+msgid "Кнопка"
+msgstr ""
+
+#: %24MESS[%27fields.language.sent%27]
+msgid "Сообщение при успешной отправке"
+msgstr ""

@@ -1,0 +1,76 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.product.subscribe/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CPST_SUBSCRIBE_BUTTON_NAME%22]
+msgid "Subscribe"
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_POPUP_TITLE%22]
+msgid "Product subscription"
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_BUTTON_CLOSE%22]
+msgid "Close"
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_MANY_CONTACT_NOTIFY%22]
+msgid "Select notification method:"
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_LABLE_CONTACT_INPUT%22]
+msgid "Specify your #CONTACT#: "
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_VALIDATE_UNKNOW_ERROR%22]
+msgid "Validation error"
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_VALIDATE_ERROR_EMPTY_FIELD%22]
+msgid "The \"#FIELD#\" field is required."
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_VALIDATE_ERROR%22]
+msgid "Notification method is not selected"
+msgstr ""
+
+#: %24MESS[%22CPST_SUBSCRIBE_CAPTCHA_TITLE%22]
+msgctxt "$MESS[\"CPST_SUBSCRIBE_CAPTCHA_TITLE\"]"
+msgid "Type the characters you see on the picture"
+msgstr ""
+
+#: %24MESS[%22CPST_STATUS_SUCCESS%22]
+msgid "Success"
+msgstr ""
+
+#: %24MESS[%22CPST_STATUS_ERROR%22]
+msgid "That's an error."
+msgstr ""
+
+#: %24MESS[%22CPST_ENTER_WORD_PICTURE%22]
+msgctxt "$MESS[\"CPST_ENTER_WORD_PICTURE\"]"
+msgid "Type the characters you see on the picture"
+msgstr ""
+
+#: %24MESS[%22CPST_TITLE_ALREADY_SUBSCRIBED%22]
+msgid "Subscribed"
+msgstr ""
+
+#: %24MESS[%22CPST_POPUP_SUBSCRIBED_TITLE%22]
+msgid "You subscription is active"
+msgstr ""
+
+#: %24MESS[%22CPST_POPUP_SUBSCRIBED_TEXT%22]
+msgid "View the products you have subscribed for here: #URL#"
+msgstr ""

@@ -1,0 +1,26 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/iblock.elements/tiles.landing.3/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27USE_LINK_TO_ELEMENTS%27]
+msgid "Ссылаться на элементы"
+msgstr ""
+
+#: %24MESS[%27LINK_TO_ELEMENTS%27]
+msgid "Ссылка на раздел с элементами"
+msgstr ""
+
+#: %24MESS[%27PICTURE_BLOCK_HEIGHT%27]
+msgid "Высота блока с изображением"
+msgstr ""

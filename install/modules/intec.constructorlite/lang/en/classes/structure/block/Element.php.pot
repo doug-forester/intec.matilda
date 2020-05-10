@@ -1,0 +1,48 @@
+#. extracted from install/modules/intec.constructorlite/lang/en/classes/structure/block/Element.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27intec.constructor.structure.block.element.container.grid%27]
+msgid "Сетка"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.container.window%27]
+msgid "Окно"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.xAxis.left%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.xAxis.center%27]
+msgctxt "$MESS['intec.constructor.structure.block.element.xAxis.center']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.xAxis.right%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.yAxis.top%27]
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.yAxis.center%27]
+msgctxt "$MESS['intec.constructor.structure.block.element.yAxis.center']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.structure.block.element.yAxis.bottom%27]
+msgid "Снизу"
+msgstr ""

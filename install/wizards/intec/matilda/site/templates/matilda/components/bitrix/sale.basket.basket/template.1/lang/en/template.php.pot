@@ -1,0 +1,252 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.basket.basket/template.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_EMPTY_TITLE%27]
+msgid "Ваша корзина пуста"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_EMPTY_DESCRIPTION%27]
+msgid ""
+"Выберите нужный Вам товар из каталога<br>интернет-магазина и добавьте его в "
+"корзину"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_EMPTY_URL%27]
+msgid "Перейти в каталог"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_MAX_COUNT_EXCEEDED%27]
+msgid "Перейдите в #PART1#корзину#PART2# для редактирования"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ALERT_GLOBAL_PART_1%27]
+msgid "В вашей корзине"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ALERT_GLOBAL_PART_2%27]
+msgid "требует внимания"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_FILTER_PLACEHOLDER%27]
+msgid "Найти в корзине..."
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_FILTER_EMPTY_TITLE%27]
+msgid "Ничего не найдено"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_FILTER_EMPTY_DESCRIPTION%27]
+msgid "Ни один товар в вашей корзине не соответсвует введенном запросу"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_PANEL_BUTTONS_BUTTON_DELETE%27]
+msgid "Очистить корзину"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_COUPON_FIELD_NAME%27]
+msgid "Введите код купона для скидки"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_COUPON_MESSAGE_DESCRIPTION%27]
+msgid "Купон"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_COUPON_MESSAGE_DELETE%27]
+msgid "Отменить"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_TOTAL%27]
+msgid "Итого:"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_VAT%27]
+msgid "Сумма НДС:"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_WEIGHT%27]
+msgid "Общий вес:"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_ECONOMY%27]
+msgctxt "$MESS['C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_ECONOMY']"
+msgid "Экономия"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_ORDER%27]
+msgid "Оформить заказ"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_TOTAL_ORDER_FAST%27]
+msgid "Быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_UNAVAILABLE%27]
+msgid "В данный момент этот товар не доступен"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_DELAYED_MESSAGE%27]
+msgid "Товар отложен."
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_DELAYED_REMOVE%27]
+msgid "Добавить к заказу?"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_OFFERS_SIMILAR_PART_1%27]
+msgid "Этот товар"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_OFFERS_SIMILAR_PART_2%27]
+msgid "уже есть в корзине в количестве"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_OFFERS_SIMILAR_PART_3%27]
+msgid "Объединить товары в одну позицию c количеством"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_RESTORE_PART_1%27]
+msgctxt "$MESS['C_BASKET_DEFAULT_1_TEMPLATE_ITEM_RESTORE_PART_1']"
+msgid "Товар"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_RESTORE_PART_2%27]
+msgid "был удален из корзины"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_RESTORE_ACTION%27]
+msgid "Восстановить"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_PRICE_ALONG_DELIMITER%27]
+msgid "за"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_PRICE_APART_BEFORE%27]
+msgid "Цена за"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_TOTAL_DISCOUNT%27]
+msgid "Скидка"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_TOTAL_ECONOMY%27]
+msgctxt "$MESS['C_BASKET_DEFAULT_1_TEMPLATE_ITEM_TOTAL_ECONOMY']"
+msgid "Экономия"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_ITEM_ACTION_DELETE%27]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27C_BASKET_DEFAULT_1_TEMPLATE_GIFTS_TITLE%27]
+msgid "Выберите один из подарков"
+msgstr ""
+
+#. //$MESS['SBB_DELETE'] = 'Удалить';
+#. //$MESS['SBB_FILTER_EMPTY_RESULT'] = 'По данному запросу товаров не найдено';
+#. //$MESS['SBB_BASKET_ITEM_WARNING'] = 'В вашей корзине <a href=\'javascript:void(0)\' data-entity=\'basket-items-warning-count\'></a> требует внимания.';
+#. //$MESS['SBB_BASKET_FILTER'] = 'Фильтр';
+#: %24MESS[%27SBB_BASKET_ITEMS_WARNING%27]
+msgctxt "$MESS['SBB_BASKET_ITEMS_WARNING']"
+msgid "c ошибками"
+msgstr ""
+
+#: %24MESS[%27SBB_NOT_AVAILABLE_ITEM%27]
+msgid "недоступен"
+msgstr ""
+
+#: %24MESS[%27SBB_NOT_AVAILABLE_ITEM_2%27]
+msgctxt "$MESS['SBB_NOT_AVAILABLE_ITEM_2']"
+msgid "недоступно"
+msgstr ""
+
+#: %24MESS[%27SBB_NOT_AVAILABLE_ITEMS%27]
+msgctxt "$MESS['SBB_NOT_AVAILABLE_ITEMS']"
+msgid "недоступно"
+msgstr ""
+
+#: %24MESS[%27SBB_DELAYED_ITEM%27]
+msgid "отложен"
+msgstr ""
+
+#: %24MESS[%27SBB_DELAYED_ITEM_2%27]
+msgctxt "$MESS['SBB_DELAYED_ITEM_2']"
+msgid "отложено"
+msgstr ""
+
+#: %24MESS[%27SBB_DELAYED_ITEMS%27]
+msgctxt "$MESS['SBB_DELAYED_ITEMS']"
+msgid "отложено"
+msgstr ""
+
+#: %24MESS[%27SBB_SIMILAR_ITEM%27]
+msgid "похожий"
+msgstr ""
+
+#: %24MESS[%27SBB_SIMILAR_ITEM_2%27]
+msgctxt "$MESS['SBB_SIMILAR_ITEM_2']"
+msgid "похожих"
+msgstr ""
+
+#: %24MESS[%27SBB_SIMILAR_ITEMS%27]
+msgctxt "$MESS['SBB_SIMILAR_ITEMS']"
+msgid "похожих"
+msgstr ""
+
+#. //$MESS['SBB_BASKET_ITEM_NOT_AVAILABLE'] = 'В данный момент этот товар не доступен';
+#. //$MESS['SBB_BASKET_ITEM_DELAYED'] = 'Товар отложен';
+#. //$MESS['SBB_BASKET_ITEM_REMOVE_DELAYED'] = 'Добавить к заказу?';
+#. //$MESS['SBB_BASKET_ITEM_SIMILAR_P1'] = 'Этот товар';
+#. //$MESS['SBB_BASKET_ITEM_SIMILAR_P2'] = 'уже есть в корзине в количестве';
+#. //$MESS['SBB_BASKET_ITEM_SIMILAR_P3'] = 'Объединить товары в одну позицию c количеством';
+#: %24MESS[%27SBB_BASKET_ITEM_PRICE_FOR%27]
+msgid "цена за"
+msgstr ""
+
+#. //$MESS['SBB_BASKET_ITEM_ECONOMY'] = 'Экономия';
+#. //$MESS['SBB_BASKET_ITEM_DELETED'] = 'был удален из корзины';
+#. //$MESS['SBB_BASKET_ITEM_RESTORE'] = 'Восстановить';
+#. //$MESS['SBB_COUPON_ENTER'] = 'Введите код купона для скидки';
+#. //$MESS['SBB_COUPON'] = 'купон';
+#. //$MESS['SBB_TOTAL'] = 'Итого';
+#. //$MESS['SBB_WEIGHT'] = 'Общий вес';
+#. //$MESS['SBB_VAT'] = 'Сумма НДС';
+#. //$MESS['SBB_ORDER'] = 'Оформить заказ';
+#. //$MESS['SBB_BASKET_ITEM_MAX_COUNT_EXCEEDED'] = 'Перейдите в <a href=#PATH#>корзину</a> для редактирования';
+#: %24MESS[%27SBB_WARNING_ITEM%27]
+msgctxt "$MESS['SBB_WARNING_ITEM']"
+msgid "c ошибками"
+msgstr ""
+
+#: %24MESS[%27SBB_IN_BASKET%27]
+msgid "В корзине"
+msgstr ""
+
+#: %24MESS[%27SBB_GOOD_CAP%27]
+msgctxt "$MESS['SBB_GOOD_CAP']"
+msgid "Товар"
+msgstr ""
+
+#: %24MESS[%27SBB_GOOD%27]
+msgid "товар"
+msgstr ""
+
+#: %24MESS[%27SBB_GOOD_2%27]
+msgid "товара"
+msgstr ""
+
+#: %24MESS[%27SBB_GOODS%27]
+msgid "товаров"
+msgstr ""

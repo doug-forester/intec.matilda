@@ -1,0 +1,66 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog/brands/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_REGIONALITY_FILTER_USE%27]
+msgid "Мультирегиональность. Использовать фильтр по региону"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_REGIONALITY_FILTER_PROPERTY%27]
+msgid "Мультирегиональность. Свойство фильтра по региону"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_REGIONALITY_FILTER_STRICT%27]
+msgid "Мультирегиональность. Выводить только бренды у которых выбран регион"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_CATALOG_DISPLAY%27]
+msgid "Отображать товары брендов"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_CATALOG_IBLOCK_TYPE%27]
+msgid "Тип инфоблока каталога"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_CATALOG_IBLOCK_ID%27]
+msgid "Инфоблок каталога"
+msgstr ""
+
+#: %24MESS[%27C_BRANDS_PARAMETERS_CATALOG_IBLOCK_PROPERTY%27]
+msgid "Код свойства привязки к бренду"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_PRICE_CODE%27]
+msgid "Тип цены"
+msgstr ""
+
+#: %24MESS[%27SH_C_USE_COMMON_CURRENCY%27]
+msgid "Использовать одну валюту при отображении товаров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CURRENCY%27]
+msgid "Базовая валюта для отображения цен"
+msgstr ""

@@ -1,0 +1,162 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/forms/fields.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Поля формы #FORM#"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список форм"
+msgstr ""
+
+#: %24MESS[%27table.header.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27table.header.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27table.header.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27table.header.name%27]
+msgid "Название"
+msgstr ""
+
+#: %24MESS[%27table.header.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27table.header.required%27]
+msgid "Обязательное"
+msgstr ""
+
+#: %24MESS[%27table.header.readonly%27]
+msgid "Только для чтения"
+msgstr ""
+
+#: %24MESS[%27table.header.type%27]
+msgid "Тип"
+msgstr ""
+
+#: %24MESS[%27actions.delete%27]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27actions.edit%27]
+msgid "Изменить"
+msgstr ""
+
+#: %24MESS[%27actions.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27actions.activate%27]
+msgid "Активировать"
+msgstr ""
+
+#: %24MESS[%27actions.deactivate%27]
+msgid "Деактивировать"
+msgstr ""
+
+#: %24MESS[%27actions..require%27]
+msgid "Сделать обязательным"
+msgstr ""
+
+#: %24MESS[%27actions.unrequire%27]
+msgid "Сделать необязательным"
+msgstr ""
+
+#: %24MESS[%27actions.readonly%27]
+msgid "Разрешить только чтение"
+msgstr ""
+
+#: %24MESS[%27actions.unreadonly%27]
+msgid "Разрешить изменение"
+msgstr ""
+
+#: %24MESS[%27actions.group.delete%27]
+msgid "удалить"
+msgstr ""
+
+#: %24MESS[%27actions.group.activate%27]
+msgid "активировать"
+msgstr ""
+
+#: %24MESS[%27actions.group.deactivate%27]
+msgid "деактивировать"
+msgstr ""
+
+#: %24MESS[%27actions.group.require%27]
+msgid "сделать обязательными"
+msgstr ""
+
+#: %24MESS[%27actions.group.unrequire%27]
+msgid "сделать необязательными"
+msgstr ""
+
+#: %24MESS[%27actions.group.readonly%27]
+msgid "разрешить только чтение"
+msgstr ""
+
+#: %24MESS[%27actions.group.unreadonly%27]
+msgid "разрешить изменение"
+msgstr ""
+
+#: %24MESS[%27nav.title%27]
+msgid "Поля формы"
+msgstr ""
+
+#: %24MESS[%27active.yes%27]
+msgid "Да"
+msgstr ""
+
+#: %24MESS[%27active.no%27]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27types.text%27]
+msgid "[text] Текстовое поле"
+msgstr ""
+
+#: %24MESS[%27types.textarea%27]
+msgid "[textarea] Большое текстовое поле"
+msgstr ""
+
+#: %24MESS[%27types.radio%27]
+msgid "[radio] Список радиокнопок"
+msgstr ""
+
+#: %24MESS[%27types.checkbox%27]
+msgid "[checkbox] Чекбокс"
+msgstr ""
+
+#: %24MESS[%27types.select%27]
+msgid "[select] Список"
+msgstr ""
+
+#: %24MESS[%27types.multiselect%27]
+msgid "[multiselect] Список с множественным выбором"
+msgstr ""
+
+#: %24MESS[%27types.password%27]
+msgid "[password] Пароль"
+msgstr ""
+
+#: %24MESS[%27types.hidden%27]
+msgid "[hidden] Скрытое поле"
+msgstr ""

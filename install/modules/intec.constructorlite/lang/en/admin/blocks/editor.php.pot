@@ -1,0 +1,204 @@
+#. extracted from install/modules/intec.constructorlite/lang/en/admin/blocks/editor.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Конструктор блоков"
+msgstr ""
+
+#: %24MESS[%27button.element.add%27]
+msgid "Добавить элемент"
+msgstr ""
+
+#: %24MESS[%27button.settings%27]
+msgid "Настройки"
+msgstr ""
+
+#: %24MESS[%27button.layers%27]
+msgctxt "$MESS['button.layers']"
+msgid "Слои"
+msgstr ""
+
+#: %24MESS[%27button.save%27]
+msgid "Сохранить"
+msgstr ""
+
+#: %24MESS[%27button.saving%27]
+msgid "Сохранение"
+msgstr ""
+
+#: %24MESS[%27button.exit%27]
+msgid "Выйти"
+msgstr ""
+
+#: %24MESS[%27notify.saved%27]
+msgid "Сохранено"
+msgstr ""
+
+#: %24MESS[%27notify.saveError%27]
+msgid "Ошибка при сохранении"
+msgstr ""
+
+#: %24MESS[%27net.on%27]
+msgid "Включить сетку"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.top.selectedElementOnTop%27]
+msgid "Выбранный элемент поверх других"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings%27]
+msgid "Настройки элемента"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.common%27]
+msgid "Базовые настройки"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.display%27]
+msgid "Отображать"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.container%27]
+msgid "Контейнер"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.x%27]
+msgid "X"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.y%27]
+msgid "Y"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.width%27]
+msgid "Ширина"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.height%27]
+msgid "Высота"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.xAxis%27]
+msgid "Ось X"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.yAxis%27]
+msgid "Ось Y"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.layer%27]
+msgid "Слой"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.layer.up.end%27]
+msgctxt "$MESS['constructor.menu.settings.layer.up.end']"
+msgid "Вверх"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.layer.up%27]
+msgctxt "$MESS['constructor.menu.settings.layer.up']"
+msgid "Слой вверх"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.layer.down%27]
+msgctxt "$MESS['constructor.menu.settings.layer.down']"
+msgid "Слой вниз"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.layer.down.end%27]
+msgctxt "$MESS['constructor.menu.settings.layer.down.end']"
+msgid "Вниз"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.indents%27]
+msgid "Отступы"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.indents.top%27]
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.indents.bottom%27]
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.indents.left%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.settings.indents.right%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.layers%27]
+msgctxt "$MESS['constructor.menu.layers']"
+msgid "Слои"
+msgstr ""
+
+#: %24MESS[%27constructor.menu.layers.messages.empty%27]
+msgid "Слоев нет"
+msgstr ""
+
+#: %24MESS[%27constructor.dialogs.gallery.title%27]
+msgid "Галерея"
+msgstr ""
+
+#: %24MESS[%27constructor.dialogs.gallery.search%27]
+msgid "Поиск по названию ..."
+msgstr ""
+
+#: %24MESS[%27constructor.dialogs.gallery.load%27]
+msgid "Загрузить"
+msgstr ""
+
+#: %24MESS[%27constructor.dialogs.gallery.load.image%27]
+msgid "Загрузить изображение"
+msgstr ""
+
+#: %24MESS[%27constructor.dialogs.gallery.drop.image%27]
+msgid "Нажмите на область или перетащите в нее файл"
+msgstr ""
+
+#: %24MESS[%27panel.copy%27]
+msgid "Копировать"
+msgstr ""
+
+#: %24MESS[%27panel.delete%27]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27panel.delete.confirm%27]
+msgid "Вы дейстивительно хотите удалит этот элемент"
+msgstr ""
+
+#: %24MESS[%27panel.layer.up.end%27]
+msgctxt "$MESS['panel.layer.up.end']"
+msgid "Вверх"
+msgstr ""
+
+#: %24MESS[%27panel.layer.up%27]
+msgctxt "$MESS['panel.layer.up']"
+msgid "Слой вверх"
+msgstr ""
+
+#: %24MESS[%27panel.layer.down%27]
+msgctxt "$MESS['panel.layer.down']"
+msgid "Слой вниз"
+msgstr ""
+
+#: %24MESS[%27panel.layer.down.end%27]
+msgctxt "$MESS['panel.layer.down.end']"
+msgid "Вниз"
+msgstr ""

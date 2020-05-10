@@ -1,0 +1,48 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/system.auth.authorize/templates/startshop/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_AUTHORIZE_TITLE%27]
+msgid "Авторизация"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_AUTHORIZE_FORM_LOGIN_PLACEHOLDER%27]
+msgid "Логин или E-mail"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_AUTHORIZE_FORM_PASSWORD_PLACEHOLDER%27]
+msgid "Пароль"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_AUTHORIZE_FORM_AUTHORIZE%27]
+msgid "Войти"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_AUTHORIZE_FORM_FORGOT_PASSWORD%27]
+msgid "Забыли пароль?"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_AUTHORIZE_FORM_REMEMBER_ME%27]
+msgid "Запомнить меня"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_REGISTER%27]
+msgid "Зарегистрироваться"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_AUTHORIZE_REGISTER_DESCRIPTION%27]
+msgid ""
+"После регистрации на сайте вам будет доступно отслеживание состояния "
+"заказов, личный кабинет и другие новые возможности"
+msgstr ""

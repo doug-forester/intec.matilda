@@ -1,0 +1,109 @@
+#. extracted from install/wizards/intec/matilda/site/public/en/help/features/index.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24arRounds[]-%3E%27None%27
+msgid "none"
+msgstr ""
+
+#: %24arRounds[]-%3E%27None%27
+msgctxt "$arRounds[]->'None'"
+msgid "1"
+msgstr ""
+
+#: %24arRounds[]-%3E%27None%27
+msgctxt "$arRounds[]->'None'"
+msgid "2"
+msgstr ""
+
+#: %24arRounds[]-%3E%27None%27
+msgctxt "$arRounds[]->'None'"
+msgid "3"
+msgstr ""
+
+#: %24arRounds[]-%3E%27None%27
+msgctxt "$arRounds[]->'None'"
+msgid "4"
+msgstr ""
+
+#: %24arRounds[]-%3E%27None%27
+msgctxt "$arRounds[]->'None'"
+msgid "5"
+msgstr ""
+
+#: %24arRounds[]-%3E%27None%27
+msgid "half"
+msgstr ""
+
+#: %24arSizes[]-%3E%27None%27
+msgctxt "$arSizes[]->'None'"
+msgid "1"
+msgstr ""
+
+#: %24arSizes[]-%3E%27None%27
+msgctxt "$arSizes[]->'None'"
+msgid "2"
+msgstr ""
+
+#: %24arSizes[]-%3E%27None%27
+msgctxt "$arSizes[]->'None'"
+msgid "3"
+msgstr ""
+
+#: %24arSizes[]-%3E%27None%27
+msgctxt "$arSizes[]->'None'"
+msgid "4"
+msgstr ""
+
+#: %24arSizes[]-%3E%27None%27
+msgctxt "$arSizes[]->'None'"
+msgid "5"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgctxt "$arSchemes[]->'None'"
+msgid ""
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "current"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "blue"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "blue-1"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "red"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "green"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "green-1"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "orange"
+msgstr ""
+
+#: %24arSchemes[]-%3E%27None%27
+msgid "gray"
+msgstr ""

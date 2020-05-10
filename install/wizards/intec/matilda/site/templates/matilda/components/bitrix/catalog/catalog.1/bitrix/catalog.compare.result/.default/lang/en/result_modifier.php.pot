@@ -1,0 +1,318 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog/catalog.1/bitrix/catalog.compare.result/.default/lang/en/result_modifier.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_ID%27]
+msgid "ID товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_CODE%27]
+msgid "Символьный код товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_XML_ID%27]
+msgid "Внешний код товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_NAME%27]
+msgid "Название товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_TAGS%27]
+msgid "Теги товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_SORT%27]
+msgid "Сортировка товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DESCRIPTION%27]
+msgid "Описание товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DESCRIPTION_TYPE%27]
+msgid "Тип описания товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_PICTURE%27]
+msgid "Изображение товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_PREVIEW_TEXT%27]
+msgid "Описание для анонса товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_PREVIEW_TEXT_TYPE%27]
+msgid "Тип описания для анонса товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_PREVIEW_PICTURE%27]
+msgid "Картинка для анонса товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DETAIL_TEXT%27]
+msgid "Детальное описание товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DETAIL_TEXT_TYPE%27]
+msgid "Тип детального описания товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DETAIL_PICTURE%27]
+msgid "Детальная картинка товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DATE_ACTIVE_FROM%27]
+msgid "Начало активности (дата) товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_ACTIVE_FROM%27]
+msgid "Начало активности (время) товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DATE_ACTIVE_TO%27]
+msgid "Окончание активности (дата) товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_ACTIVE_TO%27]
+msgid "Окончание активности (время) товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_SHOW_COUNTER%27]
+msgid "Количество показов товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_SHOW_COUNTER_START%27]
+msgid "Дата первого показа товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_STATUS%27]
+msgid "Статус товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_IBLOCK_TYPE_ID%27]
+msgid "Тип информационного блока товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_IBLOCK_ID%27]
+msgid "ID информационного блока товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_IBLOCK_CODE%27]
+msgid "Символьный код информационного блока товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_IBLOCK_NAME%27]
+msgid "Название информационного блока товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_IBLOCK_EXTERNAL_ID%27]
+msgid "Внешний код информационного блока товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_DATE_CREATE%27]
+msgid "Дата создания товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_CREATED_BY%27]
+msgid "Кем создан (ID) товар"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_CREATED_USER_NAME%27]
+msgid "Кем создан (имя) товар"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_TIMESTAMP_X%27]
+msgid "Дата изменения товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_MODIFIED_BY%27]
+msgid "Кем изменен (ID) товар"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_USER_NAME%27]
+msgid "Кем изменен (имя) товар"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_SECTION_ID%27]
+msgid "Раздел товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_ACTIVE%27]
+msgid "Активность товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_BP_PUBLISHED%27]
+msgid "Опубликован товар"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_ACTIVE_PERIOD_FROM%27]
+msgid "Начало активности товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_PRODUCT_FIELDS_ACTIVE_PERIOD_TO%27]
+msgid "Окончание активности товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_ID%27]
+msgid "ID предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_CODE%27]
+msgid "Символьный код предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_XML_ID%27]
+msgid "Внешний код предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_NAME%27]
+msgid "Название предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_TAGS%27]
+msgid "Теги предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_SORT%27]
+msgid "Сортировка предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DESCRIPTION%27]
+msgid "Описание предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DESCRIPTION_TYPE%27]
+msgid "Тип описания предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_PICTURE%27]
+msgid "Изображение предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_PREVIEW_TEXT%27]
+msgid "Описание для анонса предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_PREVIEW_TEXT_TYPE%27]
+msgid "Тип описания для анонса предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_PREVIEW_PICTURE%27]
+msgid "Картинка для анонса предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DETAIL_TEXT%27]
+msgid "Детальное описание предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DETAIL_TEXT_TYPE%27]
+msgid "Тип детального описания предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DETAIL_PICTURE%27]
+msgid "Детальная картинка предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DATE_ACTIVE_FROM%27]
+msgid "Начало активности (дата) предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_ACTIVE_FROM%27]
+msgid "Начало активности (время) предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DATE_ACTIVE_TO%27]
+msgid "Окончание активности (дата) предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_ACTIVE_TO%27]
+msgid "Окончание активности (время) предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_SHOW_COUNTER%27]
+msgid "Количество показов предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_SHOW_COUNTER_START%27]
+msgid "Дата первого показа предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_STATUS%27]
+msgid "Статус предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_IBLOCK_TYPE_ID%27]
+msgid "Тип информационного блока предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_IBLOCK_ID%27]
+msgid "ID информационного блока предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_IBLOCK_CODE%27]
+msgid "Символьный код информационного блока предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_IBLOCK_NAME%27]
+msgid "Название информационного блока предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_IBLOCK_EXTERNAL_ID%27]
+msgid "Внешний код информационного блока предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_DATE_CREATE%27]
+msgid "Дата создания предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_CREATED_BY%27]
+msgid "Кем создано (ID) предложение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_CREATED_USER_NAME%27]
+msgid "Кем создано (имя) предложение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_TIMESTAMP_X%27]
+msgid "Дата изменения предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_MODIFIED_BY%27]
+msgid "Кем изменено (ID) предложение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_USER_NAME%27]
+msgid "Кем изменено (имя) предложение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_SECTION_ID%27]
+msgid "Раздел предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_ACTIVE%27]
+msgid "Активность предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_BP_PUBLISHED%27]
+msgid "Опубликовано предложение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_ACTIVE_PERIOD_FROM%27]
+msgid "Начало активности предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_CATALOG_1_COMPARE_OFFER_FIELDS_ACTIVE_PERIOD_TO%27]
+msgid "Окончание активности предложения"
+msgstr ""

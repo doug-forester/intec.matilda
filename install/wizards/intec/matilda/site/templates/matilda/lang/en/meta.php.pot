@@ -1,0 +1,1568 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/lang/en/meta.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27template.meta.properties-categories.base%27]
+msgid "Общие"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.main%27]
+msgid "Главная"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.header%27]
+msgid "Шапка"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.catalog%27]
+msgid "Каталог"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.services%27]
+msgctxt "$MESS['template.meta.properties-categories.services']"
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.basket%27]
+msgid "Корзина"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.sections%27]
+msgctxt "$MESS['template.meta.properties-categories.sections']"
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.footer%27]
+msgid "Футер"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties-categories.mobile%27]
+msgid "Мобильная версия"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-color%27]
+msgid "Цветовая схема"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-background-show%27]
+msgid "Отображать фон"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-background-color%27]
+msgid "Цвет фона"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-font%27]
+msgid "Шрифт"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-images-effect%27]
+msgid "Эффект изображений"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-images-effect.none%27]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-images-effect.flash%27]
+msgid "Вспышка"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-images-effect.circle%27]
+msgid "Круг"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-images-effect.opacity%27]
+msgid "Прозрачность"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-images-lazyload-use%27]
+msgid "Отложенная загрузка изображений"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-menu-show%27]
+msgid "Отображать боковое меню"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-titles-size%27]
+msgid "Размер заголовков"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-titles-size.20%27]
+msgid "20px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-titles-size.24%27]
+msgid "24px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-titles-size.30%27]
+msgid "30px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-text-size%27]
+msgid "Размер текста"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-text-size.13%27]
+msgid "13px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-text-size.14%27]
+msgid "14px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-text-size.15%27]
+msgid "15px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-text-size.16%27]
+msgid "16px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-width%27]
+msgid "Ширина сайта"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-width.1200%27]
+msgid "1200px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-width.1344%27]
+msgid "1344px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-width.1500%27]
+msgid "1500px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-width.1700%27]
+msgid "1700px"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.template-cache%27]
+msgid "Кешировать шаблон конструктора"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.base-regionality-use%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.base-consent%27]
+msgid "Выводить ссылки на соглашение \"О персональных данных\""
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.base-map-vendor%27]
+msgid "Карта"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.base-map-vendor.yandex%27]
+msgid "Яндекс"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.base-map-vendor.google%27]
+msgid "Google"
+msgstr ""
+
+#: %24MESS[%27universe.meta.properties.base-search-mode%27]
+msgid "Режим поиска"
+msgstr ""
+
+#: %24MESS[%27universe.meta.properties.base-search-mode.site%27]
+msgid "По сайту"
+msgstr ""
+
+#: %24MESS[%27universe.meta.properties.base-search-mode.catalog%27]
+msgid "По каталогу"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-use%27]
+msgid "Использовать корзину"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-delay-use%27]
+msgid "Использовать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-compare-use%27]
+msgid "Использовать сравнение"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-position%27]
+msgid "Расположение корзины"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-position.header%27]
+msgid "В шапке"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-position.fixed.right%27]
+msgid "Фиксированная (Справа)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-fixed-template%27]
+msgid "Шаблон фиксированной корзины"
+msgstr ""
+
+#: %24MESS[%27universe.meta.properties.basket-fixed-template.template.1%27]
+msgctxt "$MESS['universe.meta.properties.basket-fixed-template.template.1']"
+msgid "Шаблон 1"
+msgstr ""
+
+#: %24MESS[%27universe.meta.properties.basket-fixed-template.template.2%27]
+msgctxt "$MESS['universe.meta.properties.basket-fixed-template.template.2']"
+msgid "Шаблон 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-fixed-auto%27]
+msgid "Открывать фиксированную корзину при добавлении товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.basket-notifications-use%27]
+msgid "Отображать оповещения при добавлении товара в корзину"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-gallery-modes%27]
+msgid "Режимы работы галереи в карточке товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-gallery-modes.zoom%27]
+msgid "Лупа"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-gallery-modes.popup%27]
+msgid "Всплывающее окно"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-sku-view%27]
+msgid "Вид торговых предложений в карточке товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-sku-view.dynamic%27]
+msgid "Динамический"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-sku-view.list%27]
+msgctxt "$MESS['template.meta.properties.catalog-detail-sku-view.list']"
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-products-view-mode%27]
+msgid "Режим отображения списка товаров по умолчанию"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-products-view-mode.text%27]
+msgctxt "$MESS['template.meta.properties.catalog-products-view-mode.text']"
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-products-view-mode.list%27]
+msgid "Подробный список"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-products-view-mode.tile%27]
+msgid "Плитка"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-menu-view%27]
+msgid "Вид бокового меню каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-menu-view.simple.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-menu-view.simple.1']"
+msgid "Обычный 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-menu-view.pictures.1%27]
+msgid "С изображениями 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-quick-view-use%27]
+msgid "Использовать быстрый просмотр в каталоге"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-panel-show%27]
+msgid "Отображать верхнюю панель в карточке товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-panel-mobile-show%27]
+msgid "Отображать нижнюю панель в карточке товара (в мобильной версии)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-menu-show%27]
+msgid "Отображать меню в корне каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-menu-show%27]
+msgid "Отображать меню в разделах каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-menu-show%27]
+msgid "Отображать меню в карточке товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-layout%27]
+msgid "Расположение элементов в корне каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-layout.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-root-layout.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-layout.2%27]
+msgctxt "$MESS['template.meta.properties.catalog-root-layout.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-template%27]
+msgid "Шаблон корня каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-template.tile.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-root-template.tile.1']"
+msgid "Плитка 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-root-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-template.tile.2%27]
+msgctxt "$MESS['template.meta.properties.catalog-root-template.tile.2']"
+msgid "Плитка 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-root-template.tile.3%27]
+msgctxt "$MESS['template.meta.properties.catalog-root-template.tile.3']"
+msgid "Плитка 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-layout%27]
+msgid "Расположение элементов в разделах каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-layout.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-sections-layout.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-layout.2%27]
+msgctxt "$MESS['template.meta.properties.catalog-sections-layout.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-template%27]
+msgid "Шаблон разделов каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-template.tile.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-sections-template.tile.1']"
+msgid "Плитка 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-sections-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-template.tile.2%27]
+msgctxt "$MESS['template.meta.properties.catalog-sections-template.tile.2']"
+msgid "Плитка 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-sections-template.tile.3%27]
+msgctxt "$MESS['template.meta.properties.catalog-sections-template.tile.3']"
+msgid "Плитка 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-filter-ajax%27]
+msgid "Использовать AJAX при фильтрации каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-filter-template%27]
+msgid "Шаблон фильтра каталога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-filter-template.vertical.1%27]
+msgid "Вертикальный 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-filter-template.vertical.2%27]
+msgid "Вертикальный 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-filter-template.horizontal.1%27]
+msgid "Горизонтальный 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-filter-template.horizontal.2%27]
+msgid "Горизонтальный 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-text-template%27]
+msgid "Шаблон элементов каталога вида \"Список\""
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-text-template.text.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-elements-text-template.text.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-list-template%27]
+msgid "Шаблон элементов каталога вида \"Расширенный список\""
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-list-template.list.1%27]
+msgid "Расширенный список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template%27]
+msgid "Шаблон элементов каталога вида \"Плитка\""
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-elements-tile-template.tile.1']"
+msgid "Плитка 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.1.columns.4%27]
+msgid "Плитка 1 (4 колонки)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.2%27]
+msgctxt "$MESS['template.meta.properties.catalog-elements-tile-template.tile.2']"
+msgid "Плитка 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.2.columns.4%27]
+msgid "Плитка 2 (4 колонки)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.3%27]
+msgctxt "$MESS['template.meta.properties.catalog-elements-tile-template.tile.3']"
+msgid "Плитка 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.4%27]
+msgid "Плитка 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-template.tile.4.columns.4%27]
+msgid "Плитка 4 (4 колонки)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-mobile-columns%27]
+msgid ""
+"Количество колонок в шаблоне элементов каталога вида \"Плитка\" на мобильной "
+"версии"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-mobile-columns.1%27]
+msgid "Одна"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-elements-tile-mobile-columns.2%27]
+msgid "Две"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template%27]
+msgid "Шаблон карточки товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.1.wide%27]
+msgid "Шаблон 1 (Широкий)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.1.tabs.top%27]
+msgid "Шаблон 1 (Вкладки сверху)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.1.tabs.right%27]
+msgid "Шаблон 1 (Вкладки справа)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.2.wide%27]
+msgid "Шаблон 2 (Широкий)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.2.narrow%27]
+msgid "Шаблон 2 (Узкий)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.2.tabs.top%27]
+msgid "Шаблон 2 (Вкладки сверху)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-detail-template.default.3.wide%27]
+msgid "Шаблон 3 (Широкий)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-quick-view-template%27]
+msgid "Шаблон быстрого просмотра товара"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-quick-view-template.1%27]
+msgctxt "$MESS['template.meta.properties.catalog-quick-view-template.1']"
+msgid "Шаблон 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.catalog-quick-view-template.2%27]
+msgctxt "$MESS['template.meta.properties.catalog-quick-view-template.2']"
+msgid "Шаблон 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-blocks%27]
+msgid "Блоки футера"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-blocks.form%27]
+msgid "Форма"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-blocks.form.wide.1%27]
+msgid "Широкая 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-blocks.form.wide.2%27]
+msgid "Широкая 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-blocks.contacts%27]
+msgctxt "$MESS['template.meta.properties.footer-blocks.contacts']"
+msgid "Контакты"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-blocks.contacts.wide.1%27]
+msgid "Широкие 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-theme%27]
+msgid "Тема футера"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-theme.light%27]
+msgid "Светлая"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-theme.dark%27]
+msgid "Темная"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-products-viewed-show%27]
+msgid "Отображать просмотренные товары в футере"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template%27]
+msgid "Шаблон футера"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template.1%27]
+msgctxt "$MESS['template.meta.properties.footer-template.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template.2%27]
+msgctxt "$MESS['template.meta.properties.footer-template.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template.3%27]
+msgctxt "$MESS['template.meta.properties.footer-template.3']"
+msgid "Тип 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template.4%27]
+msgctxt "$MESS['template.meta.properties.footer-template.4']"
+msgid "Тип 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template.5%27]
+msgctxt "$MESS['template.meta.properties.footer-template.5']"
+msgid "Тип 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.footer-template.6%27]
+msgctxt "$MESS['template.meta.properties.footer-template.6']"
+msgid "Тип 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-basket-popup-show%27]
+msgid "Отображать всплывающее окно при наведении на иконки корзины в шапке"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template%27]
+msgid "Шаблон шапки"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.1%27]
+msgctxt "$MESS['template.meta.properties.header-template.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.2%27]
+msgctxt "$MESS['template.meta.properties.header-template.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.3%27]
+msgctxt "$MESS['template.meta.properties.header-template.3']"
+msgid "Тип 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.4%27]
+msgctxt "$MESS['template.meta.properties.header-template.4']"
+msgid "Тип 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.5%27]
+msgctxt "$MESS['template.meta.properties.header-template.5']"
+msgid "Тип 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.6%27]
+msgctxt "$MESS['template.meta.properties.header-template.6']"
+msgid "Тип 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.7%27]
+msgctxt "$MESS['template.meta.properties.header-template.7']"
+msgid "Тип 7"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.8%27]
+msgctxt "$MESS['template.meta.properties.header-template.8']"
+msgid "Тип 8"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.9%27]
+msgctxt "$MESS['template.meta.properties.header-template.9']"
+msgid "Тип 9"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.10%27]
+msgctxt "$MESS['template.meta.properties.header-template.10']"
+msgid "Тип 10"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.11%27]
+msgctxt "$MESS['template.meta.properties.header-template.11']"
+msgid "Тип 11"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.12%27]
+msgctxt "$MESS['template.meta.properties.header-template.12']"
+msgid "Тип 12"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.13%27]
+msgid "Тип 13"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.14%27]
+msgid "Тип 14"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.15%27]
+msgid "Тип 15"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.16%27]
+msgid "Тип 16"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.17%27]
+msgid "Тип 17"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.18%27]
+msgid "Тип 18"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-template.19%27]
+msgid "Тип 19"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-uppercase-use%27]
+msgid "Использовать верхний регистр в пунктах меню"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-overlay-use%27]
+msgid "Затемнение фона при наведении на меню"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-fixed-use%27]
+msgid "Зафиксировать шапку"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-fixed-menu-popup-show%27]
+msgid "Отображать всплывающее меню в фиксированной шапке"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-popup-template%27]
+msgid "Шаблон всплывающего меню"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-popup-template.1%27]
+msgctxt "$MESS['template.meta.properties.header-menu-popup-template.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-popup-template.2%27]
+msgctxt "$MESS['template.meta.properties.header-menu-popup-template.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-popup-template.3%27]
+msgctxt "$MESS['template.meta.properties.header-menu-popup-template.3']"
+msgid "Тип 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-menu-popup-template.4%27]
+msgctxt "$MESS['template.meta.properties.header-menu-popup-template.4']"
+msgid "Тип 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-template%27]
+msgid "Мобильный шаблон шапки"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-template.white%27]
+msgid "Белая"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-template.colored%27]
+msgid "Цветная"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-template.white-with-icons%27]
+msgid "Белая с иконками"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-template.colored-with-icons%27]
+msgid "Цветная с иконками"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-fixed%27]
+msgid "Зафиксировать мобильную шапку"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-hidden%27]
+msgid "Скрывать мобильную шапку при прокручивании страницы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-search-type%27]
+msgid "Тип мобильного поиска"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-search-type.page%27]
+msgid "Переход на страницу поиска"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-search-type.popup%27]
+msgid "Всплывающий поиск"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-menu-template%27]
+msgid "Мобильный шаблон меню шапки"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-menu-template.1%27]
+msgctxt "$MESS['template.meta.properties.header-mobile-menu-template.1']"
+msgid "Шаблон 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-menu-template.2%27]
+msgctxt "$MESS['template.meta.properties.header-mobile-menu-template.2']"
+msgid "Шаблон 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-menu-template.3%27]
+msgid "Шаблон 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.header-mobile-menu-template.4%27]
+msgid "Шаблон 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-template%27]
+msgid "Шаблон главной страницы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-template.wide%27]
+msgid "Широкий"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-template.narrow.left%27]
+msgid "Колонки (контент справа)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks%27]
+msgid "Блоки главной страницы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner%27]
+msgid "Баннер"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.3%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.3']"
+msgid "Тип 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.4%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.4']"
+msgid "Тип 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.5%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.5']"
+msgid "Тип 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.6%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.6']"
+msgid "Тип 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.7%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.7']"
+msgid "Тип 7"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.8%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.8']"
+msgid "Тип 8"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.9%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.9']"
+msgid "Тип 9"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.10%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.10']"
+msgid "Тип 10"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.11%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.11']"
+msgid "Тип 11"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.banner.12%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.banner.12']"
+msgid "Тип 12"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.icons%27]
+msgid "Иконки"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.sections%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.sections']"
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.sections.list.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.sections.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.sections.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.sections.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories%27]
+msgid "Категории"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.chess.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.chess.1']"
+msgid "Шахматка 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.chess.2%27]
+msgid "Шахматка 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.mosaic.1%27]
+msgid "Мозайка 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.list.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.tiles.3%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.tiles.3']"
+msgid "Плитки 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.tiles.4%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.tiles.4']"
+msgid "Плитки 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.tiles.5%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.tiles.5']"
+msgid "Плитки 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.categories.tiles.6%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.categories.tiles.6']"
+msgid "Плитки 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.gallery%27]
+msgid "Фотогалерея"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.gallery.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.gallery.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.gallery.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.gallery.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.gallery.tiles.3%27]
+msgid "Плитки 3 (Широкие)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.products%27]
+msgid "Товары"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.products.slider.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.products.slider.1']"
+msgid "Слайдер 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.products.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.products.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.products.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.products.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.products.tiles.3%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.products.tiles.3']"
+msgid "Плитки 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews%27]
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.reviews.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.blocks.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.reviews.blocks.2']"
+msgid "Блоки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.list.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.reviews.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.list.2%27]
+msgid "Список 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.list.3%27]
+msgid "Список 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.slider.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.reviews.slider.1']"
+msgid "Слайдер 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.slider.2%27]
+msgid "Слайдер 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.slider.3%27]
+msgid "Слайдер 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.reviews.slider.4%27]
+msgid "Слайдер 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services']"
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.blocks.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.blocks.2']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.3%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.tiles.3']"
+msgid "Плитки 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.4%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.tiles.4']"
+msgid "Плитки 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.5%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.tiles.5']"
+msgid "Плитки 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.6%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.tiles.6']"
+msgid "Плитки 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.tiles.7%27]
+msgid "Плитки 7"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.services.wide.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.services.wide.1']"
+msgid "Широкий 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.video%27]
+msgid "Видео"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.video.wide.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.video.wide.1']"
+msgid "Широкий 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.advantages%27]
+msgid "Преимущества"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.advantages.chess.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.advantages.chess.1']"
+msgid "Шахматка 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.advantages.icons.1%27]
+msgid "Иконки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.advantages.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.advantages.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.advantages.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.advantages.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.projects%27]
+msgid "Проекты"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.projects.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.projects.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.staff%27]
+msgid "Наша команда"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.staff.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.staff.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.staff.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.staff.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.solutions%27]
+msgid "Решения"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.solutions.slider.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.solutions.slider.1']"
+msgid "Слайдер 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.faq%27]
+msgid "Вопрос-ответ"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.faq.wide.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.faq.wide.1']"
+msgid "Широкий 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.faq.wide.2%27]
+msgid "Широкий 2 (Со вкладками)"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.stages%27]
+msgid "Этапы работ"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.stages.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.stages.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.stages.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.stages.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.certificates%27]
+msgid "Сертификаты"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.certificates.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.certificates.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.news%27]
+msgid "Новости"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.news.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.news.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.news.blocks.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.news.blocks.2']"
+msgid "Блоки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.news.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.news.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.news.slider.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.news.slider.1']"
+msgid "Слайдер 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.shares%27]
+msgid "Акции"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.shares.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.shares.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.shares.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.shares.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.shares.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.shares.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.about%27]
+msgid "О нас"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.brands%27]
+msgid "Бренды"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.brands.slider.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.brands.slider.1']"
+msgid "Слайдер 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.brands.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.brands.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.brands.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.brands.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.articles%27]
+msgid "Статьи"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.articles.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.articles.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.articles.tiles.2%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.articles.tiles.2']"
+msgid "Плитки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.rates%27]
+msgid "Тарифы"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.rates.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.rates.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.videos%27]
+msgid "Видеогалерея"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.videos.slider.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.videos.slider.1']"
+msgid "Слайдер 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.videos.list.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.videos.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.contacts%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.contacts']"
+msgid "Контакты"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.contacts.simple.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.contacts.simple.1']"
+msgid "Обычный 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.pages-main-blocks.contacts.list.1%27]
+msgctxt "$MESS['template.meta.properties.pages-main-blocks.contacts.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-shares-template%27]
+msgid "Шаблон акций"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-shares-template.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.sections-shares-template.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-shares-template.blocks.2%27]
+msgctxt "$MESS['template.meta.properties.sections-shares-template.blocks.2']"
+msgid "Блоки 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-shares-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.sections-shares-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-contacts-template%27]
+msgid "Шаблон контактов"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-contacts-template.simple.1%27]
+msgid "Простой"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-contacts-template.shops.1%27]
+msgid "С магазинами"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-contacts-template.offices.1%27]
+msgid "С представительствами"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-news-template%27]
+msgid "Шаблон новостей"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-news-template.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.sections-news-template.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-news-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.sections-news-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-news-template.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.sections-news-template.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-articles-template%27]
+msgid "Шаблон статей"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-articles-template.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.sections-articles-template.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-articles-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.sections-articles-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-articles-template.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.sections-articles-template.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-blog-template%27]
+msgid "Шаблон блога"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-blog-template.blocks.1%27]
+msgctxt "$MESS['template.meta.properties.sections-blog-template.blocks.1']"
+msgid "Блоки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-blog-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.sections-blog-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-blog-template.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.sections-blog-template.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-certificates-template%27]
+msgid "Шаблон сертификатов"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-certificates-template.tiles.1%27]
+msgctxt "$MESS['template.meta.properties.sections-certificates-template.tiles.1']"
+msgid "Плитки 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.sections-certificates-template.list.1%27]
+msgctxt "$MESS['template.meta.properties.sections-certificates-template.list.1']"
+msgid "Список 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-menu-show%27]
+msgid "Отображать меню в корне услуг"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template%27]
+msgid "Шаблон корня услуг"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.1%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.2%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.3%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.3']"
+msgid "Тип 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.4%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.4']"
+msgid "Тип 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.5%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.5']"
+msgid "Тип 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.6%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.6']"
+msgid "Тип 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.7%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.7']"
+msgid "Тип 7"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.8%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.8']"
+msgid "Тип 8"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.9%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.9']"
+msgid "Тип 9"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.10%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.10']"
+msgid "Тип 10"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-root-template.10%27]
+msgctxt "$MESS['template.meta.properties.services-root-template.10']"
+msgid "Тип 10"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-menu-show%27]
+msgid "Отображать меню в разделах услуг"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template%27]
+msgid "Шаблон разделов услуг"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.1%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.1']"
+msgid "Тип 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.2%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.2']"
+msgid "Тип 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.3%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.3']"
+msgid "Тип 3"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.4%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.4']"
+msgid "Тип 4"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.5%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.5']"
+msgid "Тип 5"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.6%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.6']"
+msgid "Тип 6"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.7%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.7']"
+msgid "Тип 7"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.8%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.8']"
+msgid "Тип 8"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.9%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.9']"
+msgid "Тип 9"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-section-template.10%27]
+msgctxt "$MESS['template.meta.properties.services-section-template.10']"
+msgid "Тип 10"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-element-template%27]
+msgid "Шаблон карточки услуги"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-element-template.wide.1%27]
+msgctxt "$MESS['template.meta.properties.services-element-template.wide.1']"
+msgid "Широкий 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-element-template.narrow.1%27]
+msgid "Узкий 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.services-element-template.narrow.2%27]
+msgid "Узкий 2"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.mobile-blocks%27]
+msgid "Мобильные блоки"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.mobile-blocks.panel%27]
+msgid "Панель"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.mobile-blocks.panel.1%27]
+msgctxt "$MESS['template.meta.properties.mobile-blocks.panel.1']"
+msgid "Шаблон 1"
+msgstr ""
+
+#: %24MESS[%27template.meta.properties.mobile.panel.hidden%27]
+msgid "Скрывать панель при прокручивании страницы"
+msgstr ""

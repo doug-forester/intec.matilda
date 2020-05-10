@@ -1,0 +1,42 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news/projects/bitrix/news.detail/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_SECTION_OBJECTIVE%27]
+msgid "Задача"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_SECTION_INFORMATION%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_SECTION_SERVICES%27]
+msgid "Оказанные услуги"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_SECTION_REVIEW%27]
+msgid "Отзыв клиента"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_SECTION_SOLUTION%27]
+msgid "Решение"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_BUTTON_ORDER%27]
+msgid "Заказать проект"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_N_D_DEFAULT_BUTTON_ASK%27]
+msgid "Задать вопрос"
+msgstr ""

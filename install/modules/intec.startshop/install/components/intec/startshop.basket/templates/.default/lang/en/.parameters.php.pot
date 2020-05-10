@@ -1,0 +1,50 @@
+#. extracted from install/modules/intec.startshop/install/components/intec/startshop.basket/templates/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SB_DEFAULT_USE_ADAPTABILITY%22]
+msgid "Использовать адаптивность"
+msgstr ""
+
+#: %24MESS[%22SB_DEFAULT_USE_ITEMS_PICTURES%22]
+msgid "Выводить изображения товаров"
+msgstr ""
+
+#: %24MESS[%22SB_DEFAULT_USE_BUTTON_CLEAR%22]
+msgid "Отображать кнопку очистки корзины"
+msgstr ""
+
+#: %24MESS[%22SB_DEFAULT_USE_SUM_FIELD%22]
+msgid "Отображать поле с общей суммой"
+msgstr ""
+
+#: %24MESS[%22SB_DEFAULT_USE_BUTTON_BASKET%22]
+msgid "Отображать кнопку перехода в корзину"
+msgstr ""
+
+#: %24MESS[%27CFO_USE_FASTORDER%27]
+msgid "Использовать \"Быстрый заказ\""
+msgstr ""
+
+#: %24MESS[%27CFO_PROP_NAME%27]
+msgid "Свойство \"Имя\""
+msgstr ""
+
+#: %24MESS[%27CFO_PROP_PHONE%27]
+msgid "Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27CFO_PROP_COMMENT%27]
+msgid "Свойство \"Комментарий\""
+msgstr ""

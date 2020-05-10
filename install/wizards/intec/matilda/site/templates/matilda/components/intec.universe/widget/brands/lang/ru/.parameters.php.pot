@@ -1,0 +1,120 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/widget/brands/lang/ru/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_PROPERTY_LABEL_NEW%27]
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_PROPERTY_LABEL_RECOMMEND%27]
+msgid "Свойство метки \"Советуем\""
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_PROPERTY_LABEL_HIT%27]
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_DISPLAY_DISCOUNT%27]
+msgid "Отображать метку со скидкой"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_PROPERTY_SECTION%27]
+msgid "Свойство \"Категория\""
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_OFFERS_PROPERTY_CODE%27]
+msgid "Свойства торговых предложений"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_ITEMS_LIMIT%27]
+msgid "Лимит элементов"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_VIEW_DESKTOP%27]
+msgid "Вид"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_VIEW_DESKTOP_DEFAULT%27]
+msgctxt "$MESS['C_W_BRANDS_PARAMETERS_VIEW_DESKTOP_DEFAULT']"
+msgid "По умолчанию"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_VIEW_MOBILE%27]
+msgid "Мобильный вид"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_VIEW_MOBILE_DEFAULT%27]
+msgctxt "$MESS['C_W_BRANDS_PARAMETERS_VIEW_MOBILE_DEFAULT']"
+msgid "По умолчанию"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_VIEW_MOBILE_DEPLOYED%27]
+msgid "Развернутый"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_SHOW_TITLE%27]
+msgid "Вкючить заголовок"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_TITLE%27]
+msgid "Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_SHOW_DESCRIPTION%27]
+msgid "Включить описание"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_PARAMETERS_DESCRIPTION%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_W_BRANDS_COUNT_IN_ROW%27]
+msgid "Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_PARAMETERS_TITLE_ALIGN%22]
+msgid "Расположение заголовка по центру"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_PARAMETERS_DESCRIPTION_ALIGN%22]
+msgid "Расположение описания по центру"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_PARAMETERS_TITLE_ALIGN_LEFT%22]
+msgid "слева"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_PARAMETERS_TITLE_ALIGN_RIGHT%22]
+msgid "справа"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_PARAMETERS_TITLE_ALIGN_CENTER%22]
+msgid "по центру"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_AUTOPLAY%22]
+msgid "Влючить автопрокрутку"
+msgstr ""
+
+#: %24MESS[%22C_W_BRANDS_TIMEOUT%22]
+msgid "Период автопрокрутки"
+msgstr ""

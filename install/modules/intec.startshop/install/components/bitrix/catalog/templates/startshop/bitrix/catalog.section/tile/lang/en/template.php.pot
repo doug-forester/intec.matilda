@@ -1,0 +1,137 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/catalog/templates/startshop/bitrix/catalog.section/tile/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SH_CS_TILE_ELEMENT_DELETE_CONFIRM%27]
+msgid "Вы действительно хотите удалить товар?"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TILE_ADD_TO_BASKET%27]
+msgctxt "$MESS['SH_CS_TILE_ADD_TO_BASKET']"
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TILE_ADDED_TO_BASKET%27]
+msgid "Добавлено"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TILE_PRODUCT_NOT_AVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TEXT_SHOW_MORE%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TEXT_FROM%27]
+msgctxt "$MESS['SH_CS_TEXT_FROM']"
+msgid "от"
+msgstr ""
+
+#: %24MESS[%22CATALOG_BUY%22]
+msgid "Купить"
+msgstr ""
+
+#: %24MESS[%22CATALOG_ADD%22]
+msgctxt "$MESS[\"CATALOG_ADD\"]"
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%22CATALOG_COMPARE%22]
+msgid "Сравнить"
+msgstr ""
+
+#: %24MESS[%22CATALOG_NOT_AVAILABLE%22]
+msgid "(нет на складе)"
+msgstr ""
+
+#: %24MESS[%22CATALOG_QUANTITY%22]
+msgctxt "$MESS[\"CATALOG_QUANTITY\"]"
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%22CATALOG_QUANTITY_FROM_TO%22]
+msgid "От #FROM# до #TO#"
+msgstr ""
+
+#: %24MESS[%22CATALOG_QUANTITY_FROM%22]
+msgid "От #FROM#"
+msgstr ""
+
+#: %24MESS[%22CATALOG_QUANTITY_TO%22]
+msgid "До #TO#"
+msgstr ""
+
+#: %24MESS[%22CT_BCS_QUANTITY%22]
+msgctxt "$MESS[\"CT_BCS_QUANTITY\"]"
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%22CT_BCS_ELEMENT_DELETE_CONFIRM%22]
+msgid "Будет удалена вся информация, связанная с этой записью. Продолжить?"
+msgstr ""
+
+#: %24MESS[%22FROM%22]
+msgctxt "$MESS[\"FROM\"]"
+msgid "от"
+msgstr ""
+
+#: %24MESS[%22MESSAGE_HIT%22]
+msgctxt "$MESS[\"MESSAGE_HIT\"]"
+msgid "Хит"
+msgstr ""
+
+#: %24MESS[%22MESSAGE_NEW%22]
+msgctxt "$MESS[\"MESSAGE_NEW\"]"
+msgid "Новинка"
+msgstr ""
+
+#: %24MESS[%22MESSAGE_RECOMMEND%22]
+msgid "Советуем"
+msgstr ""
+
+#: %24MESS[%22LIKE_TEXT_DETAIL%22]
+msgid "Добавить товар в список отложенных"
+msgstr ""
+
+#: %24MESS[%22LIKE_DELETE_TEXT_DETAIL%22]
+msgid "Убрать товар из списка отложенных"
+msgstr ""
+
+#: %24MESS[%22COMPARE_TEXT_DETAIL%22]
+msgid "Добавить товар в сравнение"
+msgstr ""
+
+#: %24MESS[%22COMPARE_DELETE_TEXT_DETAIL%22]
+msgid "Убрать товар из сравнения"
+msgstr ""
+
+#: %24MESS[%22CT_BCS_TPL_MESS_PRICE_FROM%22]
+msgctxt "$MESS[\"CT_BCS_TPL_MESS_PRICE_FROM\"]"
+msgid "от"
+msgstr ""
+
+#: %24MESS[%27MARK_HIT%27]
+msgctxt "$MESS['MARK_HIT']"
+msgid "Хит"
+msgstr ""
+
+#: %24MESS[%27MARK_NEW%27]
+msgctxt "$MESS['MARK_NEW']"
+msgid "Новинка"
+msgstr ""
+
+#: %24MESS[%27MARK_RECOMEND%27]
+msgid "Рекомендуем"
+msgstr ""

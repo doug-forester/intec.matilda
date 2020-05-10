@@ -1,0 +1,30 @@
+#. extracted from install/modules/intec.startshop/lang/en/payment/robokassa/parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27IS_TEST%27]
+msgid "Режим тестирования"
+msgstr ""
+
+#: %24MESS[%27SHOP%27]
+msgid "Идентификатор магазина"
+msgstr ""
+
+#: %24MESS[%27PASSWORD_1%27]
+msgid "Пароль 1"
+msgstr ""
+
+#: %24MESS[%27PASSWORD_2%27]
+msgid "Пароль 2"
+msgstr ""

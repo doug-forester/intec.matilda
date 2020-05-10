@@ -1,0 +1,91 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec/startshop.basket/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SB_DEFAULT_USE_ADAPTABILITY%27]
+msgid "Use adaptability"
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_USE_ITEMS_PICTURES%27]
+msgid "Show product image"
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_USE_SUM_FIELD%27]
+msgid "Show total sum field"
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_USE_BUTTON_CLEAR%27]
+msgid "Show button \"Clear basket\""
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_USE_BUTTON_BASKET%27]
+msgid "Show button \"Go to basket\""
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_USE_BUTTON_FAST_ORDER%27]
+msgid "Show button \"Fast order\""
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_USE_BUTTON_CONTINUE_SHOPPING%27]
+msgid "Show button \"Continue shopping\""
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_VERIFY_CONSENT_TO_PROCESSING_PERSONAL_DATA%27]
+msgid "Verify consent to processing of personal data"
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_URL_CATALOG%27]
+msgid "Catalog"
+msgstr ""
+
+#: %24MESS[%27SB_DEFAULT_URL_RULES_OF_PERSONAL_DATA_PROCESSING%27]
+msgid "Processing of personal data"
+msgstr ""
+
+#. // Fast order
+#: %24MESS[%27SB_USE_FAST_ORDER%27]
+msgid "Use fase order"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_TEMPLATE%27]
+msgid "Fast order template"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_SHOW_PROPERTIES%27]
+msgid "Fast order additional properties"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_DELIVERY%27]
+msgid "Fast order delivery type"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_PAYMENT%27]
+msgid "Fast order payment type"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_TITLE%27]
+msgid "Fast order title"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_SEND_BUTTON%27]
+msgid "Fast order button text"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_SHOW_AGREEMENT%27]
+msgid "Show agreement"
+msgstr ""
+
+#: %24MESS[%27SB_FAST_ORDER_URL_AGREEMENT%27]
+msgid "Agreement page url"
+msgstr ""

@@ -1,0 +1,673 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/services.default.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#. /** Forms data */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_TEMPLATE%27]
+msgid "Шаблон всплывающих форм"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_CONSENT%27]
+msgid "Ссылка на страницу с соглашением на обработку данных"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_ID%27]
+msgid "Форма заказа услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_FIELD%27]
+msgid "Форма заказа услуги. Поле для названия услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_TITLE%27]
+msgid "Форма заказа услуги. Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_TITLE_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_ID%27]
+msgid "Форма обратной связи 1 (располагается между блоками описания)"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_FORM_TITLE%27]
+msgid "Форма обратной связи 1. Заголовок вызываемой формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_FORM_TITLE_DEFAULT%27]
+msgid "Заполните форму и мы отправим вам презентацию"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_TITLE%27]
+msgid "Форма обратной связи 1. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_TITLE_DEFAULT%27]
+msgid "Заполните форму и получите презентацию линейки решений Universe!"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_DESCRIPTION_SHOW%27]
+msgid "Форма обратной связи 1. Показывать описание блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_DESCRIPTION_TEXT%27]
+msgid "Форма обратной связи 1. Описание блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_VIEW%27]
+msgid "Форма обратной связи 1. Расположение текста блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_VIEW_LEFT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_VIEW_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_VIEW_RIGHT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_VIEW_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL%27]
+msgid "Форма обратной связи 1. Выравнивание элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL_LEFT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL_CENTER%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL_RIGHT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_ALIGN_HORIZONTAL_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_THEME%27]
+msgid "Форма обратной связи 1. Цвет текста блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_THEME_LIGHT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_THEME_LIGHT']"
+msgid "Светлый"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_THEME_DARK%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_THEME_DARK']"
+msgid "Темный"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_BG_COLOR%27]
+msgid "Форма обратной связи 1. Цвет заливки фона блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_BG_IMAGE_SHOW%27]
+msgid "Форма обратной связи 1. Использовать фоновое изображение блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_BG_IMAGE_PATH%27]
+msgid "Форма обратной связи 1. Путь до фонового изображения блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_BUTTON_TEXT%27]
+msgid "Форма обратной связи 1. Текст кнопки вызова формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_BUTTON_TEXT_DEFAULT%27]
+msgid "Получить презентацию"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_ID%27]
+msgid ""
+"Форма обратной связи 2 (располагается после описания или под блоком "
+"реализованных проектов, если заполнены)"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_FORM_TITLE%27]
+msgid "Форма обратной связи 2. Заголовок вызываемой формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_FORM_TITLE_DEFAULT']"
+msgid "Не нашли подходящий пример?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_TITLE%27]
+msgid "Форма обратной связи 2. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_TITLE_DEFAULT']"
+msgid "Не нашли подходящий пример?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_DESCRIPTION_SHOW%27]
+msgid "Форма обратной связи 2. Показывать описание блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_DESCRIPTION_TEXT%27]
+msgid "Форма обратной связи 2. Описание блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_VIEW%27]
+msgid "Форма обратной связи 2. Расположение текста блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_VIEW_LEFT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_VIEW_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_VIEW_RIGHT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_VIEW_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_VIEW_VERTICAL%27]
+msgid "Вертикально"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL%27]
+msgid "Форма обратной связи 2. Выравнивание элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL_LEFT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL_LEFT']"
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL_CENTER%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL_CENTER']"
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL_RIGHT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_ALIGN_HORIZONTAL_RIGHT']"
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_THEME%27]
+msgid "Форма обратной связи 2. Цвет текста блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_THEME_LIGHT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_THEME_LIGHT']"
+msgid "Светлый"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_THEME_DARK%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_THEME_DARK']"
+msgid "Темный"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_BG_COLOR%27]
+msgid "Форма обратной связи 2. Цвет заливки фона блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_BG_IMAGE_SHOW%27]
+msgid "Форма обратной связи 2. Использовать фоновое изображение блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_BG_IMAGE_PATH%27]
+msgid "Форма обратной связи 2. Путь до фонового изображения блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_BUTTON_TEXT%27]
+msgid "Форма обратной связи 2. Текст кнопки вызова формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_BUTTON_TEXT_DEFAULT%27]
+msgid "Получить портфолио"
+msgstr ""
+
+#: %24MESS[%27%27]
+msgctxt "$MESS['']"
+msgid ""
+msgstr ""
+
+#. /** Blocks data */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_IBLOCK_TYPE%27]
+msgid "Блоки описания. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_IBLOCK_ID%27]
+msgid "Блоки описания. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_NAME%27]
+msgid "Блоки описания. Свойство \"Название\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_IMAGES%27]
+msgid "Блоки описания. Свойство \"Примеры страниц\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_TEXT_ADDITIONAL%27]
+msgid "Блоки описания. Свойство \"Доп. текст\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_THEME%27]
+msgid "Блоки описания. Свойство \"Цветовая схема\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_VIEW%27]
+msgid "Блоки описания. Свойство \"Вид отображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_DETAIL_NARROW%27]
+msgid "Блоки описания. Свойство \"Раскрываемый детальный текст. Узкий блок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_DEFAULT_TEXT_ADDITIONAL_NARROW%27]
+msgid "Блоки описания. Свойство \"Вид по умолчанию. Узкий блок доп. текста\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_PROPERTY_COMPACT_POSITION%27]
+msgid "Блоки описания. Свойство \"Компактный вид. Расположение текста\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_IMAGES_SHOW%27]
+msgid "Блоки описания. Отображать \"Примеры страниц\", если есть"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_BUTTON_TEXT%27]
+msgid "Блоки описания. Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BLOCKS_BUTTON_TEXT_DEFAULT%27]
+msgid "Подробнее"
+msgstr ""
+
+#. /** Video data */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_IBLOCK_TYPE%27]
+msgid "Видео. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_IBLOCK_ID%27]
+msgid "Видео. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PROPERTY_URL%27]
+msgid "Видео. Свойство \"Ссылка на видео\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SOURCES%27]
+msgid "Видеообзоры. Источник изображения предпросмотра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SOURCES_SERIVCE%27]
+msgid "Сервис"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SOURCES_PREVIEW%27]
+msgid "Изображение анонса элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SOURCES_DETAIL%27]
+msgid "Подробное изображение элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SERVICE_QUALITY%27]
+msgid "Качество изображения предпросмотра для сервиса"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SERVICE_QUALITY_MQ%27]
+msgid "Минимальное"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SERVICE_QUALITY_HQ%27]
+msgid "Среднее"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SERVICE_QUALITY_SD%27]
+msgid "Высокое"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_PICTURE_SERVICE_QUALITY_MAX%27]
+msgid "Максимальное"
+msgstr ""
+
+#. /** Links data */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_LINKS_IBLOCK_TYPE%27]
+msgid "Доп. ссылки. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_LINKS_IBLOCK_ID%27]
+msgid "Доп. ссылки. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_LINKS_PROPERTY_LINK%27]
+msgid "Доп. ссылки. Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_LINKS_PROPERTY_NAME%27]
+msgid "Доп. ссылки. Свойство \"Название\""
+msgstr ""
+
+#. /** Reviews data */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_IBLOCK_TYPE%27]
+msgid "Отзывы. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_IBLOCK_ID%27]
+msgid "Отзывы. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_PROPERTY_POSITION%27]
+msgid "Отзывы. Свойство \"Должность\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_POSITION_SHOW%27]
+msgid "Отзывы. Отображать должность"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_FOOTER_BUTTON_SHOW%27]
+msgid "Отзывы. Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEW_FOOTER_BUTTON_TEXT%27]
+msgid "Отзывы. \"Показать все\". Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEW_FOOTER_BUTTON_TEXT_DEFAULT%27]
+msgid "Читать все"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEW_LIST_PAGE_URL%27]
+msgid "Отзывы. Адрес страницы списка элементов"
+msgstr ""
+
+#. /** Properties */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_MARK_HIT%27]
+msgid "Свойство \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_MARK_NEW%27]
+msgid "Свойство \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_MARK_RECOMMEND%27]
+msgid "Свойство \"Советуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TYPE%27]
+msgid "Свойство \"Тип услуги\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_PRICE_OLD%27]
+msgid "Свойство \"Старая цена\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_BUTTON_SHOW%27]
+msgid "Свойство \"Отображать доп. кнопку\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_BUTTON_URL%27]
+msgid "Свойство \"Доп. кнопка. Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_BUTTON_TEXT%27]
+msgid "Свойство \"Доп. кнопка. Текст\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_PICTURE%27]
+msgid "Свойство \"Доп. изображение баннера\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_CHARACTERISTICS%27]
+msgid "Отображаемые характеристики в баннере"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_ADDITIONAL_TEXT%27]
+msgid "Свойство \"Доп. текст описания\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_ADDITIONAL_TEXT_PICTURE%27]
+msgid "Свойство \"Доп. текст описания. Изображение\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_PROJECTS%27]
+msgid "Свойство \"Реализованные проекты\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_REVIEWS%27]
+msgid "Свойство \"Отзывы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_ADVANTAGES%27]
+msgid "Свойство \"Преимущества\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_FAQ%27]
+msgid "Свойство \"Часто задаваемые вопросы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_RECOMMEND%27]
+msgid "Свойство \"Сопуствующие/Рекомендуемые услуги\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видеообзоры\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_DESCRIPTION_ADVANTAGES_1%27]
+msgid "Вкладка описания. Свойство \"Преимущества 1\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_DESCRIPTION_NEWS_1%27]
+msgid "Вкладка описания. Свойство \"Новости 1\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_DESCRIPTION_BLOCKS_1%27]
+msgid "Вкладка описания. Свойство \"Блоки описания 1\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_DESCRIPTION_ADVANTAGES_2%27]
+msgid "Вкладка описания. Свойство \"Преимущества 2\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_DESCRIPTION_BLOCKS_2%27]
+msgid "Вкладка описания. Свойство \"Блоки описания 2\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_DESCRIPTION_LINKS_1%27]
+msgid "Вкладка описания. Свойство \"Блок доп. ссылок 1\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_INFO%27]
+msgid "Вкладка информации. Список выводимых свойств"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROPERTY_TAB_VIDEO%27]
+msgid "Вкладка видео. Список выводимых свойств"
+msgstr ""
+
+#. /** Banner visual */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_BUTTONS_BACK_SHOW%27]
+msgid "Баннер. Кнопка \"Назад\". Отображать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_WIDE%27]
+msgid "Баннер. Во всю ширину страницы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_TYPE_SHOW%27]
+msgid "Баннер. Отображать тип услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_HEADER_H1%27]
+msgid "Баннер. Заголовок баннера H1"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_PRICE_SHOW%27]
+msgid "Баннер. Отображать цену"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ORDER_SHOW%27]
+msgid "Баннер. Отображать кнопку заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ORDER_TEXT%27]
+msgid "Баннер. Кнопка заказа. Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ORDER_TEXT_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ORDER_TEXT_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_PICTURE_SHOW%27]
+msgid "Баннер. Отображать доп. изображение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_CHARACTERISTICS_SHOW%27]
+msgid "Баннер. Отображать выбранные характеристики, если выбраны"
+msgstr ""
+
+#. /** Additional text visual */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ADDITIONAL_TEXT_SHOW%27]
+msgid "Отображать доп. текст описания"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ADDITIONAL_TEXT_DARK%27]
+msgid "Доп. текст описания. Темный фон"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ADDITIONAL_TEXT_WIDE%27]
+msgid "Доп. текст описания. Во всю ширину страницы"
+msgstr ""
+
+#. /** Tabs visual */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_SHOW%27]
+msgid "Отображать вкладку описания"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NAME%27]
+msgid "Вкладка описания. Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NAME_DEFAULT%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_ADVANTAGES_1_COLUMNS%27]
+msgid "Вкладка описания. Преимущества 1. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NEWS_1_COLUMNS%27]
+msgid "Вкладка описания. Новости 1. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NEWS_1_DATE_SHOW%27]
+msgid "Вкладка описания. Новости 1. Отображать дату создания/активности"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NEWS_1_DATE_FORMAT%27]
+msgid "Вкладка описания. Новости 1. Формат даты"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NEWS_1_LINK_USE%27]
+msgid "Вкладка описания. Новости 1. Использовать ссылки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NEWS_1_LINK_BLANK%27]
+msgid "Вкладка описания. Новости 1. Открывать ссылки в новой вкладке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_LINKS_1_COLUMNS%27]
+msgid "Вкладка описания. Блок доп. ссылок 1. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_LINKS_1_LINK_BLANK%27]
+msgid "Вкладка описания. Блок доп. ссылок 1. Открывать ссылки в новой вкладке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_INFO_SHOW%27]
+msgid "Отображать вкладку информации"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_INFO_NAME%27]
+msgid "Вкладка информации. Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_INFO_NAME_DEFAULT%27]
+msgid "Установка и документация"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_VIDEO_SHOW%27]
+msgid "Отображать вкладку видео"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_VIDEO_NAME%27]
+msgid "Вкладка видео. Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_VIDEO_NAME_DEFAULT%27]
+msgid "Видео"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_VIDEO_COLUMNS%27]
+msgid "Вкладка видео. Кол-во элементов в строке"
+msgstr ""
+
+#. /** Blocks visual */
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROJECTS_SHOW%27]
+msgid "Отображать реализованные проекты"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROJECTS_WIDE%27]
+msgid "Реализованные проекты. Во всю ширину страницы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_PROJECTS_COLUMNS%27]
+msgid "Реализованные проекты. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_SHOW%27]
+msgid "Отображать отзывы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_ADVANTAGES_SHOW%27]
+msgid "Отображать преимущества"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_ADVANTAGES_COLUMNS%27]
+msgid "Преимущества. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FAQ_SHOW%27]
+msgid "Отображать часто задаваемые вопросы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_RECOMMEND_SHOW%27]
+msgid "Отображать сопуствующие/рекомендуемые"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_RECOMMEND_DESCRIPTION%27]
+msgid "Cопуствующие/рекомендуемые. Описание блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_VIDEO_SHOW%27]
+msgid "Отображать видеообзоры"
+msgstr ""

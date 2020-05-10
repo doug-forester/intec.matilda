@@ -1,0 +1,58 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/subscribe.edit/small.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_ACCESS%27]
+msgid "Чтобы подписаться, необходима авторизация"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_AUTHORISATION%27]
+msgid "Авторизоваться"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_EMAIL_PLACEHOLDER%27]
+msgid "Ваш e-mail"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_CONFIRM_PLACEHOLDER%27]
+msgid "Код подтверждения"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_FORMAT_HEADER%27]
+msgid "Формат:"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_FORMAT_HTML%27]
+msgid "HTML"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_FORMAT_TEXT%27]
+msgid "Текст"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_RUBRIC_HEADER%27]
+msgid "Рубрики:"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_SUBMIT_SUBSCRIBE%27]
+msgid "Подписаться"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_SUBMIT_CONFIRM%27]
+msgid "Подтвердить"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_TEMPLATE_SUBMIT_EDIT%27]
+msgid "Изменить"
+msgstr ""

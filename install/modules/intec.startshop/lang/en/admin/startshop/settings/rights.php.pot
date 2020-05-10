@@ -1,0 +1,86 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/rights.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Права"
+msgstr ""
+
+#: %24MESS[%27buttons.save%27]
+msgid "Сохранить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Права для группы \"#GROUP#\""
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Изменения сохранены!"
+msgstr ""
+
+#: %24MESS[%27rights.NONE%27]
+msgid "[D] Нет доступа"
+msgstr ""
+
+#: %24MESS[%27rights.V%27]
+msgid "[V] Только просмотр"
+msgstr ""
+
+#: %24MESS[%27rights.E.V%27]
+msgid "[E] Просмотр и редактирование"
+msgstr ""
+
+#: %24MESS[%27sections.catalog%27]
+msgid "Торговые каталоги"
+msgstr ""
+
+#: %24MESS[%27sections.sites%27]
+msgid "Параметры сайтов"
+msgstr ""
+
+#: %24MESS[%27sections.order.properties%27]
+msgid "Свойства заказов"
+msgstr ""
+
+#: %24MESS[%27sections.order.statuses%27]
+msgid "Статусы заказов"
+msgstr ""
+
+#: %24MESS[%27sections.price%27]
+msgid "Типы цен"
+msgstr ""
+
+#: %24MESS[%27sections.delivery%27]
+msgid "Способы доставки"
+msgstr ""
+
+#: %24MESS[%27sections.currency%27]
+msgid "Валюты"
+msgstr ""
+
+#: %24MESS[%27sections.payment%27]
+msgid "Способы оплаты"
+msgstr ""
+
+#: %24MESS[%27sections.1c%27]
+msgid "Обмен данными с \"1С: Предприятие\""
+msgstr ""
+
+#: %24MESS[%27sections.orders%27]
+msgid "Заказы"
+msgstr ""
+
+#: %24MESS[%27sections.forms%27]
+msgid "Веб формы"
+msgstr ""

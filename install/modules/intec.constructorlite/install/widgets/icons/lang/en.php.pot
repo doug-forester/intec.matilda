@@ -1,0 +1,108 @@
+#. extracted from install/modules/intec.constructorlite/install/widgets/icons/lang/en.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: return[]-%3E%27name%27
+msgid "Иконки"
+msgstr ""
+
+#: return[]-%3E%27settings.header%27
+msgctxt "return[]->'settings.header'"
+msgid "Заголовок"
+msgstr ""
+
+#: return[]-%3E%27settings.header.switch%27
+msgid "Отображать заголовок"
+msgstr ""
+
+#: return[]-%3E%27settings.caption%27
+msgid "Настройки заголовка"
+msgstr ""
+
+#: return[]-%3E%27settings.description%27
+msgid "Настройки описания"
+msgstr ""
+
+#: return[]-%3E%27settings.size%27
+msgid "Размер"
+msgstr ""
+
+#: return[]-%3E%27settings.color%27
+msgid "Цвет"
+msgstr ""
+
+#: return[]-%3E%27settings.opacity%27
+msgid "Прозрачность"
+msgstr ""
+
+#: return[]-%3E%27settings.background%27
+msgid "Настройки подложки"
+msgstr ""
+
+#: return[]-%3E%27settings.background.switch%27
+msgid "Отображать подложку"
+msgstr ""
+
+#: return[]-%3E%27settings.rounding%27
+msgid "Скругление"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.edit%27
+msgid "Редактирование иконки"
+msgstr ""
+
+#: return[]-%3E%27settings.icons.edit%27
+msgid "Редактирование иконок"
+msgstr ""
+
+#: return[]-%3E%27settings.icons.add%27
+msgid "Добавить"
+msgstr ""
+
+#: return[]-%3E%27settings.icons.editor%27
+msgid "Редактор иконок"
+msgstr ""
+
+#: return[]-%3E%27settings.icons.count%27
+msgid "Количество иконок в строке"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.field.caption%27
+msgctxt "return[]->'settings.icon.field.caption'"
+msgid "Заголовок"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.field.description%27
+msgid "Описание"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.field.link%27
+msgid "Ссылка"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.field.image%27
+msgid "Ссылка на изображение"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.image.select%27
+msgid "Выбрать из галереи"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.image.remove%27
+msgid "Удалить"
+msgstr ""
+
+#: return[]-%3E%27settings.icon.apply%27
+msgid "Применить"
+msgstr ""

@@ -1,0 +1,131 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news.list/contacts/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SETTINGS_USE%27]
+msgctxt "$MESS['C_NEWS_LIST_CONTACTS_SETTINGS_USE']"
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_REGIONALITY_PROPERTY%27]
+msgid "Свойство мультирегиональности"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SHOW_MAP%27]
+msgid "Показывать карту"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_API_KEY_MAP%27]
+msgid "Ключ API для карты"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SHOW_FORM%27]
+msgid "Показывать форму обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SHOW_LIST%27]
+msgid "Показывать список"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SHOW_LIST_NONE%27]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SHOW_LIST_SHOPS%27]
+msgid "Магазинов"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_SHOW_LIST_OFFICES%27]
+msgid "Представительств"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_CONTACT_ID%27]
+msgid "Главный контакт"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_WEB_FORM_ID%27]
+msgid "Веб форма"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_WEB_FORM_CONSENT_URL%27]
+msgid "Url соглашения на обработку персональных данных"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_MAP%27]
+msgid "Свойство \"Место на карте\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_CITY%27]
+msgid "Свойство \"Город\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_ADDRESS%27]
+msgid "Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_PHONE%27]
+msgid "Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_EMAIL%27]
+msgid "Свойство \"Электронная почта\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_WORK_TIME%27]
+msgid "Свойство \"Время работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_STORE_ID%27]
+msgid "Свойство \"ID склада\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_MAP_VENDOR%27]
+msgid "Карта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_MAP_VENDOR_YANDEX%27]
+msgid "Яндекс"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_MAP_VENDOR_GOOGLE%27]
+msgid "Google"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_TITLE_SHOW%27]
+msgid "Показывать заголовок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_TITLE_TEXT%27]
+msgid "Текст заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_DESCRIPTION_SHOW%27]
+msgid "Показывать текст"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_DESCRIPTION_TEXT%27]
+msgid "Текст"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_OPENING_HOURS%27]
+msgid "Свойство \"Микроразметка. График работы\""
+msgstr ""

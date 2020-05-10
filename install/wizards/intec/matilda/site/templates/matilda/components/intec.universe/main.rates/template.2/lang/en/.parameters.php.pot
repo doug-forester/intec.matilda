@@ -1,0 +1,108 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.rates/template.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_PROPERTY_CURRENCY%27]
+msgid "Свойство \"Валюта\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_TABS_USE%27]
+msgid "Использовать вкладки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_TABS_POSITION%27]
+msgid "Расположение вкладок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_PROPERTIES_SHOW%27]
+msgid "Показывать выбранные свойства"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_PRICE_SHOW%27]
+msgid "Отображать цену"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_SLIDER_USE%27]
+msgid "Использовать слайдер"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_USE%27]
+msgid "Использовать кнопку \"Заказать\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_ID%27]
+msgid "\"Заказать\". Форма"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_TEMPLATE%27]
+msgid "\"Заказать\". Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_FIELD%27]
+msgid "\"Заказать\". Поле формы для автозаполнения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_TITLE%27]
+msgid "\"Заказать\". Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_CONSENT%27]
+msgid "\"Заказать\". Ссылка на страницу с соглашением обработки личных данных"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_BUTTON%27]
+msgid "\"Заказать\". Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_TABS_VIEW%27]
+msgid "Вид отображения вкладок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_MAIN_RATES_TEMPLATE_2_ORDER_FORM_TITLE_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_2_ORDER_BUTTON_DEFAULT%27]
+msgctxt "$MESS['C_MAIN_RATES_TEMPLATE_2_ORDER_BUTTON_DEFAULT']"
+msgid "Заказать"
+msgstr ""

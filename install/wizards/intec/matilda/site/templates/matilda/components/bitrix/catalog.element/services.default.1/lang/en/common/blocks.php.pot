@@ -1,0 +1,118 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/services.default.1/lang/en/common/blocks.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BANNER%27]
+msgid "Банер"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_DESCRIPTION_1%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_RESULT_1%27]
+msgid "Результат"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_ICONS_1%27]
+msgid "Иконки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_CATEGORIES_1%27]
+msgid "Категории"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_MORE_1%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_STAGES_1%27]
+msgid "Этапы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_FORM_1%27]
+msgid "Форма"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_STAFF_1%27]
+msgid "Сотрудники"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_RATES_1%27]
+msgid "Тарифы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_PLAN_1%27]
+msgid "План"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_FORM_2%27]
+msgid "Форма 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_PROJECTS_1%27]
+msgid "Проекты"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BRANDS_1%27]
+msgid "Бренды"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_REVIEWS_1%27]
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_SERVICES_1%27]
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_VIDEOS_1%27]
+msgid "Видеогалерея"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_FAQ_1%27]
+msgid "Вопрос-ответ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BENEFITS_1%27]
+msgid "Преимущества"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BENEFITS_2%27]
+msgid "Преимущества 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BENEFITS_3%27]
+msgid "Преимущества 3"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BENEFITS_4%27]
+msgid "Преимущества 4"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_SERVICES_2%27]
+msgid "Услуги 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_SERVICES_3%27]
+msgid "Услуги 3"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_RESULT_2%27]
+msgid "Результат 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_RATES_2%27]
+msgid "Тарифы 2"
+msgstr ""

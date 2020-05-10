@@ -1,0 +1,40 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/system.auth.forgotpasswd/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SYSTEM_AUTH_FORGOTPASSWD_DEFAULT_TITLE%27]
+msgid "Восстановление пароля"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_FORGOTPASSWD_DEFAULT_DESCRIPTION%27]
+msgid ""
+"Если вы забыли пароль, введите эл. почту.<br />Контрольная строка для смены "
+"пароля, а также ваши регистрационные данные, будут высланы вам на эл. почту."
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_FORGOTPASSWD_DEFAULT_FIELDS_EMAIL%27]
+msgid "Эл. почта"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_FORGOTPASSWD_DEFAULT_FIELDS_CAPTCHA%27]
+msgid "Введите проверочное слово"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_FORGOTPASSWD_DEFAULT_BUTTONS_AUTHORIZE%27]
+msgid "Авторизоваться"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_FORGOTPASSWD_DEFAULT_BUTTONS_RESTORE%27]
+msgid "Восстановить"
+msgstr ""

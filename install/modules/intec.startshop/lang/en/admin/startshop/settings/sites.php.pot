@@ -1,0 +1,110 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/sites.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Параметры сайтов"
+msgstr ""
+
+#: %24MESS[%27buttons.save%27]
+msgid "Сохранить"
+msgstr ""
+
+#: %24MESS[%27sections.common%27]
+msgid "Общие"
+msgstr ""
+
+#: %24MESS[%27sections.common.order_register_new_user%27]
+msgid "Авторегистрация анонимных пользователей при оформлении заказа"
+msgstr ""
+
+#: %24MESS[%27sections.common.order_register_new_user_group%27]
+msgid "Группа для авторегистрируемых пользователей"
+msgstr ""
+
+#: %24MESS[%27sections.theme%27]
+msgid "Цветовая тема"
+msgstr ""
+
+#: %24MESS[%27sections.delivery_and_payment%27]
+msgid "Оплата и доставка"
+msgstr ""
+
+#: %24MESS[%27sections.delivery_and_payment.delivery.use%27]
+msgid "Использовать доставку"
+msgstr ""
+
+#: %24MESS[%27sections.delivery_and_payment.payment.use%27]
+msgid "Использовать различные способы оплаты"
+msgstr ""
+
+#: %24MESS[%27sections.delivery_and_payment.payment.order.status%27]
+msgid "Статус заказа после его оплаты"
+msgstr ""
+
+#: %24MESS[%27sections.delivery_and_payment.payment.order.status.empty%27]
+msgid "(не менять статус)"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Изменения сохранены!"
+msgstr ""
+
+#: %24MESS[%27messages.error.rights%27]
+msgid "Недостаточно прав для сохранения изменений, доступен только просмотр!"
+msgstr ""
+
+#: %24MESS[%27select.empty%27]
+msgid "(не выбрано)"
+msgstr ""
+
+#: %24MESS[%27sections.mail%27]
+msgid "Рассылка почты"
+msgstr ""
+
+#: %24MESS[%27sections.mail.use%27]
+msgid "Использовать рассылку почты"
+msgstr ""
+
+#: %24MESS[%27sections.mail.mail%27]
+msgid "Эл. почта магазина"
+msgstr ""
+
+#: %24MESS[%27sections.mail.order.property%27]
+msgid "Свойство заказа, из которого берется эл. почта клиента"
+msgstr ""
+
+#: %24MESS[%27sections.mail.admin.order.create%27]
+msgid "Отсылать письмо о новом заказе магазину"
+msgstr ""
+
+#: %24MESS[%27sections.mail.admin.order.create.event%27]
+msgid "Событие, отправляющее письмо о новом заказе магазину"
+msgstr ""
+
+#: %24MESS[%27sections.mail.admin.order.pay%27]
+msgid "Отсылать письмо об оплате заказа магазину"
+msgstr ""
+
+#: %24MESS[%27sections.mail.admin.order.pay.event%27]
+msgid "Событие, отправляющее письмо об оплате заказа магазину"
+msgstr ""
+
+#: %24MESS[%27sections.mail.client.order.create%27]
+msgid "Отсылать письмо о сделанном заказе клиенту"
+msgstr ""
+
+#: %24MESS[%27sections.mail.client.order.create.event%27]
+msgid "Событие, отправляющее письмо о сделанном заказе клиенту"
+msgstr ""

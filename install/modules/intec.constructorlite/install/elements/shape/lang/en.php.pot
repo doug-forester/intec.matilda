@@ -1,0 +1,76 @@
+#. extracted from install/modules/intec.constructorlite/install/elements/shape/lang/en.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: return[]-%3E%27name%27
+msgctxt "return[]->'name'"
+msgid "Фигура"
+msgstr ""
+
+#: return[]-%3E%27settings.sections.border%27
+msgid "Рамка"
+msgstr ""
+
+#: return[]-%3E%27settings.type%27
+msgctxt "return[]->'settings.type'"
+msgid "Фигура"
+msgstr ""
+
+#: return[]-%3E%27settings.type.rectangle%27
+msgid "Прямоугольник"
+msgstr ""
+
+#: return[]-%3E%27settings.type.circle%27
+msgid "Круг"
+msgstr ""
+
+#: return[]-%3E%27settings.border.style%27
+msgid "Вид"
+msgstr ""
+
+#: return[]-%3E%27settings.border.style.solid%27
+msgid "Сплошной"
+msgstr ""
+
+#: return[]-%3E%27settings.border.style.dotted%27
+msgid "Точечный"
+msgstr ""
+
+#: return[]-%3E%27settings.border.style.dashed%27
+msgid "Пунктирный"
+msgstr ""
+
+#: return[]-%3E%27settings.border.width%27
+msgid "Толщина"
+msgstr ""
+
+#: return[]-%3E%27settings.border.radius%27
+msgid "Скругление"
+msgstr ""
+
+#: return[]-%3E%27settings.color%27
+msgid "Цвет"
+msgstr ""
+
+#: return[]-%3E%27settings.image%27
+msgid "Изображение"
+msgstr ""
+
+#: return[]-%3E%27settings.image.select%27
+msgid "Выбрать из галереи"
+msgstr ""
+
+#: return[]-%3E%27settings.image.contain%27
+msgid "Вписывать изображение"
+msgstr ""

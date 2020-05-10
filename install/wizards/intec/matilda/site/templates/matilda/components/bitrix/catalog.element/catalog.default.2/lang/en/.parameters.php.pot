@@ -1,0 +1,524 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/catalog.default.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIDEO_IBLOCK_TYPE%27]
+msgid "Видео. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIDEO_IBLOCK_ID%27]
+msgid "Видео. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIDEO_PROPERTY_URL%27]
+msgid "Видео. Свойство \"Ссылка на видео\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_REVIEWS_IBLOCK_TYPE%27]
+msgid "Отзывы. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_REVIEWS_IBLOCK_ID%27]
+msgid "Отзывы. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_REVIEWS_PROPERTY_ELEMENT_ID%27]
+msgid "Отзывы. Показывать рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_REVIEWS_MAIL_EVENT%27]
+msgid "Отзывы. Почтовое событие"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_REVIEWS_USE_CAPTCHA%27]
+msgid "Отзывы. Использовать captcha"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_REVIEWS_SHOW%27]
+msgid "Отзывы. Показывать блок \"Отзывы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PANEL_SHOW%27]
+msgid ""
+"Показывать фиксированную панель с информацией о товаре при прокрутке "
+"страницы вниз"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PANEL_MOBILE_SHOW%27]
+msgid ""
+"[Моб. версия] Показывать фиксированную панель с информацией о товаре при "
+"прокрутке страницы вниз"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ACTION%27]
+msgid "Кнопка \"Купить\". Действия с товаром"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_DELAY_USE%27]
+msgid "Использовать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRICE_EXTENDED%27]
+msgid "Отображать все цены выбранных типов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRICE_RANGE%27]
+msgid "Отображать диапазон цен (разная цена в зависимости от количества)"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRICE_DIFFERENCE%27]
+msgid "Отображать размер экономии при скидке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VOTE_SHOW%27]
+msgid "Показывать рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VOTE_MODE%27]
+msgid "В качестве рейтинга показывать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VOTE_MODE_RATING%27]
+msgid "Рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VOTE_MODE_AVERAGE%27]
+msgid "Среднее значение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_SHOW%27]
+msgid "Показывать остаток товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_MODE%27]
+msgid "Способ отображения остатка товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_MODE_NUMBER%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_MODE_TEXT%27]
+msgid "\"Много\"/\"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_MODE_LOGIC%27]
+msgid "\"В наличии\"/\"Нет в наличии\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_BOUNDS_MANY%27]
+msgid "Минимальное кол-во для маркера \"Много\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_QUANTITY_BOUNDS_FEW%27]
+msgid "Минимальное кол-во для маркера \"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_MARKS_HIT%27]
+msgid "Свойство метки \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_MARKS_NEW%27]
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_MARKS_RECOMMEND%27]
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_MARKS_SHOW%27]
+msgid "Показывать маркеры"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_ARTICLE%27]
+msgid "Свойство \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ARTICLE_SHOW%27]
+msgid "Показывать \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_BRAND%27]
+msgid "Свойство \"Бренд\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_BRAND_SHOW%27]
+msgid "Показывать \"Бренд\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_SERVICES%27]
+msgid "Свойство \"Сопутствующие услуги\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SERVICES_SHOW%27]
+msgid "Показывать \"Сопутствующие услуги\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ADDITIONAL_SHOW%27]
+msgid "Показывать \"Дополнительные товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_ADDITIONAL%27]
+msgid "Свойство \"Дополнительные товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_DOCUMENTS%27]
+msgid "Свойство \"Документы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_DOCUMENTS_SHOW%27]
+msgid "Показывать \"Документы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRODUCTS_ASSOCIATED%27]
+msgid "Сопутствующие товары."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRODUCTS_ASSOCIATED_TEMPLATE%27]
+msgid "Шаблон сопутствующих товаров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_PRODUCTS_ASSOCIATED%27]
+msgid "Свойство \"Сопутствующие товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ASSOCIATED_SHOW%27]
+msgid "Показывать \"Сопутствующие товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRODUCTS_RECOMMENDED%27]
+msgid "Рекомендованные товары."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRODUCTS_RECOMMENDED_TEMPLATE%27]
+msgid "Шаблон рекомендованных товаров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_RECOMMENDED%27]
+msgid "Свойство \"Рекомендованные товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_RECOMMENDED_SHOW%27]
+msgid "Показывать \"Рекомендованные товары\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_PICTURES%27]
+msgid "Свойство \"Изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_SIZES_SHOW%27]
+msgid "Свойство \"Отображать таблицу размеров\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIDEO_SHOW%27]
+msgid "Показывать \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_OFFERS_PROPERTY_ARTICLE%27]
+msgid "Свойство торговых предложений \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_OFFERS_PROPERTY_PICTURES%27]
+msgid "Свойство торговых предложений \"Изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW%27]
+msgid "Вид"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW_TABS%27]
+msgid "Вкладки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW_WIDE%27]
+msgid "Широкая"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW_NARROW%27]
+msgid "Узкая"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW_TABS_POSITION%27]
+msgid "Позиция вкладок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW_TABS_POSITION_TOP%27]
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_VIEW_TABS_POSITION_BOTTOM%27]
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_GALLERY_SHOW%27]
+msgid "Показывать галерею"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_GALLERY_ZOOM%27]
+msgid "Приближение при наведении на изображение галереи"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_GALLERY_POPUP%27]
+msgid "Открывать галерею при нажатии на изображение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_GALLERY_PANEL%27]
+msgid "Отображать панель управления галереей"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_GALLERY_PREVIEW%27]
+msgid "Отображать превью изображений слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_COUNTER_SHOW%27]
+msgid "Показывать поле для установки количества товаров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_STORES_SHOW%27]
+msgid "Показывать наличие на складах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SETS_SHOW%27]
+msgid "Показывать \"Наборы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_DESCRIPTION_PREVIEW_SHOW%27]
+msgid "Выводить текст анонса"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_DESCRIPTION_DETAIL_SHOW%27]
+msgid "Выводить текст детального описания"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTIES_PREVIEW_SHOW%27]
+msgid "Выводить сокращенные свойства"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTIES_PREVIEW_COUNT%27]
+msgid "Количество сокращенных свойств"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTIES_DETAIL_SHOW%27]
+msgid "Выводить все свойства"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ORDER_FAST_USE%27]
+msgid "Использовать быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ORDER_FAST_TEMPLATE%27]
+msgid "Шаблон быстрого заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ORDER_FAST%27]
+msgid "Быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_SHOW%27]
+msgid "Показывать форму обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_IMAGE%27]
+msgid "Путь до изображения блока (может быть внешней ссылкой)"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_TITLE%27]
+msgid "Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_TITLE_DEFAULT%27]
+msgid "Нужна  консультация?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_DESCRIPTION%27]
+msgid "Описание блока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_DESCRIPTION_DEFAULT%27]
+msgid "Сомневаетесь, подойдет ли вам этот товар?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_1_BUTTON_TEXT%27]
+msgid "Текст кнопки 1"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_BUTTON_TEXT%27]
+msgid "Текст кнопки 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_1_BUTTON_TEXT_DEFAULT%27]
+msgid "Позвоните мне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_BUTTON_TEXT_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_BUTTON_TEXT_DEFAULT']"
+msgid "Задать вопрос"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_1_ID%27]
+msgid "Форма 1"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_ID%27]
+msgid "Форма 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_1_NAME%27]
+msgid "Название формы 1"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_NAME%27]
+msgid "Название формы 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_1_NAME_DEFAULT%27]
+msgid "Заказать звонок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_NAME_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_2_NAME_DEFAULT']"
+msgid "Задать вопрос"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_CHEAPER_SHOW%27]
+msgid "Показывать форму \"Нашли дешевле\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_FORM_CHEAPER_ID%27]
+msgid "Форма \"Нашли дешевле\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ACTION_NONE%27]
+msgid "Не показывать кнопку"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ACTION_BUY%27]
+msgid "Добавление в корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ACTION_ORDER%27]
+msgid "Заказать через форму"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_TABS_ANIMATION_USE%27]
+msgid "Использовать анимацию переключения вкладок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_INFORMATION_PAYMENT_SHOW%27]
+msgid "Доп. информация. Показывать информацию об оплате"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_INFORMATION_PAYMENT_PATH%27]
+msgid "Доп. информация. Путь до файла с информацией об оплате"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_INFORMATION_SHIPMENT_SHOW%27]
+msgid "Доп. информация. Показывать информацию о доставке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_INFORMATION_SHIPMENT_PATH%27]
+msgid "Доп. информация. Путь до файла с информацией о доставке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SIZES_SHOW%27]
+msgid "Показывать таблицу размеров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SIZES_PATH%27]
+msgid "Путь до файла с таблицей размеров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SIZES_MODE%27]
+msgid "Режим показа таблицы размеров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SIZES_MODE_ALL%27]
+msgid "Везде"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SIZES_MODE_ELEMENT%27]
+msgid "Определяется для каждого элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_TAB_META_TITLE%27]
+msgid "Свойство \"Вкладка. SEO. Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_TAB_META_CHAIN%27]
+msgid "Свойство \"Вкладка. SEO. Название в цепочке навигации\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_TAB_META_KEYWORDS%27]
+msgid "Свойство \"Вкладка. SEO. Ключевые слова\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_TAB_META_DESCRIPTION%27]
+msgid "Свойство \"Вкладка. SEO. Описание\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_TAB_META_BROWSER_TITLE%27]
+msgid "Свойство \"Вкладка. SEO. Заголовок окна браузера\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ADVANTAGES%27]
+msgid "Преимущества"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ADVANTAGES_TEMPLATE%27]
+msgid "Шаблон преимуществ товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_ADVANTAGES%27]
+msgid "Свойство \"Преимущества\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_ADVANTAGES_SHOW%27]
+msgid "Показывать \"Преимущества\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SHARES%27]
+msgid "Поделиться товаром в соцсетях"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SHARES_SHOW%27]
+msgid "Показывать кнопку \"Поделиться товаром в соцсетях\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PRINT_SHOW%27]
+msgid "Отображать кнопку \"Отправить на печать\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_PROPERTY_ORDER_USE%27]
+msgid "Свойство \"Товар под заказ\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SKU_VIEW%27]
+msgid "Вид торговых предложений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SKU_VIEW_LIST%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_2_SKU_VIEW_DYNAMIC%27]
+msgid "Динамический"
+msgstr ""

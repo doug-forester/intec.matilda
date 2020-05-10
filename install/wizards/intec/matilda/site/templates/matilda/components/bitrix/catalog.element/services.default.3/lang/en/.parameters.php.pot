@@ -1,0 +1,406 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/services.default.3/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS%27]
+msgid "Блоки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ORDER%27]
+msgid "Порядок блоков"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_CURRENCY%27]
+msgid "Валюта"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_PROPERTY_CURRENCY%27]
+msgid "Свойство \"Валюта\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_PRICE_FORMAT%27]
+msgid "Формат цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_PROPERTY_PRICE_FORMAT%27]
+msgid "Свойство \"Формат цены\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_DESCRIPTION_HEADER%27]
+msgid "\"Описание\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_DESCRIPTION_PROPERTY_HEADER%27]
+msgid "\"Описание\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_DESCRIPTION_HEADER_DEFAULT%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER%27]
+msgid "Блок \"Баннер\"."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_WIDE%27]
+msgid "Блок \"Баннер\". Баннер на ширину страницы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_HEIGHT%27]
+msgid "Блок \"Баннер\". Высота баннера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_SPLIT%27]
+msgid "Блок \"Баннер\". Показывать изображение справа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_PRICE_TITLE%27]
+msgid "Блок \"Баннер\". Оглавление блока \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_PRICE_TITLE_DEFAULT%27]
+msgid "Цена:"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_TEXT_SHOW%27]
+msgid "Блок \"Баннер\". Отображать текст анонса"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_TEXT_HEADER_SHOW%27]
+msgid "Блок \"Баннер\". Показывать заголовок описания"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_TEXT_POSITION%27]
+msgid "Блок \"Баннер\". Расположение текста анонса"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_TEXT_POSITION_INSIDE%27]
+msgid "В блоке цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_TEXT_POSITION_OUTSIDE%27]
+msgid "Под блоком цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_PROPERTY_ORDER_BUTTON_SHOW%27]
+msgid "Блок \"Баннер\". Свойство \"Отображать кнопку заказа\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_ORDER_BUTTON_TEXT%27]
+msgid "Блок \"Баннер\". Текст кнопки заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_ORDER_BUTTON_TEXT_DEFAULT%27]
+msgid "Заказать услугу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_ORDER_FORM_ID%27]
+msgid "Блок \"Баннер\". ID формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_ORDER_FORM_TEMPLATE%27]
+msgid "Блок \"Баннер\". Шаблон формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_ORDER_FORM_SERVICE%27]
+msgid "Блок \"Баннер\". Поле названия услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_BANNER_ORDER_FORM_CONSENT%27]
+msgid "Блок \"Баннер\". Ссылка на соглашение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_DESCRIPTION_1_HEADER_POSITION%27]
+msgid "Блок \"Описание\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1%27]
+msgid "Блок \"Иконки\"."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_HEADER%27]
+msgid "Блок \"Иконки\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_PROPERTY_HEADER%27]
+msgid "Блок \"Иконки\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_HEADER_POSITION%27]
+msgid "Блок \"Иконки\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_HEADER_DEFAULT%27]
+msgid "Иконки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_IBLOCK_TYPE%27]
+msgid "Блок \"Иконки\". Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_IBLOCK_ID%27]
+msgid "Блок \"Иконки\". Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_ICONS_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Иконки\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_HEADER%27]
+msgid "Блок \"Фотогалерея\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_PROPERTY_HEADER%27]
+msgid "Блок \"Фотогалерея\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_HEADER_POSITION%27]
+msgid "Блок \"Фотогалерея\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_HEADER_DEFAULT%27]
+msgid "Галерея"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_IBLOCK_TYPE%27]
+msgid "Блок \"Фотогалерея\". Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_IBLOCK_ID%27]
+msgid "Блок \"Фотогалерея\". Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_GALLERY_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Фотогалерея\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROPERTIES_1_HEADER%27]
+msgid "Блок \"Характеристики\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROPERTIES_1_PROPERTY_HEADER%27]
+msgid "Блок \"Характеристики\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROPERTIES_1_HEADER_POSITION%27]
+msgid "Блок \"Характеристики\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROPERTIES_1_HEADER_DEFAULT%27]
+msgid "Характеристики"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_DOCUMENTS_1_HEADER%27]
+msgid "Блок \"Документы\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_DOCUMENTS_1_PROPERTY_HEADER%27]
+msgid "Блок \"Документы\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_DOCUMENTS_1_HEADER_POSITION%27]
+msgid "Блок \"Документы\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_DOCUMENTS_1_HEADER_DEFAULT%27]
+msgid "Документы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_DOCUMENTS_1_PROPERTY_FILES%27]
+msgid "Блок \"Документы\". Свойство \"Документы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_HEADER%27]
+msgid "Блок \"Видеогалерея\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_PROPERTY_HEADER%27]
+msgid "Блок \"Видеогалерея\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_HEADER_DEFAULT%27]
+msgid "Видеогалерея"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_HEADER_POSITION%27]
+msgid "Блок \"Видеогалерея\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_IBLOCK_TYPE%27]
+msgid "Блок \"Видеогалерея\". Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_IBLOCK_ID%27]
+msgid "Блок \"Видеогалерея\". Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Видеогалерея\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_VIDEOS_1_PROPERTY_LINK%27]
+msgid "Блок \"Видеогалерея\". Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_HEADER%27]
+msgid "Блок \"Проекты\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_PROPERTY_HEADER%27]
+msgid "Блок \"Проекты\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_HEADER_DEFAULT%27]
+msgid "Проекты"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_HEADER_POSITION%27]
+msgid "Блок \"Проекты\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_IBLOCK_TYPE%27]
+msgid "Блок \"Проекты\". Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_IBLOCK_ID%27]
+msgid "Блок \"Проекты\". Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PROJECTS_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Проекты\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_HEADER%27]
+msgid "Блок \"Отзывы\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_PROPERTY_HEADER%27]
+msgid "Блок \"Отзывы\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_HEADER_POSITION%27]
+msgid "Блок \"Отзывы\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_HEADER_DEFAULT%27]
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_IBLOCK_TYPE%27]
+msgid "Блок \"Отзывы\". Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_IBLOCK_ID%27]
+msgid "Блок \"Отзывы\". Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Отзывы\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_PROPERTY_POSITION%27]
+msgid "Блок \"Отзывы\". Свойство \"Должность\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_PAGE%27]
+msgid "Блок \"Отзывы\". Шаблон адреса раздела с отзывами"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_BUTTON_SHOW%27]
+msgid "Блок \"Отзывы\". Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_BUTTON_TEXT%27]
+msgid "Блок \"Отзывы\". Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_REVIEWS_1_BUTTON_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_SERVICES_1%27]
+msgid "Блок \"Услуги\"."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_SERVICES_1_HEADER%27]
+msgid "Блок \"Услуги\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_SERVICES_1_PROPERTY_HEADER%27]
+msgid "Блок \"Услуги\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_SERVICES_1_HEADER_DEFAULT%27]
+msgid "Сопутствующие услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_SERVICES_1_HEADER_POSITION%27]
+msgid "Блок \"Услуги\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_SERVICES_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Услуги\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1%27]
+msgid "Блок \"Товары\"."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_HEADER%27]
+msgid "Блок \"Товары\". Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_PROPERTY_HEADER%27]
+msgid "Блок \"Товары\". Свойство \"Заголовок\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_HEADER_DEFAULT%27]
+msgid "Сопутствующие товары"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_HEADER_POSITION%27]
+msgid "Блок \"Товары\". Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_IBLOCK_TYPE%27]
+msgid "Блок \"Товары\". Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_IBLOCK_ID%27]
+msgid "Блок \"Товары\". Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_PRODUCTS_1_PROPERTY_ELEMENTS%27]
+msgid "Блок \"Товары\". Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_BLOCKS_FORM_1%27]
+msgid "Блок \"Форма\"."
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_HEADER_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_HEADER_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""

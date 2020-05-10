@@ -1,0 +1,212 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news.detail/shares.default.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_BANNER_WIDE%27]
+msgid "Баннер. Изображение на ширину экрана"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_BANNER_HEIGHT%27]
+msgid "Баннер. Высота баннера"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_DESCRIPTION_PROPERTY_DURATION%27]
+msgid "Описание. Свойство \"Продолжительность акции\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PROMO%27]
+msgid "Промо-блок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PROMO_PROPERTY_ELEMENTS%27]
+msgid "Промо-блок. Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS%27]
+msgctxt "$MESS['C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS']"
+msgid "Условия акции"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS_PROPERTY_ELEMENTS%27]
+msgid "Условия акции. Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS_HEADER%27]
+msgid "Условия акции. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS_HEADER_DEFAULT%27]
+msgctxt "$MESS['C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS_HEADER_DEFAULT']"
+msgid "Условия акции"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_CONDITIONS_HEADER_POSITION%27]
+msgid "Условия акции. Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_FORM%27]
+msgid "Обратная связь"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_FORM_SHOW%27]
+msgid "Обратная связь. Показывать форму"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_VIDEOS%27]
+msgid "Видео"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_VIDEOS_PROPERTY_ELEMENTS%27]
+msgid "Видео. Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_VIDEOS_HEADER%27]
+msgid "Видео. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_VIDEOS_HEADER_DEFAULT%27]
+msgid "Обзоры"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_VIDEOS_HEADER_POSITION%27]
+msgid "Видео. Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_GALLERY%27]
+msgid "Галерея"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_GALLERY_PROPERTY_ELEMENTS%27]
+msgid "Галерея. Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_GALLERY_HEADER%27]
+msgid "Галерея. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_GALLERY_HEADER_DEFAULT%27]
+msgid "Фотографии"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_GALLERY_HEADER_POSITION%27]
+msgid "Галерея. Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SECTIONS%27]
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SECTIONS_PROPERTY_SECTIONS%27]
+msgid "Разделы. Свойство \"Отображаемые разделы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SECTIONS_HEADER%27]
+msgid "Разделы. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SECTIONS_HEADER_DEFAULT%27]
+msgid "Разделы каталога"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SECTIONS_HEADER_POSITION%27]
+msgid "Разделы. Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SERVICES%27]
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SERVICES_PROPERTY_ELEMENTS%27]
+msgid "Услуги. Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SERVICES_HEADER%27]
+msgid "Услуги. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SERVICES_HEADER_DEFAULT%27]
+msgid "Услуги по акции"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_SERVICES_HEADER_POSITION%27]
+msgid "Услуги. Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS%27]
+msgid "Товары"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS_PROPERTY_ELEMENTS%27]
+msgid "Товары. Свойство \"Элементы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS_HEADER%27]
+msgid "Товары. Заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS_HEADER_DEFAULT%27]
+msgid "Товары по акции"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS_HEADER_POSITION%27]
+msgid "Товары. Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS_USE_COMPARE%27]
+msgid "Товары. Использовать сравнение"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_PRODUCTS_COMPARE_NAME%27]
+msgid "Товары. Название переменной сравнения"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LINKS%27]
+msgid "Ссылки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LINKS_BUTTON%27]
+msgid "Ссылки. Кнопка \"Смотреть все акции\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LINKS_BUTTON_DEFAULT%27]
+msgid "Посмотреть все акции"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LINKS_SOCIAL_SHOW%27]
+msgid "Ссылки. Показывать социальные сети"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LINKS_TITLE%27]
+msgid "Ссылки. Заголовок блока \"Социальные сети\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_LINKS_TITLE_DEFAULT%27]
+msgid "Поделиться"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_HEADER_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_HEADER_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_DETAIL_SHARES_DEFAULT_1_HEADER_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""

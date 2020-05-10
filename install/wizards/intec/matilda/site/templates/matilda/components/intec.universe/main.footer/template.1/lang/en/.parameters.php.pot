@@ -1,0 +1,214 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.footer/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_REGIONALITY_PRICES_TYPES_USE%27]
+msgid "Мультирегиональность. Использовать типы цен региона"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_THEME%27]
+msgid "Тема"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_THEME_LIGHT%27]
+msgid "Светлая"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_THEME_DARK%27]
+msgid "Темная"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_TEMPLATE%27]
+msgid "Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_PRODUCTS_VIEWED_SHOW%27]
+msgid "Показывать блок \"Просмотренные товары\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_PRODUCTS_VIEWED%27]
+msgid "Просмотренные товары"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_USE%27]
+msgid "Использовать контакты"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_IBLOCK_TYPE%27]
+msgid "Контакты. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_IBLOCK_ID%27]
+msgid "Контакты. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_ELEMENTS%27]
+msgid "Контакты. Отображаемые элементы"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_ELEMENT%27]
+msgid "Контакты. Главный элемент"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_REGIONALITY_USE%27]
+msgid "Контакты. Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_REGIONALITY_STRICT%27]
+msgid "Контакты. Выводить контакты только с заполненными регионами"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_PROPERTY_CITY%27]
+msgid "Контакты. Свойство \"Город\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_PROPERTY_ADDRESS%27]
+msgid "Контакты. Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_PROPERTY_PHONE%27]
+msgid "Контакты. Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_PROPERTY_EMAIL%27]
+msgid "Контакты. Свойство \"Эл. почта\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONTACTS_PROPERTY_REGION%27]
+msgid "Контакты. Свойство \"Регион\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_ADDRESS_SHOW%27]
+msgid "Отображать адрес"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_ADDRESS_VALUE%27]
+msgid "Адрес"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_EMAIL_SHOW%27]
+msgid "Отображать эл. почту"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_EMAIL_VALUE%27]
+msgid "Эл. почта"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_COPYRIGHT_SHOW%27]
+msgid "Отображать копирайт"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_COPYRIGHT_VALUE%27]
+msgid "Текст копирайта"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_MENU_MAIN%27]
+msgid "Главное меню"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_MENU_MAIN_SHOW%27]
+msgid "Отображать главное меню"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_MENU_MAIN_ROOT%27]
+msgid "Главное меню. Корневой тип"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_MENU_MAIN_LEVEL%27]
+msgid "Главное меню. Максимальная вложенность"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_MENU_MAIN_CHILD%27]
+msgid "Главное меню. Вложенный тип"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CONSENT_URL%27]
+msgid "Ссылка на страницу соглашения на обработку данных"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_FORMS_CALL_SHOW%27]
+msgid "Показывать кнопку \"Заказать звонок\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_FORMS_CALL_ID%27]
+msgid "Форма для заказа звонка"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_FORMS_CALL_TEMPLATE%27]
+msgid "Шаблон отображения формы заказа звонка"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_FORMS_CALL_TITLE%27]
+msgid "Текст заголовка формы \"Заказать звонок\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_FORMS_CALL_TITLE_DEFAULT%27]
+msgid "Заказать звонок"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SEARCH%27]
+msgid "Поиск"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SEARCH_SHOW%27]
+msgid "Отображать поиск"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SEARCH_MODE%27]
+msgid "Режим поиска"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SEARCH_MODE_SITE%27]
+msgid "По сайту"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SEARCH_MODE_CATALOG%27]
+msgid "По каталогу"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SOCIAL_SHOW%27]
+msgid "Отображать социальные сети"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SOCIAL_VK_LINK%27]
+msgid "Социальные сети. Ссылка на \"Вконтакте\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SOCIAL_FACEBOOK_LINK%27]
+msgid "Социальные сети. Ссылка на \"Facebook\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SOCIAL_INSTAGRAM_LINK%27]
+msgid "Социальные сети. Ссылка на \"Instagram\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SOCIAL_TWITTER_LINK%27]
+msgid "Социальные сети. Ссылка на \"Twitter\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_SEARCH_URL%27]
+msgid "Страница поиска"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_CATALOG_URL%27]
+msgid "Страница каталога"
+msgstr ""

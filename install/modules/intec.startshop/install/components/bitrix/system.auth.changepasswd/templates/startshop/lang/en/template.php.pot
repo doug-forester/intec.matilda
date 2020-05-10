@@ -1,0 +1,47 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/system.auth.changepasswd/templates/startshop/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_LOGIN%27]
+msgid "Логин"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_OR%27]
+msgctxt "$MESS['STARTSHOP_PASSWORD_TABLE_OR']"
+msgid "или"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_CHECKWORD%27]
+msgid "Контрольная сумма"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_PASSWORD%27]
+msgid "Пароль"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_PASSWORD_CONFIRM%27]
+msgid "Подтверждение пароля"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_CHANGE%27]
+msgid "Изменить"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_AUTHORIZE%27]
+msgid "Авторизоваться"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_REQUIRE%27]
+msgid "Обязательные поля "
+msgstr ""

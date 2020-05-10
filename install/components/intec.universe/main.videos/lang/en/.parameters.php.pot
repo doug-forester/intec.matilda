@@ -1,0 +1,142 @@
+#. extracted from install/components/intec.universe/main.videos/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:27-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_VIDEOS_GROUP_SORT%27]
+msgid "Параметры сортировки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_SECTIONS_MODE%27]
+msgid "Режим выбора разделов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_SECTIONS_MODE_ID%27]
+msgid "По идентификаторам"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_SECTIONS_MODE_CODE%27]
+msgid "По кодам"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_SECTIONS%27]
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_ELEMENTS_COUNT%27]
+msgid "Количество элементов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PROPERTY_URL%27]
+msgid "Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_HEADER_SHOW%27]
+msgid "Отображать заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_HEADER_POSITION%27]
+msgid "Расположение заголовка"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_HEADER%27]
+msgid "Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_HEADER_DEFAULT%27]
+msgid "Видеогалерея"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_DESCRIPTION_SHOW%27]
+msgid "Отображать описание блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_DESCRIPTION_POSITION%27]
+msgid "Расположение описания"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_DESCRIPTION%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SOURCES%27]
+msgid "Источник изображения предпросмотра"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SOURCES_SERVICE%27]
+msgid "Сервис"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SOURCES_PREVIEW%27]
+msgid "Изображение анонса элемента"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SOURCES_DETAIL%27]
+msgid "Подробное изображение элемента"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SERVICE_QUALITY%27]
+msgid "Качество изображения предпросмотра для сервиса"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SERVICE_QUALITY_MQ%27]
+msgid "Минимальное"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SERVICE_QUALITY_HQ%27]
+msgid "Среднее"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SERVICE_QUALITY_SD%27]
+msgid "Высокое"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_PICTURE_SERVICE_QUALITY_MAX%27]
+msgid "Максимальное"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_SORT_BY%27]
+msgid "Свойство сортировки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_ORDER_BY%27]
+msgid "Порядок сортировки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_ORDER_BY_ASC%27]
+msgid "По возрастанию"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_ORDER_BY_DESC%27]
+msgid "По убыванию"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_VIDEOS_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""

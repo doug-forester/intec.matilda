@@ -1,0 +1,112 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/menu/popup.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_ADVANCED%27]
+msgid "Расширенный режим вывода контактов"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_SEARCH%27]
+msgid "Поиск"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_SEARCH_SHOW%27]
+msgid "Отображать поиск"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_SEARCH_MODE%27]
+msgid "Режим поиска"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_SEARCH_MODE_SITE%27]
+msgid "по сайту"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_SEARCH_MODE_CATALOG%27]
+msgid "в каталоге"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_LOGOTYPE_SHOW%27]
+msgid "Отображать логотип"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_LOGOTYPE%27]
+msgid "Путь к файлу логотипа"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_LOGOTYPE_LINK%27]
+msgctxt "$MESS['C_MENU_POPUP_2_LOGOTYPE_LINK']"
+msgid "Ссылка логотипа"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_EMAIL%27]
+msgctxt "$MESS['C_MENU_POPUP_2_EMAIL']"
+msgid "Ссылка логотипа"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_PHONE_SHOW%27]
+msgid "Отображать телефон"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_EMAIL_SHOW%27]
+msgid "Отображать email"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_ADDRESS_SHOW%27]
+msgid "Отображать адрес"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_SCHEDULE_SHOW%27]
+msgid "Отображать график работы"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_ADDRESS%27]
+msgid "Адрес"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_SCHEDULE%27]
+msgid "Расписание"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_PHONE%27]
+msgid "Телефон"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONTACTS_EMAIL%27]
+msgid "Адрес электронной почты"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_FORMS_CALL_SHOW%27]
+msgid "Отображать кнопку \"Заказать звонок\""
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_FORMS_CALL_ID%27]
+msgid "Форма для заказа звонка"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_FORMS_CALL_TEMPLATE%27]
+msgid "Шаблон отображения формы заказа звонка"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_FORMS_CALL_TITLE%27]
+msgid "Название формы \"Заказать звонок\""
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_FORMS_CALL_TITLE_DEFAULT%27]
+msgid "Заказать звонок"
+msgstr ""
+
+#: %24MESS[%27C_MENU_POPUP_2_CONSENT_URL%27]
+msgid "Ссылка на страницу соглашения на обработку данных"
+msgstr ""

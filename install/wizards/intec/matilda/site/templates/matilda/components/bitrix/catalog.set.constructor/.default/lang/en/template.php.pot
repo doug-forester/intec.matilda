@@ -1,0 +1,90 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.set.constructor/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CATALOG_SET_BUY%22]
+msgid "Buy"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_DISCOUNT_DIFF%22]
+msgid "(you save #PRICE#)"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_BUY_SET%22]
+msgid "Buy Set"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_CONSTRUCT%22]
+msgid "Create Set"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_POPUP_LOADER%22]
+msgid "Loading..."
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_POPUP_TITLE_BAR%22]
+msgid "Create Your Set"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_POPUP_TITLE%22]
+msgid "Add item to set"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_POPUP_DESC%22]
+msgid "Drag a product to an empty box or just click it"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_SUM%22]
+msgid "Total"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_DISCOUNT%22]
+msgid "Discount"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_WITHOUT_DISCOUNT%22]
+msgid "Without discount"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_ADDED2BASKET%22]
+msgid "The set has been added to the shopping cart."
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_BUTTON_BUY%22]
+msgid "View shopping cart"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_BUTTON_ADD%22]
+msgid "Add"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_MESS_NOT_AVAILABLE%22]
+msgid "Out of stock"
+msgstr ""
+
+#: %24MESS[%22CT_BCE_CATALOG_MESS_EMPTY_SET%22]
+msgid "There are no products in the bundle. Select the products in the list."
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_PRODUCTS_PRICE%22]
+msgid "Individual product prices"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_SET_PRICE%22]
+msgid "Bundle price"
+msgstr ""
+
+#: %24MESS[%22CATALOG_SET_ECONOMY_PRICE%22]
+msgid "You save"
+msgstr ""

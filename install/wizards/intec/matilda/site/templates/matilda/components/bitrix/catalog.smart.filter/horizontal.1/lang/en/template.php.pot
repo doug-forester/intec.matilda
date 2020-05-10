@@ -1,0 +1,56 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.smart.filter/horizontal.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TOGGLE_DOWN%27]
+msgid "Показать фильтр"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TOGGLE_UP%27]
+msgid "Скрыть фильтр"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_APPLY%27]
+msgctxt "$MESS['FILTER_TEMP_HORIZONTAL_APPLY']"
+msgid "Применить"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_RESET%27]
+msgid "Сбросить"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_PRICE%27]
+msgid "Цена"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_PRICE_FROM%27]
+msgid "от"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_PRICE_TO%27]
+msgid "до"
+msgstr ""
+
+#: %24MESS+[%27CT_BCSF_SET_FILTER%27]
+msgctxt "$MESS ['CT_BCSF_SET_FILTER']"
+msgid "Применить"
+msgstr ""
+
+#: %24MESS+[%27CT_BCSF_FILTER_COUNT%27]
+msgid "Найдено: #ELEMENT_COUNT#"
+msgstr ""
+
+#: %24MESS+[%27CT_BCSF_FILTER_SHOW%27]
+msgid "Показать"
+msgstr ""

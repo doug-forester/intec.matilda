@@ -1,0 +1,44 @@
+#. extracted from install/wizards/intec/matilda/site/services/intec.startshop/lang/en/form.vacancy.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27wizard.services.form.name%27]
+msgctxt "$MESS['wizard.services.form.name']"
+msgid "Отправить резюме"
+msgstr ""
+
+#: %24MESS[%27wizard.services.form.button%27]
+msgctxt "$MESS['wizard.services.form.button']"
+msgid "Отправить резюме"
+msgstr ""
+
+#: %24MESS[%27wizard.services.form.sent%27]
+msgid "Спасибо, Ваша заявка отправлена!"
+msgstr ""
+
+#: %24MESS[%27wizard.services.form.fields.INITIALS.name%27]
+msgid "Ф.И.О."
+msgstr ""
+
+#: %24MESS[%27wizard.services.form.fields.PHONE.name%27]
+msgid "Ваш телефон"
+msgstr ""
+
+#: %24MESS[%27wizard.services.form.fields.EMAIL.name%27]
+msgid "Эл. почта"
+msgstr ""
+
+#: %24MESS[%27wizard.services.form.fields.POST.name%27]
+msgid "Желаемая должность"
+msgstr ""

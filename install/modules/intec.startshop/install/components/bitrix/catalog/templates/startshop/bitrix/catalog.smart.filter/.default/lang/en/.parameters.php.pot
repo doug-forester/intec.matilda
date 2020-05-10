@@ -1,0 +1,74 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/catalog/templates/startshop/bitrix/catalog.smart.filter/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CP_BCT_TPL_THEME_SITE%22]
+msgid "Брать тему из настроек сайта (для решения bitrix.eshop)"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_THEME_BLUE%22]
+msgid "синяя (тема по умолчанию)"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_THEME_GREEN%22]
+msgid "зеленая"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_THEME_WOOD%22]
+msgid "дерево"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_THEME_YELLOW%22]
+msgid "желтая"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_THEME_RED%22]
+msgid "красная"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_THEME_BLACK%22]
+msgid "темная"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_TEMPLATE_THEME%22]
+msgid "Цветовая тема"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_FILTER_VIEW%22]
+msgid "Вид отображения"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_FILTER_VIEW_H%22]
+msgid "горизонтальный"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_FILTER_VIEW_V%22]
+msgid "вертикальный"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_POPUP_POSITION%22]
+msgid "Позиция для отображения всплывающего блока с информацией о фильтрации"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_POPUP_POSITION_LEFT%22]
+msgid "слева"
+msgstr ""
+
+#: %24MESS[%22CP_BCT_TPL_POPUP_POSITION_RIGHT%22]
+msgid "справа"
+msgstr ""
+
+#: %24MESS[%22TP_BCSF_DISPLAY_ELEMENT_COUNT%22]
+msgid "Показывать количество"
+msgstr ""

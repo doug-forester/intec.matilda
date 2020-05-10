@@ -1,0 +1,66 @@
+#. extracted from install/modules/intec.constructorlite/install/elements/text/lang/en.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: return[]-%3E%27name%27
+msgid "Текст"
+msgstr ""
+
+#: return[]-%3E%27settings.text%27
+msgid "Содержимое"
+msgstr ""
+
+#: return[]-%3E%27settings.text.align%27
+msgid "Выравнивание"
+msgstr ""
+
+#: return[]-%3E%27settings.text.align.left%27
+msgid "Слева"
+msgstr ""
+
+#: return[]-%3E%27settings.text.align.center%27
+msgid "По центру"
+msgstr ""
+
+#: return[]-%3E%27settings.text.align.right%27
+msgid "Справа"
+msgstr ""
+
+#: return[]-%3E%27settings.text.align.justify%27
+msgid "По ширине"
+msgstr ""
+
+#: return[]-%3E%27settings.text.font%27
+msgid "Шрифт"
+msgstr ""
+
+#: return[]-%3E%27settings.text.font.default%27
+msgid "(По умолчанию)"
+msgstr ""
+
+#: return[]-%3E%27settings.text.color%27
+msgid "Цвет текста"
+msgstr ""
+
+#: return[]-%3E%27settings.text.size%27
+msgid "Размер"
+msgstr ""
+
+#: return[]-%3E%27settings.text.lineHeight%27
+msgid "Высота строки"
+msgstr ""
+
+#: return[]-%3E%27settings.text.letterSpacing%27
+msgid "Кернинг"
+msgstr ""

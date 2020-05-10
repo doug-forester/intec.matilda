@@ -1,0 +1,260 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/order/property/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить свойство заказа"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактирование свойства заказа"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Свойство заказа"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Свойство заказа с таким кодом уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Свойство заказа успешно добавлено!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Свойство заказа успешно изменено!"
+msgstr ""
+
+#: %24MESS[%27property.type.S%27]
+msgid "Текстовое поле (Однострочное)"
+msgstr ""
+
+#: %24MESS[%27property.type.S.TEXT%27]
+msgid "Текстовое поле (Многострочное)"
+msgstr ""
+
+#: %24MESS[%27property.type.B%27]
+msgid "Переключатель (Да/Нет)"
+msgstr ""
+
+#: %24MESS[%27property.type.L.IBLOCK_ELEMENT%27]
+msgid "Список (Элементы инфоблока)"
+msgstr ""
+
+#: %24MESS[%27fields.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27fields.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27fields.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27fields.user_field%27]
+msgid "Привязка к свойству пользователя"
+msgstr ""
+
+#: %24MESS[%27fields.required%27]
+msgid "Обязательное"
+msgstr ""
+
+#: %24MESS[%27fields.site%27]
+msgctxt "$MESS['fields.site']"
+msgid "Сайт"
+msgstr ""
+
+#: %24MESS[%27fields.type%27]
+msgid "Тип"
+msgstr ""
+
+#: %24MESS[%27fields.type.input_expression%27]
+msgid "Регулярное выражение"
+msgstr ""
+
+#: %24MESS[%27fields.type.input_length%27]
+msgid "Максимальная длина"
+msgstr ""
+
+#: %24MESS[%27fields.type.list_iblock_element%27]
+msgid "Инфоблок списка"
+msgstr ""
+
+#: %24MESS[%27fields.language.caption%27]
+msgid "Языковые настройки"
+msgstr ""
+
+#: %24MESS[%27fields.language.language%27]
+msgid "Язык"
+msgstr ""
+
+#: %24MESS[%27fields.language.name%27]
+msgid "Название"
+msgstr ""
+
+#: %24MESS[%27fields.language.description%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27select.empty%27]
+msgid "(не выбрано)"
+msgstr ""
+
+#: %24MESS[%27select.custom%27]
+msgid "Собственное поле"
+msgstr ""
+
+#: %24MESS[%27user_fields.login%27]
+msgid "Логин"
+msgstr ""
+
+#: %24MESS[%27user_fields.email%27]
+msgid "Эл. почта"
+msgstr ""
+
+#: %24MESS[%27user_fields.name%27]
+msgid "Имя"
+msgstr ""
+
+#: %24MESS[%27user_fields.last_name%27]
+msgid "Фамилия"
+msgstr ""
+
+#: %24MESS[%27user_fields.second_name%27]
+msgid "Отчество"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_profession%27]
+msgid "Профессия"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_www%27]
+msgctxt "$MESS['user_fields.personal_www']"
+msgid "Сайт"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_icq%27]
+msgid "ICQ"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_phone%27]
+msgid "Телефон"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_fax%27]
+msgid "Факс"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_mobile%27]
+msgid "Мобильный телефон"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_pager%27]
+msgid "Пэйджер"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_street%27]
+msgid "Улица, Дом"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_mailbox%27]
+msgid "Почтовый ящик"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_city%27]
+msgid "Город"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_state%27]
+msgid "Область/край/штат"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_zip%27]
+msgid "Индекс"
+msgstr ""
+
+#: %24MESS[%27user_fields.personal_country%27]
+msgid "Страна"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_company%27]
+msgid "Работа (Компания)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_department%27]
+msgid "Работа (Отдел)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_position%27]
+msgid "Работа (Должность)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_www%27]
+msgid "Работа (Сайт)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_phone%27]
+msgid "Работа (Телефон)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_fax%27]
+msgid "Работа (Факс)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_pager%27]
+msgid "Работа (Пейджер)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_street%27]
+msgid "Работа (Улица, Дом)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_mailbox%27]
+msgid "Работа (Почтовый ящик)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_city%27]
+msgid "Работа (Город)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_state%27]
+msgid "Работа (Область/край/штат)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_zip%27]
+msgid "Работа (Индекс)"
+msgstr ""
+
+#: %24MESS[%27user_fields.work_country%27]
+msgid "Работа (Страна)"
+msgstr ""

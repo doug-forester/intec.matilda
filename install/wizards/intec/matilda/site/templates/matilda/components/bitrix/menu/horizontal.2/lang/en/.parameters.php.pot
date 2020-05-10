@@ -1,0 +1,38 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/menu/horizontal.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MENU_HORIZONTAL_2_SECTION_VIEW%27]
+msgid "Вид меню инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MENU_HORIZONTAL_2_SECTION_VIEW_DEFAULT%27]
+msgid "По умолчанию"
+msgstr ""
+
+#: %24MESS[%27C_MENU_HORIZONTAL_2_SECTION_VIEW_IMAGES%27]
+msgid "С изображениями"
+msgstr ""
+
+#: %24MESS[%27C_MENU_HORIZONTAL_2_SECTION_COLUMNS_COUNT%27]
+msgid "Кол-во колонок"
+msgstr ""
+
+#: %24MESS[%27C_MENU_HORIZONTAL_2_SECTION_ITEMS_COUNT%27]
+msgid "Кол-во выводимых элементов раздела"
+msgstr ""
+
+#: %24MESS[%27C_MENU_HORIZONTAL_2_CATALOG_LINKS%27]
+msgid "Ссылки на каталоги"
+msgstr ""

@@ -1,0 +1,114 @@
+#. extracted from install/modules/intec.constructorlite/lang/en/classes/models/Font.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27intec.constructor.models.font.type.local%27]
+msgid "Локальный"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.type.external%27]
+msgid "Внешний"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.thin%27]
+msgid "Thin (100)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.extraLight%27]
+msgid "Extra Light (200)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.light%27]
+msgid "Light (300)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.normal%27]
+msgid "Normal (400)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.medium%27]
+msgid "Medium (500)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.semiBold%27]
+msgid "Semi Bold (600)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.bold%27]
+msgid "Bold (700)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.extraBold%27]
+msgid "Extra Bold (800)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.weight.black%27]
+msgid "Black (900)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.style.normal%27]
+msgid "Нормальный (normal)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.style.italic%27]
+msgid "Наклонный (italic)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.style.oblique%27]
+msgid "Косой (oblique)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.format.ttf%27]
+msgid "TrueType (.ttf)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.format.otf%27]
+msgid "OpenType (.otf)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.format.eot%27]
+msgid "Embedded OpenType (.eot)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.format.woff%27]
+msgid "Web Open Font (.woff)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.format.woff2%27]
+msgid "Web Open Font 2 (.woff2)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.format.svg%27]
+msgid "SVG (.svg)"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.attributes.labels.type%27]
+msgid "Тип"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.attributes.labels.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.attributes.labels.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.attributes.labels.name%27]
+msgid "Наименование"
+msgstr ""
+
+#: %24MESS[%27intec.constructor.models.font.attributes.labels.sort%27]
+msgid "Сортировка"
+msgstr ""

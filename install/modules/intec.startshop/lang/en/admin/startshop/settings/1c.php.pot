@@ -1,0 +1,131 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/1c.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Обмен данными с \"1С: Предприятие\""
+msgstr ""
+
+#: %24MESS[%27tabs.1c%27]
+msgid "Параметры обмена данными с \"1С: Предприятие\""
+msgstr ""
+
+#: %24MESS[%27buttons.save%27]
+msgid "Сохранить"
+msgstr ""
+
+#: %24MESS[%27sections.exchange%27]
+msgid "Обмен"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.allow%27]
+msgid "Разрешить обмен"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.file_size%27]
+msgid "Максимальный размер файла (в байтах)"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_type%27]
+msgid "Тип инфоблока для выгрузки"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_synchronize_name%27]
+msgid "Синхронизировать название инфоблока"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_section_synchronize_name%27]
+msgid "Синхронизировать название категорий"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_property_synchronize_name%27]
+msgid "Синхронизировать названия свойств"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_element_synchronize_name%27]
+msgid "Синхронизировать названия элементов"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_section_action%27]
+msgid "Действие с отсутствующими номенклатурами в файле выгрузки"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_section_action.nothing%27]
+msgctxt "$MESS['sections.exchange.iblock_section_action.nothing']"
+msgid "Не требуется"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_section_action.deactivate%27]
+msgctxt "$MESS['sections.exchange.iblock_section_action.deactivate']"
+msgid "Деактивировать"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_section_action.delete%27]
+msgctxt "$MESS['sections.exchange.iblock_section_action.delete']"
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_property_action%27]
+msgid "Действие с отсутствующими свойствами в файле выгрузки"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_property_action.nothing%27]
+msgctxt "$MESS['sections.exchange.iblock_property_action.nothing']"
+msgid "Не требуется"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_property_action.deactivate%27]
+msgctxt "$MESS['sections.exchange.iblock_property_action.deactivate']"
+msgid "Деактивировать"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_property_action.delete%27]
+msgctxt "$MESS['sections.exchange.iblock_property_action.delete']"
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_element_action%27]
+msgid "Действие с отсутствующими товарами в файле выгрузки"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_element_action.nothing%27]
+msgctxt "$MESS['sections.exchange.iblock_element_action.nothing']"
+msgid "Не требуется"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_element_action.deactivate%27]
+msgctxt "$MESS['sections.exchange.iblock_element_action.deactivate']"
+msgid "Деактивировать"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_element_action.delete%27]
+msgctxt "$MESS['sections.exchange.iblock_element_action.delete']"
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27sections.exchange.iblock_element_import_length%27]
+msgid "Количество импортируемых позиций за раз"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Изменения сохранены!"
+msgstr ""
+
+#: %24MESS[%27messages.error.rights%27]
+msgid "Недостаточно прав для сохранения изменений, доступен только просмотр!"
+msgstr ""
+
+#: %24MESS[%27select.empty%27]
+msgid "(не выбрано)"
+msgstr ""

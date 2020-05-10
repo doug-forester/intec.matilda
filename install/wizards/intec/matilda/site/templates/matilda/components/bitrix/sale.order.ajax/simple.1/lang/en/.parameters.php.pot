@@ -1,0 +1,622 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.order.ajax/simple.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SHOW_ORDER_BUTTON%22]
+msgid ""
+"Отображать кнопку оформления заказа (для неавторизованных пользователей)"
+msgstr ""
+
+#: %24MESS[%22SHOW_ALWAYS%22]
+msgid "Всегда"
+msgstr ""
+
+#: %24MESS[%22SHOW_FINAL_STEP%22]
+msgid "Только на последнем шаге"
+msgstr ""
+
+#: %24MESS[%22SHOW_TOTAL_ORDER_BUTTON%22]
+msgid "Отображать дополнительную кнопку оформления заказа"
+msgstr ""
+
+#: %24MESS[%22SHOW_PAY_SYSTEM_LIST_NAMES%22]
+msgid "Отображать названия в списке платежных систем"
+msgstr ""
+
+#: %24MESS[%22SHOW_PAY_SYSTEM_INFO_NAME%22]
+msgid "Отображать название в блоке информации по платежной системе"
+msgstr ""
+
+#: %24MESS[%22SHOW_DELIVERY_LIST_NAMES%22]
+msgid "Отображать названия в списке доставок"
+msgstr ""
+
+#: %24MESS[%22SHOW_DELIVERY_INFO_NAME%22]
+msgid "Отображать название в блоке информации по доставке"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_PARENT_NAMES%22]
+msgid "Показывать название родительской доставки"
+msgstr ""
+
+#: %24MESS[%22ALLOW_USER_PROFILES%22]
+msgid "Разрешить использование профилей покупателей"
+msgstr ""
+
+#: %24MESS[%22HIDE_ORDER_DESCRIPTION%22]
+msgid "Скрыть поле комментариев к заказу"
+msgstr ""
+
+#: %24MESS[%22ALLOW_NEW_PROFILE%22]
+msgid "Разрешить множество профилей покупателей"
+msgstr ""
+
+#: %24MESS[%22SHOW_STORES_IMAGES%22]
+msgid "Показывать изображения складов в окне выбора пункта выдачи"
+msgstr ""
+
+#: %24MESS[%22SKIP_USELESS_BLOCK%22]
+msgid "Пропускать шаги, в которых один элемент для выбора"
+msgstr ""
+
+#: %24MESS[%22BASKET_POSITION%22]
+msgid "Расположение списка товаров"
+msgstr ""
+
+#: %24MESS[%22BASKET_POSITION_BEFORE%22]
+msgid "В начале"
+msgstr ""
+
+#: %24MESS[%22BASKET_POSITION_AFTER%22]
+msgid "В конце"
+msgstr ""
+
+#: %24MESS[%22SHOW_BASKET_HEADERS%22]
+msgid "Показывать заголовки колонок списка товаров"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_FADE_EXTRA_SERVICES%22]
+msgid ""
+"Дополнительные услуги, которые будут показаны в пройденном (свернутом) блоке"
+msgstr ""
+
+#: %24MESS[%22SHOW_COUPONS_BASKET%22]
+msgid "Показывать поле ввода купонов в блоке списка товаров"
+msgstr ""
+
+#: %24MESS[%22SHOW_COUPONS_DELIVERY%22]
+msgid "Показывать поле ввода купонов в блоке доставки"
+msgstr ""
+
+#: %24MESS[%22SHOW_COUPONS_PAY_SYSTEM%22]
+msgid "Показывать поле ввода купонов в блоке оплаты"
+msgstr ""
+
+#: %24MESS[%22SHOW_NEAREST_PICKUP%22]
+msgid "Показывать ближайшие пункты самовывоза"
+msgstr ""
+
+#: %24MESS[%22DELIVERIES_PER_PAGE%22]
+msgid "Количество доставок на странице"
+msgstr ""
+
+#: %24MESS[%22PAY_SYSTEMS_PER_PAGE%22]
+msgid "Количество платежных систем на странице"
+msgstr ""
+
+#: %24MESS[%22PICKUPS_PER_PAGE%22]
+msgid "Количество пунктов самовывоза на странице"
+msgstr ""
+
+#: %24MESS[%22SHOW_MAP_IN_PROPS%22]
+msgid "Показывать карту в блоке свойств заказа"
+msgstr ""
+
+#: %24MESS[%22SHOW_PICKUP_MAP%22]
+msgid "Показывать карту для доставок с самовывозом"
+msgstr ""
+
+#: %24MESS[%22PICKUP_MAP_TYPE%22]
+msgid "Тип используемых карт"
+msgstr ""
+
+#: %24MESS[%22PICKUP_MAP_TYPE_YANDEX%22]
+msgid "Яндекс.Карты"
+msgstr ""
+
+#: %24MESS[%22PICKUP_MAP_TYPE_GOOGLE%22]
+msgid "Google Карты"
+msgstr ""
+
+#: %24MESS[%22PRODUCT_COLUMNS_HIDDEN%22]
+msgid "Свойства товаров отображаемые в свернутом виде в списке товаров"
+msgstr ""
+
+#: %24MESS[%22SHOW_MAP_FOR_DELIVERIES%22]
+msgid "Показывать карту для выбранных служб доставки"
+msgstr ""
+
+#: %24MESS[%22PROPS_FADE_LIST%22]
+msgid "Свойства заказа, которые будут показаны в пройденном (свернутом) блоке"
+msgstr ""
+
+#: %24MESS[%22USE_CUSTOM_MESSAGES%22]
+msgid "Заменить стандартные фразы на свои"
+msgstr ""
+
+#: %24MESS[%22USE_YM_GOALS1%22]
+msgid "Использовать цели счетчика Яндекс.Метрики"
+msgstr ""
+
+#: %24MESS[%22USE_YM_GOALS_TIP%22]
+msgid "Счетчик Яндекс.Метрики должен быть подключен на странице"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_COUNTER%22]
+msgid "Номер счётчика Яндекс.Метрика"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_INITIALIZE%22]
+msgid "Идентификатор цели при инициализации компонента на странице"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_EDIT_REGION%22]
+msgid "Идентификатор цели при редактировании блока региона доставки"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_EDIT_DELIVERY%22]
+msgid "Идентификатор цели при редактировании блока доставки"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_EDIT_PICKUP%22]
+msgid "Идентификатор цели при редактировании блока пунктов самовывоза"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_EDIT_PAY_SYSTEM%22]
+msgid "Идентификатор цели при редактировании блока оплаты"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_EDIT_PROPERTIES%22]
+msgid "Идентификатор цели при редактировании блока свойств заказа"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_EDIT_BASKET%22]
+msgid "Идентификатор цели при редактировании блока списка товаров"
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_NEXT_REGION%22]
+msgid ""
+"Идентификатор цели при переходе из блока региона доставки по кнопке \"Далее\""
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_NEXT_DELIVERY%22]
+msgid "Идентификатор цели при переходе из блока доставки по кнопке \"Далее\""
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_NEXT_PICKUP%22]
+msgid ""
+"Идентификатор цели при переходе из блока пунктов самовывоза по кнопке \""
+"Далее\""
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_NEXT_PAY_SYSTEM%22]
+msgid "Идентификатор цели при переходе из блока оплаты по кнопке \"Далее\""
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_NEXT_PROPERTIES%22]
+msgid ""
+"Идентификатор цели при переходе из блока свойств заказа по кнопке \"Далее\""
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_NEXT_BASKET%22]
+msgid ""
+"Идентификатор цели при переходе из блока списка товаров по кнопке \"Далее\""
+msgstr ""
+
+#: %24MESS[%22YM_GOALS_SAVE_ORDER%22]
+msgid "Идентификатор цели при оформлении заказа"
+msgstr ""
+
+#: %24MESS[%22THEME_BLUE%22]
+msgid "Синяя (тема по умолчанию)"
+msgstr ""
+
+#: %24MESS[%22THEME_GREEN%22]
+msgid "Зеленая"
+msgstr ""
+
+#: %24MESS[%22THEME_RED%22]
+msgid "Красная"
+msgstr ""
+
+#: %24MESS[%22THEME_YELLOW%22]
+msgid "Желтая"
+msgstr ""
+
+#: %24MESS[%22TEMPLATE_THEME%22]
+msgid "Цветовая тема"
+msgstr ""
+
+#: %24MESS[%22THEME_SITE%22]
+msgid "Брать тему из настроек сайта (для решения bitrix.eshop)"
+msgstr ""
+
+#: %24MESS[%22AUTH_BLOCK_NAME%22]
+msgid "Название блока авторизации"
+msgstr ""
+
+#: %24MESS[%22AUTH_BLOCK_NAME_DEFAULT%22]
+msgid "Авторизация"
+msgstr ""
+
+#: %24MESS[%22REG_BLOCK_NAME%22]
+msgid "Название блока регистрации"
+msgstr ""
+
+#: %24MESS[%22REG_BLOCK_NAME_DEFAULT%22]
+msgid "Регистрация"
+msgstr ""
+
+#: %24MESS[%22BASKET_BLOCK_NAME%22]
+msgid "Название блока списка товаров"
+msgstr ""
+
+#: %24MESS[%22BASKET_BLOCK_NAME_DEFAULT%22]
+msgid "Товары в заказе"
+msgstr ""
+
+#: %24MESS[%22REGION_BLOCK_NAME%22]
+msgid "Название блока региона доставки"
+msgstr ""
+
+#: %24MESS[%22REGION_BLOCK_NAME_DEFAULT%22]
+msgid "Регион доставки"
+msgstr ""
+
+#: %24MESS[%22PAYMENT_BLOCK_NAME%22]
+msgid "Название блока оплаты"
+msgstr ""
+
+#: %24MESS[%22PAYMENT_BLOCK_NAME_DEFAULT%22]
+msgid "Оплата"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_BLOCK_NAME%22]
+msgid "Название блока доставки"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_BLOCK_NAME_DEFAULT%22]
+msgid "Доставка"
+msgstr ""
+
+#: %24MESS[%22BUYER_BLOCK_NAME%22]
+msgid "Название блока свойств заказа"
+msgstr ""
+
+#: %24MESS[%22BUYER_BLOCK_NAME_DEFAULT%22]
+msgid "Покупатель"
+msgstr ""
+
+#: %24MESS[%22BACK%22]
+msgid "Кнопка возврата к предыдущему блоку"
+msgstr ""
+
+#: %24MESS[%22BACK_DEFAULT%22]
+msgctxt "$MESS[\"BACK_DEFAULT\"]"
+msgid "Назад"
+msgstr ""
+
+#: %24MESS[%22FURTHER%22]
+msgid "Кнопка перехода к следующему блоку"
+msgstr ""
+
+#: %24MESS[%22FURTHER_DEFAULT%22]
+msgid "Далее"
+msgstr ""
+
+#: %24MESS[%22EDIT%22]
+msgid "Кнопка редактирования блока"
+msgstr ""
+
+#: %24MESS[%22EDIT_DEFAULT%22]
+msgid "изменить"
+msgstr ""
+
+#: %24MESS[%22ORDER%22]
+msgid "Кнопка оформления заказа"
+msgstr ""
+
+#: %24MESS[%22ORDER_DEFAULT%22]
+msgid "Оформить заказ"
+msgstr ""
+
+#: %24MESS[%22PRICE%22]
+msgid "Заголовок для цены"
+msgstr ""
+
+#: %24MESS[%22PRICE_DEFAULT%22]
+msgid "Стоимость"
+msgstr ""
+
+#: %24MESS[%22PERIOD%22]
+msgid "Заголовок для срока доставки"
+msgstr ""
+
+#: %24MESS[%22PERIOD_DEFAULT%22]
+msgid "Срок доставки"
+msgstr ""
+
+#: %24MESS[%22NAV_BACK%22]
+msgid "Кнопка перехода к предыдущей странице"
+msgstr ""
+
+#: %24MESS[%22NAV_BACK_DEFAULT%22]
+msgctxt "$MESS[\"NAV_BACK_DEFAULT\"]"
+msgid "Назад"
+msgstr ""
+
+#: %24MESS[%22NAV_FORWARD%22]
+msgid "Кнопка перехода к следующей странице"
+msgstr ""
+
+#: %24MESS[%22NAV_FORWARD_DEFAULT%22]
+msgid "Вперед"
+msgstr ""
+
+#: %24MESS[%22PRICE_FREE%22]
+msgid "Текст для \"бесплатно\""
+msgstr ""
+
+#: %24MESS[%22PRICE_FREE_DEFAULT%22]
+msgid "бесплатно"
+msgstr ""
+
+#: %24MESS[%22ECONOMY%22]
+msgid "Текст для \"Экономия\""
+msgstr ""
+
+#: %24MESS[%22ECONOMY_DEFAULT%22]
+msgid "Экономия"
+msgstr ""
+
+#: %24MESS[%22REGISTRATION_REFERENCE%22]
+msgid "Текст для перехода к блоку регистрации"
+msgstr ""
+
+#: %24MESS[%22REGISTRATION_REFERENCE_DEFAULT%22]
+msgid ""
+"Если вы впервые на сайте, и хотите, чтобы мы вас помнили и все ваши заказы "
+"сохранялись, заполните регистрационную форму."
+msgstr ""
+
+#: %24MESS[%22AUTH_REFERENCE_1%22]
+msgid "Справочная информация №1 блока \"Авторизация\""
+msgstr ""
+
+#: %24MESS[%22AUTH_REFERENCE_1_DEFAULT%22]
+msgid "Символом \"звездочка\" (*) отмечены обязательные для заполнения поля."
+msgstr ""
+
+#: %24MESS[%22AUTH_REFERENCE_2%22]
+msgid "Справочная информация №2 блока \"Авторизация\""
+msgstr ""
+
+#: %24MESS[%22AUTH_REFERENCE_2_DEFAULT%22]
+msgid "После регистрации вы получите информационное письмо."
+msgstr ""
+
+#: %24MESS[%22AUTH_REFERENCE_3%22]
+msgid "Справочная информация №3 блока \"Авторизация\""
+msgstr ""
+
+#: %24MESS[%22AUTH_REFERENCE_3_DEFAULT%22]
+msgid ""
+"Личные сведения, полученные в распоряжение интернет-магазина при регистрации "
+"или каким-либо иным образом, не будут без разрешения пользователей "
+"передаваться третьим организациям и лицам за исключением ситуаций, когда "
+"этого требует закон или судебное решение."
+msgstr ""
+
+#: %24MESS[%22ADDITIONAL_PROPS%22]
+msgid "Кнопка дополнительных свойств товара"
+msgstr ""
+
+#: %24MESS[%22ADDITIONAL_PROPS_DEFAULT%22]
+msgid "Дополнительные свойства"
+msgstr ""
+
+#: %24MESS[%22USE_COUPON%22]
+msgid "Заголовок поля ввода купона"
+msgstr ""
+
+#: %24MESS[%22USE_COUPON_DEFAULT%22]
+msgid "Применить купон"
+msgstr ""
+
+#: %24MESS[%22COUPON%22]
+msgid "Заголовок для примененных купонов"
+msgstr ""
+
+#: %24MESS[%22COUPON_DEFAULT%22]
+msgid "Купон"
+msgstr ""
+
+#: %24MESS[%22PERSON_TYPE%22]
+msgid "Заголовок выбора типа плательщика"
+msgstr ""
+
+#: %24MESS[%22PERSON_TYPE_DEFAULT%22]
+msgid "Тип плательщика"
+msgstr ""
+
+#: %24MESS[%22SELECT_PROFILE%22]
+msgid "Заголовок выбора профиля"
+msgstr ""
+
+#: %24MESS[%22SELECT_PROFILE_DEFAULT%22]
+msgid "Выберите профиль"
+msgstr ""
+
+#: %24MESS[%22REGION_REFERENCE%22]
+msgid "Справочная информация блока \"Регион\""
+msgstr ""
+
+#: %24MESS[%22REGION_REFERENCE_DEFAULT%22]
+msgid ""
+"Выберите свой город в списке. Если вы не нашли свой город, выберите \"другое "
+"местоположение\", а город впишите в поле \"Город\""
+msgstr ""
+
+#: %24MESS[%22PICKUP_LIST%22]
+msgid "Заголовок пунктов самовывоза"
+msgstr ""
+
+#: %24MESS[%22PICKUP_LIST_DEFAULT%22]
+msgid "Пункты самовывоза:"
+msgstr ""
+
+#: %24MESS[%22NEAREST_PICKUP_LIST%22]
+msgid "Заголовок ближайших пунктов самовывоза"
+msgstr ""
+
+#: %24MESS[%22NEAREST_PICKUP_LIST_DEFAULT%22]
+msgid "Ближайшие пункты:"
+msgstr ""
+
+#: %24MESS[%22SELECT_PICKUP%22]
+msgid "Кнопка выбора пункта самовывоза"
+msgstr ""
+
+#: %24MESS[%22SELECT_PICKUP_DEFAULT%22]
+msgid "Выбрать"
+msgstr ""
+
+#: %24MESS[%22SELECTED_PICKUP%22]
+msgid "Кнопка выбора пункта самовывоза (Когда выбран пункт)"
+msgstr ""
+
+#: %24MESS[%22SELECTED_PICKUP_DEFAULT%22]
+msgid "Выбран"
+msgstr ""
+
+#: %24MESS[%22INNER_PS_BALANCE%22]
+msgid "Информация о балансе внутреннего счета"
+msgstr ""
+
+#: %24MESS[%22INNER_PS_BALANCE_DEFAULT%22]
+msgid "На вашем пользовательском счете:"
+msgstr ""
+
+#: %24MESS[%22ORDER_DESC%22]
+msgid "Заголовок комментариев к заказу"
+msgstr ""
+
+#: %24MESS[%22ORDER_DESC_DEFAULT%22]
+msgid "Комментарии к заказу:"
+msgstr ""
+
+#: %24MESS[%22SUCCESS_PRELOAD_TEXT%22]
+msgid "Текст уведомления о корректной загрузке данных заказа"
+msgstr ""
+
+#: %24MESS[%22SUCCESS_PRELOAD_TEXT_DEFAULT%22]
+msgid ""
+"\n"
+"Вы заказывали в нашем интернет-магазине, поэтому мы заполнили все данные "
+"автоматически.<br />\n"
+"Если все заполнено верно, нажмите кнопку \"#ORDER_BUTTON#\".\n"
+msgstr ""
+
+#: %24MESS[%22FAIL_PRELOAD_TEXT%22]
+msgid "Текст уведомления о неудачной загрузке данных заказа"
+msgstr ""
+
+#: %24MESS[%22FAIL_PRELOAD_TEXT_DEFAULT%22]
+msgid ""
+"\n"
+"Вы заказывали в нашем интернет-магазине, поэтому мы заполнили все данные "
+"автоматически.<br />\n"
+"Обратите внимание на развернутый блок с информацией о заказе. Здесь вы "
+"можете внести необходимые изменения или \n"
+"оставить как есть и нажать кнопку \"#ORDER_BUTTON#\".\n"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_CALC_ERROR_TITLE%22]
+msgid "Заголовок ошибки расчета доставки"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_CALC_ERROR_TITLE_DEFAULT%22]
+msgid "Не удалось рассчитать стоимость доставки."
+msgstr ""
+
+#: %24MESS[%22DELIVERY_CALC_ERROR_TEXT%22]
+msgid "Текст ошибки расчета доставки"
+msgstr ""
+
+#: %24MESS[%22DELIVERY_CALC_ERROR_TEXT_DEFAULT%22]
+msgid ""
+"Вы можете продолжить оформление заказа, а чуть позже менеджер магазина "
+"свяжется с вами и уточнит информацию по доставке."
+msgstr ""
+
+#: %24MESS[%22SERVICES_IMAGES_SCALING%22]
+msgid "Режим отображения вспомагательных изображений"
+msgstr ""
+
+#: %24MESS[%22SERVICES_IMAGES_SCALING_TIP%22]
+msgid ""
+"Включает изображения платежных систем, служб доставок и пунктов самовывоза"
+msgstr ""
+
+#: %24MESS[%22SOA_ADAPTIVE%22]
+msgid "Адаптивный"
+msgstr ""
+
+#: %24MESS[%22SOA_STANDARD%22]
+msgid "Стандартный"
+msgstr ""
+
+#: %24MESS[%22SOA_NO_SCALE%22]
+msgid "Без сжатия"
+msgstr ""
+
+#: %24MESS[%22USE_ENHANCED_ECOMMERCE%22]
+msgid "Отправлять данные электронной торговли в Google и Яндекс"
+msgstr ""
+
+#: %24MESS[%22USE_ENHANCED_ECOMMERCE_TIP%22]
+msgid ""
+"Требуется дополнительная настройка в Google Analytics Enhanced \n"
+"Ecommerce и/или Яндекс.Метрике"
+msgstr ""
+
+#: %24MESS[%22DATA_LAYER_NAME%22]
+msgid "Имя контейнера данных"
+msgstr ""
+
+#: %24MESS[%22BRAND_PROPERTY%22]
+msgid "Свойство, в котором указан бренд товара"
+msgstr ""
+
+#: %24MESS[%22PAY_SYSTEM_PAYABLE_ERROR_TEXT%22]
+msgid "Текст уведомления при статусе заказа, недоступном для оплаты"
+msgstr ""
+
+#: %24MESS[%22PAY_SYSTEM_PAYABLE_ERROR_DEFAULT%22]
+msgid ""
+"Вы сможете оплатить заказ после того, как менеджер проверит наличие полного "
+"комплекта товаров на складе. Сразу после проверки вы получите письмо с "
+"инструкциями по оплате. Оплатить заказ можно будет в персональном разделе "
+"сайта."
+msgstr ""

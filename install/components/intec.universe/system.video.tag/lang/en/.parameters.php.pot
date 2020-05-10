@@ -1,0 +1,62 @@
+#. extracted from install/components/intec.universe/system.video.tag/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:27-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_FILES_MP4%27]
+msgid "Ссылка на файл *.mp4"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_FILES_WEBM%27]
+msgid "Ссылка на файл *.webm"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_FILES_OGV%27]
+msgid "Ссылка на файла *.ogv"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_PICTURE%27]
+msgid "Ссылка до файла изображения"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_AUTOPLAY%27]
+msgid "Автовоспроизведение"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_CONTROLS%27]
+msgid "Элементы управления"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_MUTE%27]
+msgid "Без звука"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_LOOP%27]
+msgid "Зациклить"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_PRELOAD%27]
+msgid "Загружать вместе с загрузкой страницы"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_PRELOAD_NONE%27]
+msgid "Ничего"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_PRELOAD_METADATA%27]
+msgid "Метаданные (Информация о видео и первый кадр)"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_VIDEO_TAG_PRELOAD_AUTO%27]
+msgid "Все"
+msgstr ""

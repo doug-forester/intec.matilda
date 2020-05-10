@@ -1,0 +1,118 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.schedule/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_STAFF_IBLOCK_TYPE%27]
+msgid "Тип инфоблока для сотрудников"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_STAFF_IBLOCK_ID%27]
+msgid "Инфоблок сотрудников"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_PROPERTY_TIME_FROM%27]
+msgid "Свойство \"Время с\""
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_PROPERTY_TIME_TO%27]
+msgid "Свойство \"Время до\""
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_PROPERTY_TEXT%27]
+msgid "Свойство \"Темы\""
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_PROPERTY_FILE%27]
+msgid "Свойство \"Файл\""
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_PROPERTY_STAFF%27]
+msgid "Свойство инфоблока \"Сотрудник\""
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_PROPERTY_STAFF_POSITION%27]
+msgid "Свойство инфоблока сотрудников \"Должность\""
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_LINES_FIRST%27]
+msgid "Чередование фона блоков"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TIME_SHOW%27]
+msgid "Показывать время"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TIME_FORMAT%27]
+msgid "Формат отображения времени"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_STAFF_SHOW%27]
+msgid "Показывать соотрудника"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_STAFF_PICTURE_SHOW%27]
+msgid "Показывать фотографию сотрудника"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_STAFF_POSITION_SHOW%27]
+msgid "Показывать должность сотрудника"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TEXT_SHOW%27]
+msgid "Показывать список тем"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_FILE_SHOW%27]
+msgid "Показывать ссылку на скачивание файла"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_FILE_TEXT%27]
+msgid "Текст кнопки загрузки файла"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TIME_FROM%27]
+msgid "c 12:00"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TIME_FROM_TO_1%27]
+msgid "c 12:00 до 13:00"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TIME_FROM_TO_2%27]
+msgid "12:00 - 13:00"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_TIME_TO%27]
+msgid "до 13:00"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_LINES_FIRST_LIGHT%27]
+msgid "Светлый/Темный"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_LINES_FIRST_DARK%27]
+msgid "Темный/Светлый"
+msgstr ""
+
+#: %24MESS[%27C_SCHEDULE_TEMP1_FILE_TEXT_DEFAULT%27]
+msgid "Скачать файл"
+msgstr ""

@@ -1,0 +1,34 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.item/template.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CT_BCI_TPL_MESS_PRICE_SIMPLE_MODE%22]
+msgid "от #PRICE# за #VALUE# #UNIT#"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ITEM_TEMPLATE_1_TEMPLATE_BASKET_ADD%27]
+msgid "Выбрать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ITEM_TEMPLATE_1_TEMPLATE_BASKET_ADDED%27]
+msgid "Выбрано"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ITEM_TEMPLATE_1_TEMPLATE_BASKET_UNAVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ITEM_TEMPLATE_1_TEMPLATE_BASKET_DETAIL%27]
+msgid "Подробнее"
+msgstr ""

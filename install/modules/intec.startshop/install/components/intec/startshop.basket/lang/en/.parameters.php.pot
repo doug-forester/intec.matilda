@@ -1,0 +1,96 @@
+#. extracted from install/modules/intec.startshop/install/components/intec/startshop.basket/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SB_GROUP_URL%22]
+msgid "Настройка переадресации"
+msgstr ""
+
+#: %24MESS[%22SB_GROUP_TITLE%22]
+msgid "Настройка заголовков страниц"
+msgstr ""
+
+#: %24MESS[%22SB_URL_BASKET_EMPTY%22]
+msgid "Переадресация на страницу, если корзина пуста"
+msgstr ""
+
+#: %24MESS[%22SB_URL_ORDER_CREATED%22]
+msgid "Переадресация на страницу, после завершения оформления заказа"
+msgstr ""
+
+#: %24MESS[%22SB_URL_ORDER_CREATED_TO_USER%22]
+msgid ""
+"Переадресация на страницу, после завершения оформления заказа (если "
+"пользователь был найден по логину или эл. почте)"
+msgstr ""
+
+#: %24MESS[%22SB_CURRENCY%22]
+msgid "Валюта"
+msgstr ""
+
+#: %24MESS[%22SB_REQUEST_VARIABLE_ACTION%22]
+msgid "Переменная, в которой передается действие"
+msgstr ""
+
+#: %24MESS[%22SB_REQUEST_VARIABLE_ITEM%22]
+msgid "Переменная, в которой передается позиция"
+msgstr ""
+
+#: %24MESS[%22SB_REQUEST_VARIABLE_QUANTITY%22]
+msgid "Переменная, в которой передается количетсво"
+msgstr ""
+
+#: %24MESS[%22SB_REQUEST_VARIABLE_PAGE%22]
+msgid "Переменная, в которой передается страница компонента"
+msgstr ""
+
+#: %24MESS[%27SB_REQUEST_VARIABLE_PAYMENT%27]
+msgid "Переменная, в которой передается код способа оплаты"
+msgstr ""
+
+#: %24MESS[%27SB_REQUEST_VARIABLE_VALUE_RESULT%27]
+msgid "Значение переменной действия Result"
+msgstr ""
+
+#: %24MESS[%27SB_REQUEST_VARIABLE_VALUE_SUCCESS%27]
+msgid "Значение переменной действия Success"
+msgstr ""
+
+#: %24MESS[%27SB_REQUEST_VARIABLE_VALUE_FAIL%27]
+msgid "Значение переменной действия Fail"
+msgstr ""
+
+#: %24MESS[%22SB_TITLE_BASKET%22]
+msgid "Заголовок страницы с корзиной"
+msgstr ""
+
+#: %24MESS[%22SB_TITLE_BASKET_DEFAULT%22]
+msgid "Корзина"
+msgstr ""
+
+#: %24MESS[%22SB_TITLE_ORDER%22]
+msgid "Заголовок страницы оформления заказа"
+msgstr ""
+
+#: %24MESS[%22SB_TITLE_ORDER_DEFAULT%22]
+msgid "Оформление заказа"
+msgstr ""
+
+#: %24MESS[%22SB_TITLE_PAYMENT%22]
+msgid "Заголовок страницы проведения оплаты"
+msgstr ""
+
+#: %24MESS[%22SB_TITLE_PAYMENT_DEFAULT%22]
+msgid "Оплата"
+msgstr ""

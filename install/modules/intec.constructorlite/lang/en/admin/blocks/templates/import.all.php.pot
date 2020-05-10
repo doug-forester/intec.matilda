@@ -1,0 +1,66 @@
+#. extracted from install/modules/intec.constructorlite/lang/en/admin/blocks/templates/import.all.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:35-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Импорт шаблонов блоков"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Общие"
+msgstr ""
+
+#: %24MESS[%27menu.back%27]
+msgid "Назад"
+msgstr ""
+
+#: %24MESS[%27fields.action%27]
+msgid "Действие, если блок существует"
+msgstr ""
+
+#: %24MESS[%27fields.action.none%27]
+msgid "Пропустить"
+msgstr ""
+
+#: %24MESS[%27fields.action.replace%27]
+msgid "Заменить"
+msgstr ""
+
+#: %24MESS[%27fields.action.prefix%27]
+msgid "Добавить префикс"
+msgstr ""
+
+#: %24MESS[%27fields.prefix%27]
+msgid "Префикс (Только при выставленной опции \"Добавить префикс\")"
+msgstr ""
+
+#: %24MESS[%27fields.category%27]
+msgid "Категория для блоков без категории"
+msgstr ""
+
+#: %24MESS[%27fields.category.unselected%27]
+msgid "(Не выбрана)"
+msgstr ""
+
+#: %24MESS[%27fields.file%27]
+msgid "Файл"
+msgstr ""
+
+#: %24MESS[%27errors.file%27]
+msgid "Файл не загружен"
+msgstr ""
+
+#: %24MESS[%27errors.file.invalid%27]
+msgid "Файл имеет неверный формат"
+msgstr ""

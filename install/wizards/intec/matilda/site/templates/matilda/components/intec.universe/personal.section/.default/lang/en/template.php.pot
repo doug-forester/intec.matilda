@@ -1,0 +1,30 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/personal.section/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22PS_ORDERS%22]
+msgid "Текущие заказы"
+msgstr ""
+
+#: %24MESS[%22PS_PERSONAL_DATA%22]
+msgid "Личные данные"
+msgstr ""
+
+#: %24MESS[%22PS_BASKET%22]
+msgid "Корзина"
+msgstr ""
+
+#: %24MESS[%22PS_CONTACTS%22]
+msgid "Контакты"
+msgstr ""

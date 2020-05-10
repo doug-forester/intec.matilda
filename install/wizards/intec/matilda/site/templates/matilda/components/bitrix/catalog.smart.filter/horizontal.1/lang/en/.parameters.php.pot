@@ -1,0 +1,88 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.smart.filter/horizontal.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_COLUMNS%27]
+msgid "Количество свойств в строке"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_WIDE%27]
+msgid "Фильтр во всю ширину страницы"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_WIDE_BACKGROUND%27]
+msgid "Цвет заливки фильтра"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_COLLAPSED%27]
+msgid "Фильтр свернут, если ни одно свойство не активно"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_PRICES_EXPANDED%27]
+msgid "Типы цен, которые показывать развернутыми"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_BUTTONS_TOGGLE_TYPE%27]
+msgid "Вид кнопки скрытия фильтра"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_G_SIZE%27]
+msgid "Размер элементов типа \"Флажки с картинками\""
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_F_BG%27]
+msgid "Цвет заливки элементов типа \"Флажки\""
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_A_PRECISION%27]
+msgid ""
+"Количество нулей после запятой у полей типа \"Число от-до с ползунком\" не "
+"являющихся ценой"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_WIDE_BACKGROUND_DARK%27]
+msgid "Темная"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_WIDE_BACKGROUND_LIGHT%27]
+msgid "Светлая"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_G_SIZE_DEFAULT%27]
+msgid "По умолчанию"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_G_SIZE_BIG%27]
+msgid "Большие"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_F_BG_LIGHT%27]
+msgid "Светлый"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_F_BG_DARK%27]
+msgid "Темный"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_TYPE_F_BG_NONE%27]
+msgid "Прозрачный"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_BUTTONS_TOGGLE_TYPE_TEXT_ARROW%27]
+msgid "Текст и стрелка"
+msgstr ""
+
+#: %24MESS[%27FILTER_TEMP_HORIZONTAL_BUTTONS_TOGGLE_TYPE_ARROW%27]
+msgid "Стрелка"
+msgstr ""

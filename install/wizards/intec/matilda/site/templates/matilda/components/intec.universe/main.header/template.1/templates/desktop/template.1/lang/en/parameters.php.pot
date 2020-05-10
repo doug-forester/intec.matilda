@@ -1,0 +1,74 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.header/template.1/templates/desktop/template.1/lang/en/parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_PHONES_POSITION%27]
+msgid "Позиция телефонов"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_PHONES_POSITION_TOP%27]
+msgctxt "$MESS['C_HEADER_TEMP1_DESKTOP_TEMP1_PHONES_POSITION_TOP']"
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_PHONES_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_HEADER_TEMP1_DESKTOP_TEMP1_PHONES_POSITION_BOTTOM']"
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_MAIN_POSITION%27]
+msgid "Главное меню. Позиция"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_MAIN_POSITION_TOP%27]
+msgctxt "$MESS['C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_MAIN_POSITION_TOP']"
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_MAIN_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_MAIN_POSITION_BOTTOM']"
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_MAIN_TRANSPARENT%27]
+msgid "Главное меню. Прозрачное"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_INFO_SHOW%27]
+msgid "Отображать информационное меню"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_INFO_ROOT%27]
+msgid "Информационное меню. Корневой тип"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_INFO_CHILD%27]
+msgid "Информационное меню. Вложенный тип"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_MENU_INFO_LEVEL%27]
+msgid "Информационное меню. Максимальный уровень"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_SOCIAL_POSITION%27]
+msgid "Социальные сети. Позиция"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_SOCIAL_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP_TEMP1_SOCIAL_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""

@@ -1,0 +1,70 @@
+#. extracted from install/components/intec.universe/menu.sections/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:28-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27MENU_SECTIONS_IBLOCK_TYPE%27]
+msgid "Тип информационного блока"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_IBLOCK_ID%27]
+msgid "Код информационного блока"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_ID%27]
+msgid "Идентификатор текущего элемента"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_SECTION_URL%27]
+msgid "URL, ведущий на страницу с содержимым раздела"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_DETAIL_URL%27]
+msgid "URL, ведущий на страницу с элементом"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_DEPTH_LEVEL%27]
+msgid "Сколько уровней вложенности выводить"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_IS_SEF%27]
+msgid "Включить режим совместимости с поддержкой ЧПУ"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_SEF_BASE_URL%27]
+msgid "Каталог ЧПУ (относительно корня сайта)"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_SECTION_PAGE_URL%27]
+msgid "Шаблон URL, ведущий на страницу с содержимым раздела"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_DETAIL_PAGE_URL%27]
+msgid "Шаблон URL, ведущий на страницу с элементом"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_USUAL%27]
+msgid "Выводить как обычное меню"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_ELEMENTS_ROOT%27]
+msgid "Выводить корневые элементы"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_ELEMENTS_SECTIONS%27]
+msgid "Выводить элементы разделов"
+msgstr ""
+
+#: %24MESS[%27MENU_SECTIONS_ELEMENTS_COUNT%27]
+msgid "Подсчитывать количество элементов в разделах"
+msgstr ""

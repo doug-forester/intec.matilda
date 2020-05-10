@@ -1,0 +1,130 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.services/template.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_TEMPLATE_VIEW%27]
+msgid "Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_PRICE_SHOW%27]
+msgid "Отображать цену"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_SHOW%27]
+msgid "Отображать кнопку заказа услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_TYPE%27]
+msgid "Тип кнопки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_FORM_ID%27]
+msgid "Форма заказа услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FORM_FIELD%27]
+msgid "Поле формы с названием услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FORM_TEMPLATE%27]
+msgid "Шаблон формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FORM_TITLE%27]
+msgid "Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу соглашения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_TEXT%27]
+msgid "Текст кнопки заказа услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FOOTER_SHOW%27]
+msgid "Отображать нижний блок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FOOTER_POSITION%27]
+msgid "Расположение нижнего блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FOOTER_BUTTON_SHOW%27]
+msgid "Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FOOTER_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_MOSAIC%27]
+msgid "Мозайка"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BLOCKS%27]
+msgid "Блоки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_TYPE_ORDER%27]
+msgid "Заказ услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_TYPE_DETAIL%27]
+msgid "Переход на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_TEXT_DEFAULT_ORDER%27]
+msgid "ЗАКАЗАТЬ"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_BUTTON_TEXT_DEFAULT_DETAIL%27]
+msgid "ПОДРОБНЕЕ"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FORM_TITLE_DEFAULT%27]
+msgid "Заказать услугу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_2_FOOTER_BUTTON_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""

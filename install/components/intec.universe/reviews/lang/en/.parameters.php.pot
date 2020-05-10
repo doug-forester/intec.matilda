@@ -1,0 +1,42 @@
+#. extracted from install/components/intec.universe/reviews/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:28-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27IBLOCK_TYPE%27]
+msgid "Infoblock type"
+msgstr ""
+
+#: %24MESS[%27IBLOCK%27]
+msgid "Infoblock"
+msgstr ""
+
+#: %24MESS[%27ELEMENT_ID%27]
+msgid "Element ID"
+msgstr ""
+
+#: %24MESS[%27DISPLAY_REVIEWS_COUNT%27]
+msgid "Number of displayed reviews"
+msgstr ""
+
+#: %24MESS[%27MAIL_EVENT%27]
+msgid "Mail event"
+msgstr ""
+
+#: %24MESS[%27PROPERTY_ELEMENT_ID%27]
+msgid "Element binding property"
+msgstr ""
+
+#: %24MESS[%27USE_CAPTCHA%27]
+msgid "Use captcha"
+msgstr ""

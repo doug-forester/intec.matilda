@@ -1,0 +1,52 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/system.auth.authorize/popup.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_FIELDS_LOGIN%27]
+msgid "Логин"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_FIELDS_PASSWORD%27]
+msgid "Пароль"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_FIELDS_CAPTCHA%27]
+msgid "Введите проверочное слово"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_REMEMBER%27]
+msgid "Запомнить меня"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_RESTORE%27]
+msgid "Забыли пароль?"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_BUTTONS_AUTHORIZE%27]
+msgid "Войти"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_BUTTONS_REGISTER%27]
+msgid "Зарегистрироваться"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_REGISTER%27]
+msgid ""
+"После регистрации на сайте вам будет доступно отслеживание состояния "
+"заказов, личный кабинет и другие новые возможности"
+msgstr ""
+
+#: %24MESS[%27C_SYSTEM_AUTH_AUTHORIZE_POPUP_1_SOCIALS%27]
+msgid "Войти как пользователь"
+msgstr ""

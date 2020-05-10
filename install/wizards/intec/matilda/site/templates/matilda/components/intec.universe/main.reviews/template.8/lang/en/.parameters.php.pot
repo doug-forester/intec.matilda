@@ -1,0 +1,142 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.reviews/template.8/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_IBLOCK_TYPE%27]
+msgid "Видео. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_IBLOCK_ID%27]
+msgid "Видео. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_SERVICES_IBLOCK_TYPE%27]
+msgid "Услуги. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_SERVICES_IBLOCK_ID%27]
+msgid "Услуги. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROJECTS_IBLOCK_TYPE%27]
+msgid "Проекты. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROJECTS_IBLOCK_ID%27]
+msgid "Проекты. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROPERTY_POSITION%27]
+msgid "Свойство \"Должность\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_PROPERTY_LINK%27]
+msgid "Инфоблок \"Видео\". Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROPERTY_SERVICES%27]
+msgid "Свойство \"Услуги\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROPERTY_PROJECTS%27]
+msgid "Свойство \"Проекты\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_LINK_USE%27]
+msgid "Использовать ссылку на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_LINK_BLANK%27]
+msgid "Ссылка на детальную страницу. Открывать в новой вкладке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_POSITION_SHOW%27]
+msgid "Отображать должность"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_SHOW%27]
+msgid "Отображать видео, если есть"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_QUALITY%27]
+msgid "Видео. Качество загружемой картинки предпросмотра"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_SERVICES_SHOW%27]
+msgid "Отображать услуги, если есть"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_PROJECTS_SHOW%27]
+msgid "Отображать проекты, если есть"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_FOOTER_SHOW%27]
+msgid "Отображать нижний блок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_FOOTER_POSITION%27]
+msgid "Расположение нижнего блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_FOOTER_BUTTON_SHOW%27]
+msgid "Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_FOOTER_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_QUALITY_MQ%27]
+msgid "Минимальное"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_QUALITY_HQ%27]
+msgid "Среднее"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_QUALITY_SD%27]
+msgid "Высокое"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_VIDEO_QUALITY_MAXRES%27]
+msgid "Максимальное"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_REVIEW_TEMPLATE_8_FOOTER_BUTTON_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""

@@ -1,0 +1,526 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.widget/products.3/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SETTINGS_USE%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_SETTINGS_USE']"
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PRICE_CODE%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PRICE_CODE']"
+msgid "Тип цены"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_CONVERT_CURRENCY%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_CONVERT_CURRENCY']"
+msgid "Показывать цены в одной валюте"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_CURRENCY_ID%27]
+msgid "Валюта, в которую будут сконвертированы цены"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_REGIONALITY_FILTER_USE%27]
+msgid "Мультирегиональность. Использовать фильтр по региону"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_REGIONALITY_FILTER_PROPERTY%27]
+msgid "Мультирегиональность. Свойство фильтра по региону"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_REGIONALITY_FILTER_STRICT%27]
+msgid "Мультирегиональность. Выводить только товары у которых выбран регион"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_REGIONALITY_PRICES_TYPES_USE%27]
+msgid "Мультирегиональность. Использовать типы цен региона"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_DELAY_USE%27]
+msgid "Разрешить добавление товаров в отложенные"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_COLUMNS%27]
+msgid "Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_COLUMNS_MOBILE%27]
+msgid "[Моб. версия] Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_COUNTER_SHOW%27]
+msgid "Отображать поле для выбора количества товара"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу с пользовательским соглашением"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MARKS_SHOW%27]
+msgid "Показывать метки \"Хит/Новинка/Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MARKS_ORIENTATION%27]
+msgid "Расположение меток \"Хит/Новинка/Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_MARKS_RECOMMEND%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PROPERTY_MARKS_RECOMMEND']"
+msgid "Свойство метки \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_MARKS_NEW%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PROPERTY_MARKS_NEW']"
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_MARKS_HIT%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PROPERTY_MARKS_HIT']"
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_PICTURES%27]
+msgid "Свойство \"Доп. изображения\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_PROPERTY_PICTURES%27]
+msgid "Свойство \"Доп. изображения предложений\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_NAME_ALIGN%27]
+msgid "Выравнивание названия элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_NAME_POSITION%27]
+msgid "Расположение названия элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SECTION_SHOW%27]
+msgid "Отображать раздел элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SECTION_ALIGN%27]
+msgid "Выравнивание раздела элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PRICE_ALIGN%27]
+msgid "Выравнивание цены элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IMAGE_SLIDER_SHOW%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_IMAGE_SLIDER_SHOW']"
+msgid "Показывать дополнительные картинки в слайдере для товаров"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IMAGE_SLIDER_ANIMATION%27]
+msgid "Тип анимации слайдера"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IMAGE_SLIDER_ANIMATION_STANDARD%27]
+msgid "Стандартная (перелистывание)"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IMAGE_SLIDER_ANIMATION_FADE%27]
+msgid "Исчезание"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IMAGE_SLIDER_NAV%27]
+msgid "Показывать элементы управления слайдера"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION%27]
+msgid "Действия с товаром"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_USE%27]
+msgid "Использовать торговые предложения"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_ALIGN%27]
+msgid "Выравнивание свойств торговых предложений элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_VIEW%27]
+msgid "Вид отображения торговых предложений"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_VIEW_EXTENDED_LEFT%27]
+msgid ""
+"Свойство предложений, которое будет отображаться слева от картинки элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_VIEW_EXTENDED_RIGHT%27]
+msgid ""
+"Свойство предложений, которое будет отображаться справа от картинки элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ALIGN_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ALIGN_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ALIGN_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_POSITION_TOP%27]
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_POSITION_MIDDLE%27]
+msgid "По середине"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MARKS_ORIENTATION_HORIZONTAL%27]
+msgid "Горизонтально"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MARKS_ORIENTATION_VERTICAL%27]
+msgid "Вертикально"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_VIEW_DEFAULT%27]
+msgid "Стандартный"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_VIEW_EXTENDED%27]
+msgid "Расширенный"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_NONE%27]
+msgid "Не показывать кнопку"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_BUY%27]
+msgid "Добавление в корзину"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_DETAIL%27]
+msgid "Ссылка на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_ORDER%27]
+msgid "Открыть форму заказа"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PURCHASE_TYPE_BASKET%27]
+msgid "Кнопка добавления в корзину"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PURCHASE_TYPE_MORE_INFO%27]
+msgid "Кнопка \"Подробнее\" с сылкой на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_VOTE_SHOW%27]
+msgid "Показывать рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_VOTE_ALIGN%27]
+msgid "Выравнивание рейтинга"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_VOTE_MODE%27]
+msgid "Режим рейтинга"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_VOTE_MODE_RATING%27]
+msgid "Рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_VOTE_MODE_AVERAGE%27]
+msgid "Среднее значение"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_SHOW%27]
+msgid "Показывать остаток товара"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_MODE%27]
+msgid "Способ отображения остатка товара"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_ALIGN%27]
+msgid "Выравнивание остатка"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_MODE_NUMBER%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_MODE_TEXT%27]
+msgid "\"Много\"/\"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_MODE_LOGIC%27]
+msgid "\"В наличии\"/\"Нет в наличии\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_BOUNDS_MANY%27]
+msgid "Минимальное кол-во для маркера \"Много\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUANTITY_BOUNDS_FEW%27]
+msgid "Минимальное кол-во для маркера \"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_WEIGHT_SHOW%27]
+msgid "Показывать вес товара"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_WEIGHT_ALIGN%27]
+msgid "Выравнивание текста веса товара"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_FORM_ID%27]
+msgid "Форма заказа"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_FORM_PROPERTY_PRODUCT%27]
+msgid "Поле формы заказа для заполнения названием товара"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_FORM_TEMPLATE%27]
+msgid "Шаблон формы заказа"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUICK_VIEW_USE%27]
+msgid "Использовать быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUICK_VIEW_DETAIL%27]
+msgid "Открывать быстрый просмотр вместо перехода на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUICK_VIEW_TEMPLATE%27]
+msgid "Шаблон быстрого просмотра"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUICK_VIEW_PROPERTY_CODE%27]
+msgid "Свойства, выводимые в быстром просмоте"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_QUICK_VIEW%27]
+msgid "Быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MODE%27]
+msgid "Режим работы"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MODE_ALL%27]
+msgid "Выводить все категории"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MODE_CATEGORIES%27]
+msgid "Выводить указанные категории"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_MODE_CATEGORY%27]
+msgid "Выводить категорию"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_CATEGORIES%27]
+msgid "Категории"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_CATEGORY%27]
+msgid "Категория"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION%27]
+msgid "Действие с товарами"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_NONE%27]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_BUY%27]
+msgid "Покупка через корзину"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ACTION_ORDER%27]
+msgid "Заказ через форму"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_LABEL_NEW%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PROPERTY_LABEL_NEW']"
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_LABEL_RECOMMEND%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PROPERTY_LABEL_RECOMMEND']"
+msgid "Свойство метки \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_LABEL_HIT%27]
+msgctxt "$MESS['C_WIDGET_PRODUCTS_3_PROPERTY_LABEL_HIT']"
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_CATEGORY%27]
+msgid "Свойство \"Категория\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_ELEMENTS_COUNT%27]
+msgid "Количество элементов"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SECTION_URL%27]
+msgid "Шаблон адреса раздела"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_DETAIL_URL%27]
+msgid "Шаблон адреса элемента"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BASKET_URL%27]
+msgid "Шаблон адреса корзины"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_CONSENT_URL%27]
+msgid "Шаблон адреса соглашения"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SLIDER_USE%27]
+msgid "Использовать слайдер"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SLIDER_NAVIGATION%27]
+msgid "Навигация в слайдере"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SLIDER_DOTS%27]
+msgid "Точки в слайдере"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_HEADER_SHOW%27]
+msgid "Отображать заголовок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_HEADER_TEXT%27]
+msgid "Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_HEADER_TEXT_DEFAULT%27]
+msgid "Товары"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_HEADER_ALIGN%27]
+msgid "Выравнивание заголовка"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_DESCRIPTION_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_DESCRIPTION_TEXT%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BLOCKS_DESCRIPTION_ALIGN%27]
+msgid "Выравнивание описания"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_DESCRIPTION_SHOW%27]
+msgid "Отображать описание элементов"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_DESCRIPTION_ALIGN%27]
+msgid "Выравнивание описания элементов"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_TABS_ALIGN%27]
+msgid "Выравнивание вкладок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_COLUMNS%27]
+msgid "Количество колонок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_FORM_ID%27]
+msgid "Веб форма"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_FORM_PROPERTY_PRODUCT%27]
+msgid "Свойство формы \"Товар\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_USE_PRICE_COUNT%27]
+msgid "Использовать вывод цен с диапазонами"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PRICE_VAT_INCLUDE%27]
+msgid "Включать НДС в цену"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_SHOW_PRICE_COUNT%27]
+msgid "Выводить цены для количества"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_PROPERTY_CODE%27]
+msgid "Свойства предложений"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_OFFERS_LIMIT%27]
+msgid "Максимальное количество предложений для показа (0 - все)"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_BASKET_URL%27]
+msgid "URL, ведущий на страницу с корзиной покупателя"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_USE_COMPARE%27]
+msgid "Разрешить сравнение товаров"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_COMPARE_PATH%27]
+msgid "Путь к странице сравнения"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_COMPARE_NAME%27]
+msgid "Название переменной, в которой передаются товары для сравнения"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_LINES%27]
+msgid "Количество строк"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_PRODUCTS_3_PROPERTY_ORDER_USE%27]
+msgid "Свойство \"Товар под заказ\""
+msgstr ""

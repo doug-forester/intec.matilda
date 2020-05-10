@@ -1,0 +1,92 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec/startshop.orders.detail/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SOD_DEFAULT_ORDER%27]
+msgid "Заказ №"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_FROM%27]
+msgid "от"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SUM%27]
+msgid "на сумму"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_RETURN%27]
+msgid "Вернуться в список заказов"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_ORDER_HEADER%27]
+msgid "Информация о заказе"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_ORDER_LAST_NAME%27]
+msgid "Фамилия"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_ORDER_NAME%27]
+msgid "Имя"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_ORDER_SUM%27]
+msgctxt "$MESS['SOD_DEFAULT_SECTION_ORDER_SUM']"
+msgid "Сумма"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_ORDER_STATUS%27]
+msgid "Текущий статус"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_INFORMATION_HEADER%27]
+msgid "Информация о пользователе"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_INFORMATION_LOGIN%27]
+msgid "Логин"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_PAYMENT_HEADER%27]
+msgid "Выбранный способ оплаты"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_DELIVERY_HEADER%27]
+msgid "Выбранный способ доставки"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_PRODUCTS_HEADER%27]
+msgid "Содержимое заказа"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_PRODUCTS_PRICE%27]
+msgid "Цена"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_PRODUCTS_QUANTITY%27]
+msgid "Кол-во"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_SECTION_PRODUCTS_SUM%27]
+msgctxt "$MESS['SOD_DEFAULT_SECTION_PRODUCTS_SUM']"
+msgid "Сумма"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_PROPERTY_Y%27]
+msgid "Да"
+msgstr ""
+
+#: %24MESS[%27SOD_DEFAULT_PROPERTY_N%27]
+msgid "Нет"
+msgstr ""

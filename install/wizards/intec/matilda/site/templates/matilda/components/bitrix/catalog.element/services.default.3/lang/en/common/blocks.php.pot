@@ -1,0 +1,62 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/services.default.3/lang/en/common/blocks.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_BANNER%27]
+msgid "Банер"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_DESCRIPTION_1%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_ICONS_1%27]
+msgid "Иконки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_FORM_1%27]
+msgid "Форма"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_GALLERY_1%27]
+msgid "Фотогалерея"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_PROPERTIES_1%27]
+msgid "Характеристики"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_DOCUMENTS_1%27]
+msgid "Документы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_VIDEOS_1%27]
+msgid "Видеогалерея"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_PROJECTS_1%27]
+msgid "Проекты"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_REVIEWS_1%27]
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_SERVICES_1%27]
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_DEFAULT_1_COMMON_BLOCKS_PRODUCTS_1%27]
+msgid "Товары"
+msgstr ""

@@ -1,0 +1,442 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.header/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_HEADER_TEMP1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_TRANSPARENCY%27]
+msgid "Прозрачность"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_LOGOTYPE_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать логотип"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_LOGOTYPE_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать логотип"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_PHONES_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать телефоны"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_PHONES_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать телефоны"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_AUTHORIZATION_SHOW%27]
+msgid "Отображать авторизацию"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_AUTHORIZATION_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать авторизацию"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_AUTHORIZATION_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать авторизацию"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_EMAIL_SHOW%27]
+msgid "Отображать эл. почту"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_EMAIL_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать эл. почту"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_EMAIL_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать эл. почту"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_EMAIL%27]
+msgid "Эл. почта"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_ADDRESS_SHOW%27]
+msgid "Отображать адрес"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_ADDRESS_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать адрес"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_ADDRESS_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать адрес"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_ADDRESS%27]
+msgid "Адрес"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_REGIONALITY_USE_FIXED%27]
+msgid "[Фикс. шаблон] Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_REGIONALITY_USE_MOBILE%27]
+msgid "[Моб. шаблон] Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_TAGLINE_SHOW%27]
+msgid "Отображать слоган"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_TAGLINE_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать слоган"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_TAGLINE_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать слоган"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_TAGLINE%27]
+msgid "Слоган"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH%27]
+msgid "Поиск."
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_SHOW%27]
+msgid "Отображать поиск"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать поиск"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать поиск"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_MODE%27]
+msgid "Режим поиска"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_MODE_SITE%27]
+msgid "По сайту"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_MODE_CATALOG%27]
+msgid "По каталогу"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BASKET_SHOW%27]
+msgid "Отображать корзину"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BASKET_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать корзину"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BASKET_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать корзину"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BASKET_POPUP%27]
+msgid "Показывать окно с товарами при наведении на иконку корзины"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BASKET_URL%27]
+msgid "Страница корзины"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_ORDER_URL%27]
+msgid "Страница оформления заказа"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DELAY_SHOW%27]
+msgid "Отображать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DELAY_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DELAY_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_SHOW%27]
+msgid "Отображать сравнение товаров"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать сравнение товаров"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать сравнение товаров"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_IBLOCK_ID%27]
+msgid "Сравнение товаров. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_IBLOCK_TYPE%27]
+msgid "Сравнение товаров. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_CODE%27]
+msgid "Сравнение товаров. Код"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_COMPARE_URL%27]
+msgid "Страница сравнения товаров"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN%27]
+msgid "Главное меню."
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_SHOW%27]
+msgid "Отображать главное меню"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_SHOW_FIXED%27]
+msgid "[Фикс. шаблон] Отображать главное меню"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать главное меню"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_ROOT%27]
+msgid "Главное меню. Корневой тип"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_LEVEL%27]
+msgid "Главное меню. Максимальная вложенность"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_CHILD%27]
+msgid "Главное меню. Вложенный тип"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_DELIMITERS%27]
+msgid "Главное меню. Использовать разделители"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_MAIN_CATALOG_LINKS%27]
+msgid "Главное меню. Ссылки на каталоги"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SEARCH_URL%27]
+msgid "Страница поиска"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CATALOG_URL%27]
+msgid "Страница каталога"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_LOGIN_URL%27]
+msgid "Страница авторизации"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_PASSWORD_URL%27]
+msgid "Страница восстановления пароля"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_PROFILE_URL%27]
+msgid "Страница профиля"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_REGISTER_URL%27]
+msgid "Страница регистрации"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONSENT_URL%27]
+msgid "Ссылка на страницу соглашения на обработку данных"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_CALL_SHOW%27]
+msgid "Показывать кнопку \"Заказать звонок\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_CALL_ID%27]
+msgid "Форма для заказа звонка"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_CALL_TEMPLATE%27]
+msgid "Шаблон отображения формы заказа звонка"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_CALL_TITLE%27]
+msgid "Текст заголовка формы \"Заказать звонок\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_CALL_TITLE_DEFAULT%27]
+msgid "Заказать звонок"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_FEEDBACK_SHOW%27]
+msgid "Формы. Отображать кнопку \"Задать вопрос\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_FEEDBACK_ID%27]
+msgid "Формы. Форма для обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_FEEDBACK_TEMPLATE%27]
+msgid "Формы. Шаблон отображения формы обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_FEEDBACK_TITLE%27]
+msgid "Формы. Название формы \"Задать вопрос\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FORMS_FEEDBACK_TITLE_DEFAULT%27]
+msgid "Задать вопрос"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_DESKTOP%27]
+msgid "Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_FIXED%27]
+msgid "Шаблон (Фиксированный)"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MOBILE%27]
+msgid "Шаблон (Мобильный)"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MOBILE_FIXED%27]
+msgid "Шаблон (Мобильный) фиксированный"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MOBILE_HIDDEN%27]
+msgid "Шаблон (Мобильный) скрываемый"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BANNER%27]
+msgid "Шаблон баннера"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BANNER_DISPLAY%27]
+msgid "Отображать банер"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BANNER_DISPLAY_ALL%27]
+msgid "На всех страницах"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_BANNER_DISPLAY_MAIN%27]
+msgid "Только на главной"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_PHONES_ADVANCED_MODE%27]
+msgid "Расширенный режим вывода контактов"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_ADDRESS_SHOW%27]
+msgid "Контакты. Показывать адрес"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_ADDRESS_PROPERTY%27]
+msgid "Контакты. "
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_SCHEDULE_SHOW%27]
+msgid "Контакты. Показывать часы работы"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_EMAIL_SHOW%27]
+msgid "Контакты. Показывать email"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_REGIONALITY_USE%27]
+msgid "Контакты. Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_REGIONALITY_STRICT%27]
+msgid "Контакты. Выводить только контакты, у которых заполнен регион"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_IBLOCK_TYPE%27]
+msgid "Контакты. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_IBLOCK_ID%27]
+msgid "Контакты. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_ELEMENT%27]
+msgid "Контакты. Главный контакт"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_ELEMENTS%27]
+msgid "Контакты. Список контактов"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_PROPERTY_PHONE%27]
+msgid "Контакты. Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_PROPERTY_CITY%27]
+msgid "Контакты. Свойство \"Город\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_PROPERTY_ADDRESS%27]
+msgid "Контакты. Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_PROPERTY_EMAIL%27]
+msgid "Контакты. Свойство \"Эл. почта\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_PROPERTY_SCHEDULE%27]
+msgid "Контакты. Свойство \"График работы\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_CONTACTS_PROPERTY_REGION%27]
+msgid "Контакты. Свойство \"Регион\""
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SOCIAL_SHOW%27]
+msgid "Отображать социальные сети"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SOCIAL_SHOW_MOBILE%27]
+msgid "[Моб. шаблон] Отображать социальные сети"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SOCIAL_VK%27]
+msgid "Социальные сети. Вконтакте"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SOCIAL_INSTAGRAM%27]
+msgid "Социальные сети. Instagram"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SOCIAL_FACEBOOK%27]
+msgid "Социальные сети. Facebook"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_SOCIAL_TWITTER%27]
+msgid "Социальные сети. Twitter"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_POPUP%27]
+msgid "Всплывающее меню"
+msgstr ""
+
+#: %24MESS[%27C_HEADER_TEMP1_MENU_POPUP_TEMPLATE%27]
+msgid "Вид отображения всплывающего меню"
+msgstr ""

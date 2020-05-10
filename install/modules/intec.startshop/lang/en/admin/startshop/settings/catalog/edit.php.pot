@@ -1,0 +1,102 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/catalog/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить торговый каталог"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактировать торговый каталог"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Торговый каталог"
+msgstr ""
+
+#: %24MESS[%27tabs.offers%27]
+msgid "Торговые предложения"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Торговый каталог с таким инфоблоком уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.warning.iblock_not_exists%27]
+msgid ""
+"Инфоблока, к которому привязан текущий торговый каталог не существует. "
+"Выберите доступный инфоблок!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Торговый каталог успешно добавлен!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Торговый каталог успешно изменен!"
+msgstr ""
+
+#: %24MESS[%27messages.error.saving%27]
+msgid "Произошла ошибка при сохранении!"
+msgstr ""
+
+#: %24MESS[%27messages.error.iblocks_equal%27]
+msgid ""
+"Инфоблок с товарами и инфоблок торговых предложений не могут быть "
+"одинаковыми!"
+msgstr ""
+
+#: %24MESS[%27select.empty%27]
+msgid "(не выбрано)"
+msgstr ""
+
+#: %24MESS[%27fields.iblock%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27fields.use_quantity%27]
+msgid "Использовать количественный учет"
+msgstr ""
+
+#: %24MESS[%27fields.offers.iblock%27]
+msgid "Инфоблок торговых предложений"
+msgstr ""
+
+#: %24MESS[%27fields.offers.link%27]
+msgid "Свойство привязки к основному каталогу"
+msgstr ""
+
+#: %24MESS[%27fields.offers.link.create%27]
+msgid "Создать свойство привязки"
+msgstr ""
+
+#: %24MESS[%27fields.offers.link.name%27]
+msgid "Свойство привязки"
+msgstr ""
+
+#: %24MESS[%27fields.offers.properties%27]
+msgid "Свойства торговых предложений"
+msgstr ""

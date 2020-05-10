@@ -1,0 +1,90 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.services/template.4/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_PROPERTY_ICON%27]
+msgid "Свойство \"Иконка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_DESCRIPTION_SHOW%27]
+msgid "Отображать описание элемента"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_ICON_SHOW%27]
+msgid "Отображать иконку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_NUMBER_SHOW%27]
+msgid "Отображать счетчик количества"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_DETAIL_SHOW%27]
+msgid "Отображать ссылку на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_DETAIL_TEXT%27]
+msgid "Текст ссылки на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_FOOTER_SHOW%27]
+msgid "Отображать нижний блок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_FOOTER_POSITION%27]
+msgid "Расположение нижнего блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_FOOTER_BUTTON_SHOW%27]
+msgid "Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_FOOTER_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_PARALLAX_USE%27]
+msgid "Использовать эффект паралакса"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_PARALLAX_RATIO%27]
+msgid "Сила эффекта паралакса (0 - 100)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_DETAIL_TEXT_DEFAULT%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_4_FOOTER_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""

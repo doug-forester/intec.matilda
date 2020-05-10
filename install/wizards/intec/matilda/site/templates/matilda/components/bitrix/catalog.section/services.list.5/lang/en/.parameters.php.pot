@@ -1,0 +1,122 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/services.list.5/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_BACKGROUND_IMAGE%27]
+msgid "Свойство \"Фоновое изображение\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_BACKGROUND_COLOR%27]
+msgid "Свойство \"Цвет фона\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_IMAGE%27]
+msgid "Свойство \"Доп. изображение\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_TYPE%27]
+msgid "Свойство \"Тип сайта\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_LOGOTYPE%27]
+msgid "Свойство \"Логотип\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_PRICE_OLD%27]
+msgid "Свойство \"Старая цена\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_BUTTON_SHOW%27]
+msgid "Свойство \"Отображать доп. кнопку\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_BUTTON_URL%27]
+msgid "Свойство \"Доп. кнопка. Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_BUTTON_TEXT%27]
+msgid "Свойство \"Доп. кнопка. Текст\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_MARKS%27]
+msgid "Свойство \"Метки\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_TABS%27]
+msgid "Свойство для отбора вкладок"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PROPERTY_THEME%27]
+msgid "Свойство \"Цвет текста\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_IMAGE_SHOW%27]
+msgid "Отображать доп. изображение"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_TYPE_SHOW%27]
+msgid "Отображать тип сайта"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_LOGOTYPE_SHOW%27]
+msgid "Отображать логотип"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PREVIEW_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PRICE_SHOW%27]
+msgid "Отображать цену"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_PRICE_OLD_SHOW%27]
+msgid "Отображать старую цену"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_MARKS_SHOW%27]
+msgid "Отображать метки"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_TABS_USE%27]
+msgid "Использовать вкладки"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_TABS_POSITION%27]
+msgid "Расположение вкладок"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_LOAD_ON_SCROLL%27]
+msgid "Загружать при скроллинге страницы"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_LIST_5_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""

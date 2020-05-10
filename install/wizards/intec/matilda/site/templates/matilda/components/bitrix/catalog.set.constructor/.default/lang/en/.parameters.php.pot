@@ -1,0 +1,52 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.set.constructor/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CP_CSC_TPL_THEME_SITE%22]
+msgid "Use site theme (for bitrix.eshop)"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_THEME_BLUE%22]
+msgid "blue (default theme)"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_THEME_GREEN%22]
+msgid "green"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_THEME_RED%22]
+msgid "red"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_THEME_WOOD%22]
+msgid "wood"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_THEME_YELLOW%22]
+msgid "yellow"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_THEME_BLACK%22]
+msgid "dark"
+msgstr ""
+
+#: %24MESS[%22CP_CSC_TPL_TEMPLATE_THEME%22]
+msgid "Color theme"
+msgstr ""
+
+#: %24MESS[%22TEMPLATE_THEME_TIP%22]
+msgid ""
+"Defines colors for rendering the website text and graphics. Blue theme is "
+"the default option."
+msgstr ""

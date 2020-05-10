@@ -1,0 +1,38 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/catalog/templates/startshop/bitrix/catalog.section/list/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SH_CS_LIST_ELEMENT_DELETE_CONFIRM%27]
+msgid "Вы действительно хотите удалить товар?"
+msgstr ""
+
+#: %24MESS[%27SH_CS_LIST_ADD_TO_BASKET%27]
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%27SH_CS_LIST_ADDED_TO_BASKET%27]
+msgid "Добавлено"
+msgstr ""
+
+#: %24MESS[%27SH_CS_LIST_PRODUCT_NOT_AVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TEXT_SHOW_MORE%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27SH_CS_TEXT_FROM%27]
+msgid "от"
+msgstr ""

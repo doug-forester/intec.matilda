@@ -1,0 +1,74 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.personal.section/.default/bitrix/main.profile/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22PROFILE_DATA_SAVED%22]
+msgid "All changes saved"
+msgstr ""
+
+#: %24MESS[%22LAST_UPDATE%22]
+msgid "Last update:"
+msgstr ""
+
+#: %24MESS[%22ACTIVE%22]
+msgid "Active:"
+msgstr ""
+
+#: %24MESS[%22NAME%22]
+msgid "Name:"
+msgstr ""
+
+#: %24MESS[%22LAST_NAME%22]
+msgid "Last name:"
+msgstr ""
+
+#: %24MESS[%22SECOND_NAME%22]
+msgid "Middle name:"
+msgstr ""
+
+#: %24MESS[%22EMAIL%22]
+msgid "E-mail:"
+msgstr ""
+
+#: %24MESS[%27MAIN_RESET%27]
+msgid "Cancel"
+msgstr ""
+
+#: %24MESS[%22LOGIN%22]
+msgid "Login (min. 3 characters):"
+msgstr ""
+
+#: %24MESS[%22NEW_PASSWORD%22]
+msgid "New password (min. 6 characters):"
+msgstr ""
+
+#: %24MESS[%22NEW_PASSWORD_CONFIRM%22]
+msgid "Confirm new password:"
+msgstr ""
+
+#: %24MESS[%22SAVE%22]
+msgid "Save changes"
+msgstr ""
+
+#: %24MESS[%22RESET%22]
+msgid "Reset"
+msgstr ""
+
+#: %24MESS[%22LAST_LOGIN%22]
+msgid "Last authorized:"
+msgstr ""
+
+#: %24MESS[%22NEW_PASSWORD_REQ%22]
+msgid "New Password:"
+msgstr ""

@@ -1,0 +1,68 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section.list/catalog.tile.4/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_LINK_BLANK%27]
+msgid "Открывать ссылки в новой вкладке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_PICTURE_SHOW%27]
+msgid "Отображать картинку раздела"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_PICTURE_SIZE%27]
+msgid "Картинка раздела. Режим отображения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_PICTURE_SIZE_COVER%27]
+msgid "Заполнить блок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_PICTURE_SIZE_CONTAIN%27]
+msgid "Уместить в блок"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_CHILDREN_SHOW%27]
+msgid "Отображать вложенные разделы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_CHILDREN_VIEW%27]
+msgid "Вложенные разделы. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_CHILDREN_VIEW_1%27]
+msgid "Вид 1"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_CHILDREN_VIEW_2%27]
+msgid "Вид 2"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_CHILDREN_ELEMENTS%27]
+msgid "Вложенные разделы. Отображать количество вложенных элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_LIST_CATALOG_TILE_4_CHILDREN_COUNT%27]
+msgid ""
+"Вложенные разделы. Кол-во одновременно отображаемых элементов (0 или пустое "
+"значение отобразит все элементы)"
+msgstr ""

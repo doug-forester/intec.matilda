@@ -1,0 +1,170 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news/projects/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_REGIONALITY_FILTER_USE%27]
+msgid "Мультирегиональность. Использовать фильтр по региону"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_REGIONALITY_FILTER_PROPERTY%27]
+msgid "Мультирегиональность. Свойство фильтра по региону"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_REGIONALITY_FILTER_STRICT%27]
+msgid "Мультирегиональность. Выводить только товары у которых выбран регион"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_IBLOCK_TYPE_SERVICES%27]
+msgid "Тип инфоблока услуг"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_IBLOCK_ID_SERVICES%27]
+msgid "Инфоблок услуг"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_ALLOW_LINK_SERVICES%27]
+msgid "Разрешить ссылку на элемент услуги"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_DETAIL_URL_SERVICES%27]
+msgid "Шаблон пути до элемента услуги"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_IBLOCK_TYPE_REVIEWS%27]
+msgid "Тип инфоблока отзывов"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_IBLOCK_ID_REVIEWS%27]
+msgid "Инфоблок отзывов"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_ALLOW_LINK_REVIEWS%27]
+msgid "Разрешить ссылку на элемент отзыва"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PAGE_URL_REVIEWS%27]
+msgid "Путь до страницы с отзывами"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_DETAIL_URL_REVIEWS%27]
+msgid "Шаблон пути до элемента отзыва"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_DISPLAY_FORM_ORDER%27]
+msgid "Отображать форму \"Заказать проект\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_FORM_ORDER%27]
+msgid "Форма \"Заказать проект\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_FORM_ORDER_PROJECT%27]
+msgid "Свойство \"Название проекта\" формы \"Заказать проект\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_DISPLAY_FORM_ASK%27]
+msgid "Отображать форму \"Задать вопрос\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу соглашения"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_FORM_ASK%27]
+msgid "Форма \"Задать вопрос\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_DISPLAY_TAB_ALL%27]
+msgid "Отображать вкладку \"Все проекты\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_DESCRIPTION_PROPERTIES%27]
+msgid "Свойства проекта"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_GALLERY%27]
+msgid "Свойство \"Галерея\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_OBJECTIVE%27]
+msgid "Свойство \"Задача\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_SERVICES%27]
+msgid "Свойство \"Услуги\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_REVIEW%27]
+msgid "Свойство привязки у инфоблока отзывов"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_IMAGES%27]
+msgid "Свойство \"Изображения\""
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_SOLUTION_BEGIN%27]
+msgid "Свойство \"Решение\" (Начало)"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_SOLUTION_IMAGE%27]
+msgid "Свойство \"Решение\" (Изображение)"
+msgstr ""
+
+#: %24MESS[%27N_PROJECTS_PARAMETERS_PROPERTY_SOLUTION_END%27]
+msgid "Свойство \"Решение\" (Конец)"
+msgstr ""
+
+#: %24MESS[%27CP_BC_TPL_LAZY_LOAD%27]
+msgid "Включить кнопку Показать еще"
+msgstr ""
+
+#: %24MESS[%27CP_BC_TPL_MESS_BTN_LAZY_LOAD%27]
+msgid "Текст для кнопки Показать еще"
+msgstr ""
+
+#: %24MESS[%27CP_BC_TPL_MESS_BTN_LAZY_LOAD_DEFAULT%27]
+msgid "Показать еще"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_DESCRIPTION_DISPLAY%27]
+msgid "Показывать текст анонса"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_PICTURE_DISPLAY%27]
+msgid "Показывать изображение"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_TEMPLATE%27]
+msgid "Шаблон списка проектов"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_TEMPLATE_DEFAULT%27]
+msgid "Плитки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_TEMPLATE_LIST%27]
+msgid "Список"
+msgstr ""

@@ -1,0 +1,50 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/catalog/templates/startshop/lang/en/section.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SECTION_SEARCH%22]
+msgid "Найдено"
+msgstr ""
+
+#: %24MESS[%22SECTION_MODEL%22]
+msgid "моделей"
+msgstr ""
+
+#: %24MESS[%22SECTION_SORT_TITLE%22]
+msgid "Сортировать:"
+msgstr ""
+
+#: %24MESS[%22SECTION_SORT_NAME%22]
+msgid "По названию"
+msgstr ""
+
+#: %24MESS[%22SECTION_SORT_PRICE%22]
+msgid "По цене"
+msgstr ""
+
+#: %24MESS[%22SECTION_SORT_POPUL%22]
+msgid "По популярности"
+msgstr ""
+
+#: %24MESS[%22SECTION_SORT_NONE%22]
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%22SECTION_SHOW%22]
+msgid "Показать по"
+msgstr ""
+
+#: %24MESS[%22SECTION_SORT_TITLE_VIEW%22]
+msgid "Вид:"
+msgstr ""

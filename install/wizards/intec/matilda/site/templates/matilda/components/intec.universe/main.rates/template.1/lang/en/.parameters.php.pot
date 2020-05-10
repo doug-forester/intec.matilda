@@ -1,0 +1,183 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.rates/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PROPERTY_CURRENCY%27]
+msgid "Свойство \"Валюта\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PROPERTY_DISCOUNT%27]
+msgid "Свойство \"Скидка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PROPERTY_DISCOUNT_TYPE%27]
+msgid "Свойство \"Тип скидки\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PROPERTY_DETAIL_URL%27]
+msgid "Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_VIEW%27]
+msgid "Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_TABS_POSITION%27]
+msgid "Расположение вкладок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SECTION_DESCRIPTION_SHOW%27]
+msgid "Отображать описание раздела"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SECTION_DESCRIPTION_POSITION%27]
+msgid "Расположение описания раздела"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_COUNTER_SHOW%27]
+msgid "Отображать счетчик элементов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_COUNTER_TEXT%27]
+msgid "Счетчик элементов. Текст перед номером элемента"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PRICE_SHOW%27]
+msgid "Отображать цену"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_DISCOUNT_SHOW%27]
+msgid "Отображать \"стикер\" с величиной скидки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PREVIEW_SHOW%27]
+msgid "Отображать описание элементов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_PROPERTIES_SHOW%27]
+msgid "Отображать выбранные свойства"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_BUTTON_SHOW%27]
+msgid "Отображать кнопку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_BUTTON_TEXT%27]
+msgid "Кнопка. Отображаемый текст"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_BUTTON_MODE%27]
+msgid "Кнопка. Режим работы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_DETAIL_BLANK%27]
+msgid "Открывать ссылки в новой вкладке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_ORDER_FORM_ID%27]
+msgid "Форма для заказа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_ORDER_FORM_TEMPLATE%27]
+msgid "Форма. Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_ORDER_FORM_FIELD%27]
+msgid "Форма. Поле для автозаполнения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_ORDER_FORM_TITLE%27]
+msgid "Форма. Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_ORDER_CONSENT%27]
+msgid "Ссылка на страницу с соглашением обработки персональных данных"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_USE%27]
+msgid "Использовать слайдер"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_NAV%27]
+msgid "Слайдер. Навигационные стрелки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_DOTS%27]
+msgid "Слайдер. Навигационные точки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_LOOP%27]
+msgid "Слайдер. Зациклить прокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_AUTO_USE%27]
+msgid "Слайдер. Использовать автопрокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_AUTO_TIME%27]
+msgid "Слайдер. Автопрокрутка. Время задержки (мс)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_SLIDER_AUTO_HOVER%27]
+msgid ""
+"Слайдер. Автопрокрутка. Останавливать прокрутку при наведении на слайдер"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_VIEW_SIMPLE%27]
+msgid "Обычный"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_VIEW_TABS%27]
+msgid "С вкладками"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_BUTTON_MODE_DETAIL%27]
+msgid "Ссылка"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_BUTTON_MODE_ORDER%27]
+msgid "Заказ через форму"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_COUNTER_TEXT_DEFAULT%27]
+msgid "ТАРИФ"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_BUTTON_TEXT_DEFAULT%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_RATES_TEMPLATE_3_ORDER_FORM_TITLE_DEFAULT%27]
+msgid "Заказать"
+msgstr ""

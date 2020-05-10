@@ -1,0 +1,54 @@
+#. extracted from lang/en/settings.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:26-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27intec.matilda.settings.settingsDisplay%27]
+msgid "Отображать настройки сайта"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.settingsDisplay.none%27]
+msgid "Не отображать"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.settingsDisplay.admin%27]
+msgid "Только для администратора"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.settingsDisplay.all%27]
+msgid "Для всех"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.yandexMetrikaUse%27]
+msgid "Использовать Яндекс.Метрику"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.yandexMetrikaId%27]
+msgid "Идентификатор Яндекс.Метрики"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.yandexMetrikaClickMap%27]
+msgid "Включить карту кликов в Яндекс.Метрике"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.yandexMetrikaTrackHash%27]
+msgid "Включить отслеживание хеша браузера в Яндекс.Метрике"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.yandexMetrikaTrackLinks%27]
+msgid "Включить отслеживание ссылок в Яндекс.Метрике"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.settings.yandexMetrikaWebvisor%27]
+msgid "Включить вебвизор в Яндекс.Метрике"
+msgstr ""

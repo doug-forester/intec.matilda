@@ -1,0 +1,66 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.services/template.7/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:29-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_LINK_USE%27]
+msgid "Использовать ссылки на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_DESCRIPTION_USE%27]
+msgid "Отображать описание услуги"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_FOOTER_SHOW%27]
+msgid "Отображать нижний блок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_FOOTER_POSITION%27]
+msgid "Расположение нижнего блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_FOOTER_BUTTON_SHOW%27]
+msgid "Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_FOOTER_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SERVICES_TEMPLATE_7_FOOTER_BUTTON_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""

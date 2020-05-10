@@ -1,0 +1,184 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/catalog.text.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_ACTION%27]
+msgid "Действие с товаром"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_ACTION_NONE%27]
+msgctxt "$MESS['C_CATALOG_SECTION_CATALOG_TEXT_2_ACTION_NONE']"
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_ACTION_BUY%27]
+msgid "Покупка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_ACTION_DETAIL%27]
+msgid "Переход к подробному просмотру"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_ACTION_ORDER%27]
+msgid "Заказ через форму"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_BUTTON_TOGGLE_ACTION%27]
+msgid "Действие при открытии панели товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_BUTTON_TOGGLE_ACTION_NONE%27]
+msgctxt "$MESS['C_CATALOG_SECTION_CATALOG_TEXT_2_BUTTON_TOGGLE_ACTION_NONE']"
+msgid "Нет"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_BUTTON_TOGGLE_ACTION_BUY%27]
+msgid "Добавлять товар в корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_COUNTER_SHOW%27]
+msgid "Отображать поле для выбора количества товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_OFFERS_USE%27]
+msgid "Использовать торговые предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу с пользовательским соглашением"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_IMAGE_SHOW%27]
+msgid "Показывать изображение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_PROPERTIES_SHOW%27]
+msgid "Отображать свойства товаров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_PROPERTY_MARKS_RECOMMEND%27]
+msgid "Свойство метки \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_PROPERTY_MARKS_NEW%27]
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_PROPERTY_MARKS_HIT%27]
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_FORM_ID%27]
+msgid "Форма"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_FORM_TEMPLATE%27]
+msgid "Шаблон формы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_FORM_PROPERTY_PRODUCT%27]
+msgid "Свойство формы \"Товар\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_DELAY_USE%27]
+msgid "Разрешить добавление товара в отложенные"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_DELAY_SHOW_INACTIVE%27]
+msgid "Показывать неактивную иконку добавления товара в отложенные"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_COMPARE_SHOW_INACTIVE%27]
+msgid "Показывать неактивную иконку добавления товара в сравнение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_VOTE_SHOW%27]
+msgid "Показывать рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_VOTE_MODE%27]
+msgid "Режим рейтинга"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_VOTE_MODE_RATING%27]
+msgid "Рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_VOTE_MODE_AVERAGE%27]
+msgid "Среднее значение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_SHOW%27]
+msgid "Показывать остаток товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_MODE%27]
+msgid "Способ отображения остатка товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_MODE_NUMBER%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_MODE_TEXT%27]
+msgid "\"Много\"/\"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_MODE_LOGIC%27]
+msgid "\"В наличии\"/\"Нет в наличии\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_BOUNDS_MANY%27]
+msgid "Минимальное кол-во для маркера \"Много\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUANTITY_BOUNDS_FEW%27]
+msgid "Минимальное кол-во для маркера \"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUICK_VIEW_USE%27]
+msgid "Использовать быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUICK_VIEW_DETAIL%27]
+msgid "Открывать быстрый просмотр вместо перехода на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUICK_VIEW_TEMPLATE%27]
+msgid "Шаблон быстрого просмотра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUICK_VIEW_PROPERTY_CODE%27]
+msgid "Свойства, выводимые в быстром просмоте"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_QUICK_VIEW%27]
+msgid "Быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_PROPERTY_ORDER_USE%27]
+msgid "Свойство \"Товар под заказ\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TEXT_2_PROPERTIES_AMOUNT%27]
+msgid "Количество отображаемых свойств товара"
+msgstr ""

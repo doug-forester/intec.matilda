@@ -1,0 +1,284 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/catalog.tile.4/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PRICE_CODE%27]
+msgid "Тип цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_CONVERT_CURRENCY%27]
+msgid "Показывать цены в одной валюте"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_CURRENCY_ID%27]
+msgid "Валюта, в которую будут сконвертированы цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_DELAY_USE%27]
+msgid "Разрешить добавление товаров в отложенные"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_BORDERS%27]
+msgid "Отображать рамки элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_BORDERS_STYLE%27]
+msgid "Форма границ элемента при наведении"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_COLUMNS%27]
+msgid "Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_COLUMNS_MOBILE%27]
+msgid "[Моб. шаблон] Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_COUNTER_SHOW%27]
+msgid "Отображать поле для выбора количества товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу с пользовательским соглашением"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_MARKS_SHOW%27]
+msgid "Показывать метки \"Хит/Новинка/Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_MARKS_ORIENTATION%27]
+msgid "Расположение меток \"Хит/Новинка/Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_MARKS_RECOMMEND%27]
+msgid "Свойство метки \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_MARKS_NEW%27]
+msgid "Свойство метки \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_MARKS_HIT%27]
+msgid "Свойство метки \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_PICTURES%27]
+msgid "Свойство \"Доп. изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_ARTICLE%27]
+msgid "Свойство \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_PROPERTY_PICTURES%27]
+msgid "Свойство \"Доп. изображения предложений\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_PROPERTY_ARTICLE%27]
+msgid "Свойство \"Артикул предложений\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_IMAGE_SLIDER_SHOW%27]
+msgid "Показывать дополнительные картинки в слайдере для товаров"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ACTION%27]
+msgid "Действия с товаром"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_USE%27]
+msgid "Использовать торговые предложения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_VIEW%27]
+msgid "Вид отображения торговых предложений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_VIEW_EXTENDED_LEFT%27]
+msgid ""
+"Свойство предложений, которое будет отображаться слева от картинки элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_VIEW_EXTENDED_RIGHT%27]
+msgid ""
+"Свойство предложений, которое будет отображаться справа от картинки элемента"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_IMAGE_SLIDER_NAV_SHOW%27]
+msgid "Показывать навигационные стрелки в слайдере картинок товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_IMAGE_SLIDER_OVERLAY_USE%27]
+msgid "Листать слайдер при наведении на картинку"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_MARKS_ORIENTATION_HORIZONTAL%27]
+msgid "Горизонтально"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_MARKS_ORIENTATION_VERTICAL%27]
+msgid "Вертикально"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_VIEW_DEFAULT%27]
+msgid "Стандартный"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_VIEW_EXTENDED%27]
+msgid "Расширенный"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_BORDERS_STYLE_SQUARED%27]
+msgid "Прямые углы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_BORDERS_STYLE_ROUNDED%27]
+msgid "Скругленные углы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ACTION_NONE%27]
+msgid "Не показывать кнопку"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ACTION_BUY%27]
+msgid "Добавление в корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ACTION_DETAIL%27]
+msgid "Ссылка на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ACTION_ORDER%27]
+msgid "Открыть форму заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PURCHASE_TYPE_BASKET%27]
+msgid "Кнопка добавления в корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PURCHASE_TYPE_MORE_INFO%27]
+msgid "Кнопка \"Подробнее\" с сылкой на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_VOTE_SHOW%27]
+msgid "Показывать рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_VOTE_MODE%27]
+msgid "Режим рейтинга"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_VOTE_MODE_RATING%27]
+msgid "Рейтинг"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_VOTE_MODE_AVERAGE%27]
+msgid "Среднее значение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_SHOW%27]
+msgid "Показывать остаток товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_MODE%27]
+msgid "Способ отображения остатка товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_MODE_NUMBER%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_MODE_TEXT%27]
+msgid "\"Много\"/\"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_MODE_LOGIC%27]
+msgid "\"В наличии\"/\"Нет в наличии\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_BOUNDS_MANY%27]
+msgid "Минимальное кол-во для маркера \"Много\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUANTITY_BOUNDS_FEW%27]
+msgid "Минимальное кол-во для маркера \"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_STORES_SHOW%27]
+msgid "Свойство \"Показывать склады\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_OFFERS_PROPERTY_STORES_SHOW%27]
+msgid "Свойство предложений \"Показывать склады\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ARTICLE_SHOW%27]
+msgid "Показывать \"Артикул\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_FORM_ID%27]
+msgid "Форма заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_FORM_PROPERTY_PRODUCT%27]
+msgid "Поле формы заказа для заполнения названием товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_FORM_TEMPLATE%27]
+msgid "Шаблон формы заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUICK_VIEW_USE%27]
+msgid "Использовать быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUICK_VIEW_DETAIL%27]
+msgid "Открывать быстрый просмотр вместо перехода на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUICK_VIEW_TEMPLATE%27]
+msgid "Шаблон быстрого просмотра"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUICK_VIEW_PROPERTY_CODE%27]
+msgid "Свойства, выводимые в быстром просмоте"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_QUICK_VIEW%27]
+msgid "Быстрый просмотр"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ORDER_FAST_USE%27]
+msgid "Использовать быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ORDER_FAST_TEMPLATE%27]
+msgid "Шаблон быстрого заказа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_ORDER_FAST%27]
+msgid "Быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_TILE_4_PROPERTY_ORDER_USE%27]
+msgid "Свойство \"Товар под заказ\""
+msgstr ""

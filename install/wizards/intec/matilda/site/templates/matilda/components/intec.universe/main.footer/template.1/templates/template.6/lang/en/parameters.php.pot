@@ -1,0 +1,58 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.footer/template.1/templates/template.6/lang/en/parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_USE%27]
+msgid "Использовать расширенные контакты"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_IBLOCK_TYPE%27]
+msgid "Контакты. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_IBLOCK_ID%27]
+msgid "Контакты. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_ADDRESS_SHOW%27]
+msgid "Контакты. Отображать адрес"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_PHONE_SHOW%27]
+msgid "Контакты. Отображать телефон"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_PROPERTY_ADDRESS%27]
+msgid "Контакты. Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_PROPERTY_PHONE%27]
+msgid "Контакты. Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_PROPERTY_REGION%27]
+msgid "Контакты. Свойство \"Регион\""
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_REGIONALITY_USE%27]
+msgid "Контакты. Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_6_CONTACTS_REGIONALITY_STRICT%27]
+msgid "Контакты. Отображать только контакты, у которых заполнен регион"
+msgstr ""

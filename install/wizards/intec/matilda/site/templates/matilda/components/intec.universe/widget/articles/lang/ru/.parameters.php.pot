@@ -1,0 +1,78 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/widget/articles/lang/ru/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:30-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27A_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27A_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27A_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27A_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27A_SECTIONS_ID%27]
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27A_ELEMENTS_ID%27]
+msgid "\"Элементы\""
+msgstr ""
+
+#: %24MESS[%27A_ELEMENTS_COUNT%27]
+msgid "Кол-во элементов"
+msgstr ""
+
+#: %24MESS[%27A_HEADER_SHOW%27]
+msgid "Отображать заголовок для виджета"
+msgstr ""
+
+#: %24MESS[%27A_HEADER_CENTER%27]
+msgid "Отображать заголовок по центру"
+msgstr ""
+
+#: %24MESS[%27A_HEADER%27]
+msgid "Заголовок для виджета"
+msgstr ""
+
+#: %24MESS[%27A_DESCRIPTION_SHOW%27]
+msgid "Отображать описание для виджета"
+msgstr ""
+
+#: %24MESS[%27A_DESCRIPTION_CENTER%27]
+msgid "Отображать описание по центру"
+msgstr ""
+
+#: %24MESS[%27A_DESCRIPTION%27]
+msgid "Описание для виджета"
+msgstr ""
+
+#: %24MESS[%27A_BIG_FIRST_BLOCK%27]
+msgid "Большой первый блок"
+msgstr ""
+
+#: %24MESS[%27A_HEADER_ELEMENT_SHOW%27]
+msgid "Отображать заголовок элементов"
+msgstr ""
+
+#: %24MESS[%27A_DESCRIPTION_ELEMENT_SHOW%27]
+msgid "Отображать описание элементов"
+msgstr ""

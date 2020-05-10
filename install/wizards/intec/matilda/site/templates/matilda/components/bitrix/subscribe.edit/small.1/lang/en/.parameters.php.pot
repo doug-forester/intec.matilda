@@ -1,0 +1,78 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/subscribe.edit/small.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_RUBRICSHIDDEN_SHOW%27]
+msgid "Показать скрытые рубрики подписки"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_RUBRICS%27]
+msgid ""
+"Отображаемые рубрики подписки (если значение не установлено, выводятся все, "
+"доступные в списке)"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_RUBRICS_HIDDEN_USE%27]
+msgid "Использовать скрытые рубрики для обязательной подписки"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_RUBRICS_HIDDEN%27]
+msgid ""
+"Скрытые рубрики для обязательной подписки (если выбраны отображаемые рубрики)"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_RUBRICS_NAME_HIDDEN%27]
+msgid "(Скрытая)"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_SHOW%27]
+msgid "Отображать заголовок блока"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_POSITION%27]
+msgid "Расположение заголовка блока"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_TEXT%27]
+msgid "Текст заголовка"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_HEADER_TEXT_DEFAULT%27]
+msgid "Подписывайтесь на новости и акции:"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_SHOW_AUTH_LINKS%27]
+msgid "Показывать ссылки на авторизацию при анонимной подписке"
+msgstr ""
+
+#: %24MESS[%27C_SUBSCRIBE_EDIT_SMALL_1_AUTH_URL%27]
+msgid "Адрес страницы авторизации"
+msgstr ""
+
+#: %24MESS[%27%27]
+msgctxt "$MESS['']"
+msgid ""
+msgstr ""

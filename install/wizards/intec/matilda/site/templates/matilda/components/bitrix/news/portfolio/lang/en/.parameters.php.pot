@@ -1,0 +1,195 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news/portfolio/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_PROPERTY_TYPE%27]
+msgid "Свойство \"Тип"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_WIDE%27]
+msgid "Во всю ширину"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_TABS_USE%27]
+msgid "Использовать вкладки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_TABS_POSITION%27]
+msgid "Расположение вкладок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_BANNER_TYPE%27]
+msgid "Баннер. Свойство \"Тип сайта\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_BANNER_URL%27]
+msgid "Баннер. Свойство \"Адрес сайта\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_BANNER_IMAGE%27]
+msgid "Баннер. Свойство \"Доп. изображение\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_CHARACTERISTICS%27]
+msgid "Характеристики проекта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_INFORMATION%27]
+msgid "Информация о проекте"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_FEATURES%27]
+msgid "Особенности проекта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_EXAMPLE%27]
+msgid "Пример выполненной работы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_RESULT%27]
+msgid "Свойство \"Результат\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_REVIEW%27]
+msgid "Свойство \"Отзыв\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_SERVICES%27]
+msgid "Свойство \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_SERVICES_IBLOCK_TYPE%27]
+msgid "Оказанные услуги. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_SERVICES_IBLOCK_ID%27]
+msgid "Оказанные услуги. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_PROJECTS%27]
+msgid "Свойство \"Другие работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_SHOW%27]
+msgid "Отображать баннер"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_HEIGHT%27]
+msgid "Баннер. Высота (пиксели)"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_TYPE%27]
+msgid "Баннер. Отображать тип сайта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_URL%27]
+msgid "Баннер. Отображать ссылку на сайт"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_BUTTON%27]
+msgid "Баннер. Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_BUTTON_DEFAULT%27]
+msgid "Смотреть сайт"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_BANNER_IMAGE%27]
+msgid "Баннер. Отображать доп. изображение баннера"
+msgstr ""
+
+#: %24MESS[%27%27]
+msgctxt "$MESS['']"
+msgid ""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_CHARACTERISTICS_SHOW%27]
+msgid "Отображать характеристики проекта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_CHARACTERISTICS_COLUMNS%27]
+msgid "Характеристики. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_INFORMATION_SHOW%27]
+msgid "Отображать информацию о проекте"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_INFORMATION_COLUMNS%27]
+msgid "Информация о проекте. Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_FEATURES_SHOW%27]
+msgid "Отображать особенности проекта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_FEATURES_NARROW%27]
+msgid "Особенности проекта. Узкий блок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_EXAMPLE_SHOW%27]
+msgid "Отображать примеры выполенной работы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_EXAMPLE_SHADOW%27]
+msgid "Примеры выполненных работ. Отображать тень на изображениях"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_RESULT_SHOW%27]
+msgid "Отображать блок \"Результат\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_RESULT_NARROW%27]
+msgid "Блок \"Результат\". Узкий блок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_RESULT_BACKGROUND%27]
+msgid "Блок \"Результат\". Использовать затемненный фон"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_REVIEW_SHOW%27]
+msgid "Отображать блок \"Отзыв\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_REVIEW_NARROW%27]
+msgid "Блок \"Отзыв\". Узкий блок"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_SERVICES_SHOW%27]
+msgid "Отображать блок \"Оказанные услуги\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_PROPERTY_PROJECTS%27]
+msgid "Отображать блок \"Другие работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_DETAIL_SERVICES_PROPERTY_LINK%27]
+msgid "Оказанные услуги. Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_PORTFOLIO_LIST_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""

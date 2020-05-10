@@ -1,0 +1,112 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/services.tile.3/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_PRICE_SHOW%27]
+msgid "Показывать цену"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_PRICE_POSITION%27]
+msgid "Позиция цены"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_PROPERTY_CATEGORY%27]
+msgid "Свойство \"Категория услуги\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_CATEGORY_SHOW%27]
+msgid "Показывать категорию услуги"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_CATEGORY_POSITION%27]
+msgid "Позиция категории услуги"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_COLUMNS%27]
+msgid "Количество колонок"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_NAME_POSITION%27]
+msgid "Позиция наименования"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_DESCRIPTION_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_DESCRIPTION_POSITION%27]
+msgid "Позиция описания"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_USE%27]
+msgid "Отображать кнопку \"Заказать\""
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_ID%27]
+msgid "\"Заказать\". Форма"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_TEMPLATE%27]
+msgid "\"Заказать\". Шаблон"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_FIELD%27]
+msgid "\"Заказать\". Поле формы для автозаполнения"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_TITLE%27]
+msgid "\"Заказать\". Заголовок формы"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_CONSENT%27]
+msgid "\"Заказать\". Ссылка на страницу с соглашением обработки личных данных"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_BUTTON%27]
+msgid "\"Заказать\". Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_BUTTON_POSITION%27]
+msgid "\"Заказать\". Позиция кнопки"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_FORM_TITLE_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_BUTTON_DEFAULT%27]
+msgctxt "$MESS['C_BITRIX_CATALOG_SECTION_SERVICES_TILE_3_ORDER_BUTTON_DEFAULT']"
+msgid "Заказать"
+msgstr ""

@@ -1,0 +1,40 @@
+#. extracted from install/modules/intec.startshop/install/components/intec/startshop.order/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SO_GROUP_URL%22]
+msgid "Настройка переадресации"
+msgstr ""
+
+#: %24MESS[%22SO_URL_BASKET_EMPTY%22]
+msgid "Переадресация на страницу, если корзина пуста"
+msgstr ""
+
+#: %24MESS[%22SO_URL_ORDER_CREATED%22]
+msgid "Переадресация на страницу, после завершения оформления заказа"
+msgstr ""
+
+#: %24MESS[%22SO_URL_ORDER_CREATED_TO_USER%22]
+msgid ""
+"Переадресация на страницу, после завершения оформления заказа (если "
+"пользователь был найден по логину или эл. почте)"
+msgstr ""
+
+#: %24MESS[%22SO_CURRENCY%22]
+msgid "Валюта"
+msgstr ""
+
+#: %24MESS[%22SO_REQUEST_VARIABLE_ACTION%22]
+msgid "Переменная, в которой передается действие"
+msgstr ""

@@ -1,0 +1,100 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/currency.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgctxt "$MESS['title']"
+msgid "Валюты"
+msgstr ""
+
+#: %24MESS[%27table.header.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27table.header.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27table.header.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27table.header.base%27]
+msgid "Базовая валюта"
+msgstr ""
+
+#: %24MESS[%27table.header.name%27]
+msgid "Название"
+msgstr ""
+
+#: %24MESS[%27table.header.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27table.header.rating%27]
+msgid "Номинал"
+msgstr ""
+
+#: %24MESS[%27table.header.rate%27]
+msgid "Курс"
+msgstr ""
+
+#: %24MESS[%27actions.delete%27]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27actions.edit%27]
+msgid "Изменить"
+msgstr ""
+
+#: %24MESS[%27actions.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27actions.activate%27]
+msgid "Активировать"
+msgstr ""
+
+#: %24MESS[%27actions.deactivate%27]
+msgid "Деактивировать"
+msgstr ""
+
+#: %24MESS[%27actions.base%27]
+msgid "Сделать базовой"
+msgstr ""
+
+#: %24MESS[%27actions.group.delete%27]
+msgid "удалить"
+msgstr ""
+
+#: %24MESS[%27actions.group.activate%27]
+msgid "активировать"
+msgstr ""
+
+#: %24MESS[%27actions.group.deactivate%27]
+msgid "деактивировать"
+msgstr ""
+
+#: %24MESS[%27nav.title%27]
+msgctxt "$MESS['nav.title']"
+msgid "Валюты"
+msgstr ""
+
+#: %24MESS[%27active.yes%27]
+msgid "Да"
+msgstr ""
+
+#: %24MESS[%27active.no%27]
+msgid "Нет"
+msgstr ""

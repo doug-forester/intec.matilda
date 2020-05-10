@@ -1,0 +1,32 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/form.result.new/.default/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_FORM_RESULT_NEW_DEFAULT_FIELDS_CAPTCHA%27]
+msgid "Введите проверочный код"
+msgstr ""
+
+#: %24MESS[%27C_FORM_RESULT_NEW_DEFAULT_CONSENT%27]
+msgid ""
+"Я согласен(а) на <a href=\"#URL#\" target=\"_blank\">обработку персональных "
+"данных</a>"
+msgstr ""
+
+#: %24MESS[%27C_FORM_RESULT_NEW_DEFAULT_BUTTONS_SUBMIT%27]
+msgid "Отправить"
+msgstr ""
+
+#: %24MESS[%27C_FORM_RESULT_NEW_DEFAULT_BUTTONS_RESET%27]
+msgid "Сбросить"
+msgstr ""

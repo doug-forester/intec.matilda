@@ -1,0 +1,108 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/delivery/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить способ доставки"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактирование способа доставки"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Способ доставки"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Способ доставки с таким кодом уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Способ доставки успешно добавлен!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Способ доставки успешно изменен!"
+msgstr ""
+
+#: %24MESS[%27fields.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27fields.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27fields.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27fields.site%27]
+msgid "Сайт"
+msgstr ""
+
+#: %24MESS[%27fields.price%27]
+msgid "Цена"
+msgstr ""
+
+#: %24MESS[%27fields.price.description%27]
+msgid ""
+"Если поле <b>Цена</b> будет <b>пустым</b> или равно <b>0</b>, то способ "
+"доставки будет считатся <b>бесплатным</b>. Цена доставки указывается в <b>"
+"единицах базовой валюты</b>."
+msgstr ""
+
+#: %24MESS[%27fields.fields%27]
+msgid "Дополнительные поля"
+msgstr ""
+
+#: %24MESS[%27fields.fields.description%27]
+msgid ""
+"Выбранные поля в поле <b>Дополнительные поля</b> будут выводиться только в "
+"том случае, если при оформлении заказа <b>будет выбран</b> данный способ "
+"доставки."
+msgstr ""
+
+#: %24MESS[%27fields.field.not_selected%27]
+msgid "(не выбрано)"
+msgstr ""
+
+#: %24MESS[%27fields.language.caption%27]
+msgid "Языковые настройки"
+msgstr ""
+
+#: %24MESS[%27fields.language.language%27]
+msgid "Язык"
+msgstr ""
+
+#: %24MESS[%27fields.language.name%27]
+msgid "Название"
+msgstr ""

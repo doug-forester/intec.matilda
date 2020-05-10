@@ -1,0 +1,104 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/catalog.list.2/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_FORM_TITLE%27]
+msgctxt "$MESS['C_CATALOG_SECTION_CATALOG_LIST_2_FORM_TITLE']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_MARKS_RECOMMEND%27]
+msgid "Советуем"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_MARKS_NEW%27]
+msgid "Новинка"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_MARKS_HIT%27]
+msgid "Хит"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_BUTTON_ADD%27]
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_BUTTON_ADDED%27]
+msgid "Добавлено"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_BUTTON_DETAIL%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_BUTTON_ORDER%27]
+msgctxt "$MESS['C_CATALOG_SECTION_CATALOG_LIST_2_BUTTON_ORDER']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_FORM%27]
+msgid "От"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_TITLE%27]
+msgid "Цена за <span data-role=\"price.measure\">#MEASURE#</span>"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_RANGE_TITLE%27]
+msgid "Цены за #MEASURE#"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_RANGE_FROM_TO%27]
+msgctxt "$MESS['C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_RANGE_FROM_TO']"
+msgid "#FROM# – #TO#"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_RANGE_FROM%27]
+msgid "#FROM#+"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_RANGE_TO%27]
+msgctxt "$MESS['C_CATALOG_SECTION_CATALOG_LIST_2_PRICE_RANGE_TO']"
+msgid "#FROM# – #TO#"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_LAZY_TEXT%27]
+msgid "Показать еще"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_QUANTITY_RATIO%27]
+msgid ""
+"Кратность<br> заказа <span class=\"catalog-element-ratio-value intec-cl-"
+"text\">#QUANTITY_RATIO# #MEASURE#</span>"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_QUANTITY_AVAILABLE%27]
+msgid "В наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_QUANTITY_UNAVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_QUANTITY_BOUNDS_MANY%27]
+msgid "Много"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_QUANTITY_BOUNDS_ENOUGH%27]
+msgid "Достаточно"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_CATALOG_LIST_2_QUANTITY_BOUNDS_FEW%27]
+msgid "Мало"
+msgstr ""

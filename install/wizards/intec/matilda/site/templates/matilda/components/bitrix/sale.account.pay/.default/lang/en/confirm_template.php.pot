@@ -1,0 +1,29 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.account.pay/.default/lang/en/confirm_template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SAP_ORDER_SUC%22]
+msgid ""
+"Your order <b>##ORDER_ID#</b> of #ORDER_DATE# has been created successfully."
+msgstr ""
+
+#: %24MESS[%22SAP_PAYMENT_SUC%22]
+msgid "Your payment ID: <b>#PAYMENT_ID#</b>"
+msgstr ""
+
+#: %24MESS[%22SAP_PAY_LINK%22]
+msgid ""
+"If you don't see any payment information, click here: <a href=\"#LINK#\" "
+"target=\"_blank\">Pay and place order</a>."
+msgstr ""

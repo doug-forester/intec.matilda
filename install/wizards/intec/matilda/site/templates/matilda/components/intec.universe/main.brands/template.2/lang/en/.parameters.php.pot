@@ -1,0 +1,86 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.brands/template.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_COLUMNS%27]
+msgid "Кол-во элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_LINK_USE%27]
+msgid "Использовать ссылку на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_BACKGROUND_USE%27]
+msgid "Использовать задний фон"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_BACKGROUND_THEME%27]
+msgid "Задний фон. Цвет заливки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_OPACITY%27]
+msgid "Прозрачность элементов (0 - 100)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_GRAYSCALE%27]
+msgid "Черно-белый фильтр"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_FOOTER_SHOW%27]
+msgid "Отображать нижний блок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_FOOTER_POSITION%27]
+msgid "Расположение нижнего блока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_FOOTER_BUTTON_SHOW%27]
+msgid "Отображать кнопку \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_FOOTER_BUTTON_TEXT%27]
+msgid "Текст кнопки \"Показать все\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_BACKGROUND_THEME_LIGHT%27]
+msgid "Светлый"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_BACKGROUND_THEME_DARK%27]
+msgid "Темный"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_BRANDS_TEMPLATE_2_FOOTER_BUTTON_TEXT_DEFAULT%27]
+msgid "Показать все"
+msgstr ""

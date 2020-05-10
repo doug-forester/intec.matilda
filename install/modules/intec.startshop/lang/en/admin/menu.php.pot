@@ -1,0 +1,82 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/menu.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27menu.name%27]
+msgid "Магазин"
+msgstr ""
+
+#: %24MESS[%27menu.settings.name%27]
+msgid "Настройки"
+msgstr ""
+
+#: %24MESS[%27menu.settings.catalog.name%27]
+msgid "Торговые каталоги"
+msgstr ""
+
+#: %24MESS[%27menu.settings.sites.name%27]
+msgid "Параметры сайтов"
+msgstr ""
+
+#: %24MESS[%27menu.settings.order.name%27]
+msgid "Заказ"
+msgstr ""
+
+#: %24MESS[%27menu.settings.order.fields.name%27]
+msgid "Свойства"
+msgstr ""
+
+#: %24MESS[%27menu.settings.order.statuses.name%27]
+msgid "Статусы"
+msgstr ""
+
+#: %24MESS[%27menu.settings.price.name%27]
+msgid "Типы цен"
+msgstr ""
+
+#: %24MESS[%27menu.settings.delivery.name%27]
+msgid "Способы доставки"
+msgstr ""
+
+#: %24MESS[%27menu.settings.currency.name%27]
+msgid "Валюты"
+msgstr ""
+
+#: %24MESS[%27menu.settings.payment.name%27]
+msgid "Способы оплаты"
+msgstr ""
+
+#: %24MESS[%27menu.settings.1c.name%27]
+msgid "Обмен данными с \"1С: Предприятие\""
+msgstr ""
+
+#: %24MESS[%27menu.settings.rights.name%27]
+msgid "Права"
+msgstr ""
+
+#: %24MESS[%27menu.orders.name%27]
+msgid "Заказы"
+msgstr ""
+
+#: %24MESS[%27menu.forms.name%27]
+msgid "Веб формы"
+msgstr ""
+
+#: %24MESS[%27menu.import.name%27]
+msgid "Импорт товаров"
+msgstr ""
+
+#: %24MESS[%27menu.export.name%27]
+msgid "Экспорт товаров"
+msgstr ""

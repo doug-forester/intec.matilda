@@ -1,0 +1,54 @@
+#. extracted from install/modules/intec.startshop/install/components/intec/startshop.basket.basket.small/templates/.flying/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27SBBS_FLYING_PRODUCTS%27]
+msgid "Товаров в корзине"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_FIELD_NAME%27]
+msgid "Наименование"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_FIELD_PRICE%27]
+msgid "Цена"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_FIELD_COUNT%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_FIELD_TOTAL%27]
+msgid "Итого"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_BUTTONS_BUY%27]
+msgid "Продолжить покупки"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_BUTTONS_CART%27]
+msgid "Перейти в корзину"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_BUTTONS_ORDER%27]
+msgid "Оформить заказ"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_EMPTY%27]
+msgid "Ваша корзина пуста"
+msgstr ""
+
+#: %24MESS[%27SBBS_FLYING_BUTTONS_FAST_ORDER%27]
+msgid "Быстрый заказ"
+msgstr ""

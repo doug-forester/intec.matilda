@@ -1,0 +1,42 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.footer/template.1/templates/template.2/lang/en/parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS%27]
+msgid "Иконки"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS_ALFABANK%27]
+msgid "Альфабанк"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS_SBERBANK%27]
+msgid "Сбербанк"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS_QIWI%27]
+msgid "Qiwi"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS_YANDEXMONEY%27]
+msgid "Яндекс.Деньги"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS_VISA%27]
+msgid "VISA"
+msgstr ""
+
+#: %24MESS[%27C_FOOTER_TEMPLATE_1_VIEW_2_ICONS_MASTERCARD%27]
+msgid "MasterCard"
+msgstr ""

@@ -1,0 +1,150 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/quick.view.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_PROPERTY_MARKS_HIT%27]
+msgid "Свойство \"Хит\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_PROPERTY_MARKS_NEW%27]
+msgid "Свойство \"Новинка\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_PROPERTY_MARKS_RECOMMEND%27]
+msgid "Свойство \"Рекомендуем\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_PROPERTY_PICTURES%27]
+msgid "Свойство \"Доп. изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_OFFERS_PROPERTY_PICTURES%27]
+msgid "Свойство предложений \"Доп. изображения\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_DELAY_USE%27]
+msgid "Использовать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_MARKS_SHOW%27]
+msgid "Показывать маркеры"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_MARKS_ORIENTATION%27]
+msgid "Мaркеры. Расположение"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_GALLERY_PREVIEW%27]
+msgid "Галерея. Показывать превью изображений"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_SHOW%27]
+msgid "Показывать количество товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_MODE%27]
+msgid "Количество товара. Тип отображения"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_BOUNDS_FEW%27]
+msgid "Количество товара. Граница количества для \"Мало\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_BOUNDS_MANY%27]
+msgid "Количество товара. Граница количества для \"Много\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_ACTION%27]
+msgid "Кнопка покупки. Действия с товаром"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_COUNTER_SHOW%27]
+msgid "Показывать счетчик количества добавляемого в корзину товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_DESCRIPTION_SHOW%27]
+msgid "Показывать описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_DESCRIPTION_MODE%27]
+msgid "Режим описания"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_DESCRIPTION_MODE_PREVIEW%27]
+msgid "Текст анонса"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_DESCRIPTION_MODE_DETAIL%27]
+msgid "Детальный текст"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_PROPERTIES_SHOW%27]
+msgid "Выводить список отображаемых свойств"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_DETAIL_SHOW%27]
+msgid "Показывать ссылку на детальную страницу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_MARKS_ORIENTATION_HORIZONTAL%27]
+msgid "Горизонтально"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_MARKS_ORIENTATION_VERTICAL%27]
+msgid "Вертикально"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_FORM_ID%27]
+msgid "Форма для заказа товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_FORM_PROPERTY_PRODUCT%27]
+msgid "Поле формы заказа для наименования товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_FORM_TEMPLATE%27]
+msgid "Шаблон формы заказа товара"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу с пользовательским соглашением"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_MODE_NUMBER%27]
+msgid "Число"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_MODE_TEXT%27]
+msgid "Много/Мало"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_QUANTITY_MODE_LOGIC%27]
+msgid "Доступно/Недоступно"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_ACTION_NONE%27]
+msgid "Не показывать кнопку"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_ACTION_BUY%27]
+msgid "Добавление в корзину"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_QUICK_VIEW_2_ACTION_DETAIL%27]
+msgid "Ссылка на детальную страницу"
+msgstr ""

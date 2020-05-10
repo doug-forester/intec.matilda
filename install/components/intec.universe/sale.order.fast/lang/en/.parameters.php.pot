@@ -1,0 +1,58 @@
+#. extracted from install/components/intec.universe/sale.order.fast/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:27-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_ORDER_FAST_VARIABLES_ACTION%27]
+msgid "Параметр запроса в котором передается действие"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_VARIABLES_VALUES%27]
+msgid "Параметр запроса в котором передаются значения полей заказа"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_CURRENCY%27]
+msgid "Валюта"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_CURRENCY_DEFAULT%27]
+msgid "(Валюта по умолчанию)"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_DELIVERY%27]
+msgid "Способ доставки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_PAYMENT%27]
+msgid "Способ оплаты"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_STATUS%27]
+msgid "Статус заказа"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_PERSON%27]
+msgid "Тип плательщика"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_PROPERTIES%27]
+msgid "Свойства заказа"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_EMPTY%27]
+msgid "(Не выбрано)"
+msgstr ""
+
+#: %24MESS[%27C_SALE_ORDER_FAST_FIELDS_COMMENT_USE%27]
+msgid "Показывать поле для ввода комментария"
+msgstr ""

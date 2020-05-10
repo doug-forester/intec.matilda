@@ -1,0 +1,155 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.widget/contacts.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_MAIN%27]
+msgid "Главный контакт"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_PROPERTY_CITY%27]
+msgid "Свойство \"Город\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_PROPERTY_ADDRESS%27]
+msgid "Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_PROPERTY_PHONE%27]
+msgid "Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_PROPERTY_MAP%27]
+msgid "Свойство \"Местоположение\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_ADDRESS_SHOW%27]
+msgid "Показывать \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_PHONE_SHOW%27]
+msgid "Показывать \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_SETTINGS_USE%27]
+msgctxt "$MESS['C_WIDGET_CONTACTS_1_SETTINGS_USE']"
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_MAP_VENDOR%27]
+msgid "Карта"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_MAP_VENDOR_YANDEX%27]
+msgid "Яндекс"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_MAP_VENDOR_GOOGLE%27]
+msgid "Google"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_SHOW_FORM%27]
+msgid "Показывать форму обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_WEB_FORM_TEMPLATE%27]
+msgid "Шаблон формы обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_WEB_FORM_ID%27]
+msgid "Веб форма"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_WEB_FORM_NAME%27]
+msgid "Заголовок веб формы"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_WEB_FORM_CONSENT_URL%27]
+msgid "Url соглашения на обработку персональных данных"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_FEEDBACK_BUTTON_TEXT%27]
+msgid "Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_FEEDBACK_IMAGE%27]
+msgid "Путь до изображения блока обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_FEEDBACK_IMAGE_SHOW%27]
+msgid "Показывать изображение в блоке обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_FEEDBACK_TEXT%27]
+msgid "Текст блока обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_FEEDBACK_TEXT_SHOW%27]
+msgid "Показывать текст блока обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_REGIONALITY_FILTER_USE%27]
+msgid "Мультирегиональность. Использовать фильтр по региону"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_REGIONALITY_FILTER_PROPERTY%27]
+msgid "Мультирегиональность. Свойство фильтра по региону"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_REGIONALITY_FILTER_STRICT%27]
+msgid "Мультирегиональность. Выводить только товары у которых выбран регион"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_REGIONALITY_PRICES_TYPES_USE%27]
+msgid "Мультирегиональность. Использовать типы цен региона"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_IBLOCK_TYPE%27]
+msgid "Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_IBLOCK_ID%27]
+msgid "Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_TITLE%27]
+msgid "Заголовок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_TITLE_SHOW%27]
+msgid "Отображать заголовок"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_DESCRIPTION%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_DESCRIPTION_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_NEWS_COUNT%27]
+msgid "Количество элементов"
+msgstr ""
+
+#: %24MESS[%27C_WIDGET_CONTACTS_1_PROPERTY_CODE%27]
+msgid "Свойства"
+msgstr ""

@@ -1,0 +1,42 @@
+#. extracted from install/wizards/intec/matilda/lang/en/site/services/.services.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:28-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27wizard.services.main%27]
+msgid "Копирование файлов и создание структуры"
+msgstr ""
+
+#: %24MESS[%27wizard.services.form%27]
+msgid "Настройка веб-форм"
+msgstr ""
+
+#: %24MESS[%27wizard.services.highloadblock%27]
+msgid "Импорт highload-блоков"
+msgstr ""
+
+#: %24MESS[%27wizard.services.iblock%27]
+msgid "Импорт инфоблоков"
+msgstr ""
+
+#: %24MESS[%27wizard.services.sale%27]
+msgid "Настройка магазина"
+msgstr ""
+
+#: %24MESS[%27wizard.services.regionality%27]
+msgid "Настройка мультирегиональности"
+msgstr ""
+
+#: %24MESS[%27wizard.services.link%27]
+msgid "Привязка данных"
+msgstr ""

@@ -1,0 +1,30 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/sale.personal.section/.default/lang/en/subscribe.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SPS_CHAIN_MAIN%22]
+msgid "Мой кабинет"
+msgstr ""
+
+#: %24MESS[%22SPS_CHAIN_SUBSCRIBE%22]
+msgid "Список подписок пользователя"
+msgstr ""
+
+#: %24MESS[%22SPS_TITLE_SUBSCRIBE%22]
+msgid "Мои подписки"
+msgstr ""
+
+#: %24MESS[%22SPS_CHAIN_SUBSCRIBE_NEW%22]
+msgid "Ваши подписки"
+msgstr ""

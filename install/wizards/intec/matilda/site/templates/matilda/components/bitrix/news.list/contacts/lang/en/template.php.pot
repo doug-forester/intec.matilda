@@ -1,0 +1,73 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news.list/contacts/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_PHONE%27]
+msgid "Телефон"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_WORK_TIME%27]
+msgid "Время работы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_PROPERTY_EMAIL%27]
+msgid "Электронная почта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_SHOPS%27]
+msgid "Наши магазины"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_SHOPS_PHONE%27]
+msgctxt "$MESS['C_NEWS_LIST_CONTACTS_LIST_SHOPS_PHONE']"
+msgid "Тел."
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_SHOPS_SHOW_ON_MAP%27]
+msgctxt "$MESS['C_NEWS_LIST_CONTACTS_LIST_SHOPS_SHOW_ON_MAP']"
+msgid "Показать на карте"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES%27]
+msgid "Региональные представительства"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES_DESCRIPTION%27]
+msgid ""
+"Наша компания имеет широкую сеть региональных представительств и дилеров. Вы "
+"можете обратиться в ближайший к Вам офис для получения дополнительных "
+"консультаций."
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES_ADDRESS%27]
+msgid "Адрес"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES_WORK_TIME%27]
+msgid "Часы работы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES_CONTACTS%27]
+msgid "Контакты"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES_PHONE%27]
+msgctxt "$MESS['C_NEWS_LIST_CONTACTS_LIST_OFFICES_PHONE']"
+msgid "Тел."
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_LIST_OFFICES_SHOW_ON_MAP%27]
+msgctxt "$MESS['C_NEWS_LIST_CONTACTS_LIST_OFFICES_SHOW_ON_MAP']"
+msgid "Показать на карте"
+msgstr ""

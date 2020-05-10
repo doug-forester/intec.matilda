@@ -1,0 +1,99 @@
+#. extracted from install/wizards/intec/matilda/site/public/en/.top.menu.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:28-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Каталог товаров"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#catalog/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgctxt "$aMenuLinks->'None'->'None'"
+msgid ""
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Услуги"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#services/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Акции"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#shares/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Компания"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#company/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Блог"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#blog/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Проекты"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#projects/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Видеогалерея"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#video/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Фотогалерея"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#photo/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Помощь"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#help/"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "Контакты"
+msgstr ""
+
+#: %24aMenuLinks-%3E%27None%27-%3E%27None%27
+msgid "#SITE_DIR#contacts/"
+msgstr ""

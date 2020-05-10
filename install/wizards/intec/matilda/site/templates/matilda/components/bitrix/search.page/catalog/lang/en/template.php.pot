@@ -1,0 +1,171 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/search.page/catalog/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22CT_BSP_ALL%22]
+msgid "(all)"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_GO%22]
+msgid "Search"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_ITEM_TAGS%22]
+msgid "Tags"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_DATE_CHANGE%22]
+msgid "Modified"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_FOUND%22]
+msgid "Found"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_ORDER%22]
+msgid "Sorted by"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_ORDER_BY_RANK%22]
+msgid "relevance"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_ORDER_BY_DATE%22]
+msgctxt "$MESS[\"CT_BSP_ORDER_BY_DATE\"]"
+msgid "date"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_ADVANCED_SEARCH%22]
+msgid "Advanced Search"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_WHERE_LABEL%22]
+msgid "Where"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_TAGS%22]
+msgid "tags"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_WHERE%22]
+msgid "section"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_EVERYWHERE%22]
+msgctxt "$MESS[\"CT_BSP_EVERYWHERE\"]"
+msgid "all"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_WHEN%22]
+msgctxt "$MESS[\"CT_BSP_WHEN\"]"
+msgid "date"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_DATES_FROM_TO%22]
+msgid "from #FROM# to #TO#"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_DATES_FROM%22]
+msgid "from #FROM#"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_DATES_TO%22]
+msgid "to #TO#"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_DATES_ALL%22]
+msgctxt "$MESS[\"CT_BSP_DATES_ALL\"]"
+msgid "all"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_ERROR%22]
+msgid "Error in search phrase:"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_CORRECT_AND_CONTINUE%22]
+msgid "Please correct the search phrase and try again."
+msgstr ""
+
+#: %24MESS[%22CT_BSP_SINTAX%22]
+msgid ""
+"<b>Search query syntax:</b><br /><br />A common search query is one or more "
+"words, for example:<br /><i>contact information</i><br />This query will "
+"find pages containing both query words.<br /><br />Logical operators allow "
+"building more complex queries, for example: <br /><i>contact information or "
+"phone</i><br />This query will find pages containing either words "
+"&quot;contact&quot; and &quot;information&quot; or &quot;phone&quot;.<br /><"
+"br /> <i>contact information not phone</i><br /> This query will find pages "
+"containing words &quot;contact&quot; and &quot;information&quot; but not "
+"&quot;phone&quot;.<br /> You can use brackets to build more complex queries.<"
+"br />"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_LOGIC%22]
+msgid "Logical operators:"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_OPERATOR%22]
+msgid "Operator"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_SYNONIM%22]
+msgid " Synonyms"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_DESCRIPTION%22]
+msgid "Description"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_AND%22]
+msgid "and"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_AND_ALT%22]
+msgid ""
+"Operator <i>logical and</i> is implied and can be omitted: a query &quot;"
+"contact information&quot; is fully equivalent to &quot;contact and "
+"information&quot;."
+msgstr ""
+
+#: %24MESS[%22CT_BSP_OR%22]
+msgid "or"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_OR_ALT%22]
+msgid ""
+"Operator <i>logical or</i> allows searching for entities containing at least "
+"one of the operands."
+msgstr ""
+
+#: %24MESS[%22CT_BSP_NOT%22]
+msgid "not"
+msgstr ""
+
+#: %24MESS[%22CT_BSP_NOT_ALT%22]
+msgid ""
+"Operator <i>logical not</i> restricts searches to pages not containing the "
+"operand."
+msgstr ""
+
+#: %24MESS[%22CT_BSP_BRACKETS_ALT%22]
+msgid "<i>Round brackets</i> define the logical operator precedence."
+msgstr ""
+
+#: %24MESS[%22CT_BSP_NOTHING_TO_FOUND%22]
+msgid "Unfortunately, your search did not match any documents."
+msgstr ""
+
+#: %24MESS[%22CT_BSP_KEYBOARD_WARNING%22]
+msgid "Query input language changed for \"#query#\"."
+msgstr ""

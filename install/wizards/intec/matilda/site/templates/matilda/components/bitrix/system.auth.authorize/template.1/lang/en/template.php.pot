@@ -1,0 +1,80 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/system.auth.authorize/template.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_PLEASE_AUTH%22]
+msgid "Пожалуйста, авторизуйтесь:"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_LOGIN%22]
+msgid "Логин"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_PASSWORD%22]
+msgid "Пароль"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_REMEMBER_ME%22]
+msgid "Запомнить меня"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_AUTHORIZE%22]
+msgid "Войти"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_FIRST_ONE%22]
+msgid "Если вы впервые на сайте, заполните, пожалуйста, регистрационную форму."
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_FORGOT_PASSWORD_2%22]
+msgid "Забыли пароль?"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_CAPTCHA_PROMT%22]
+msgid "Введите слово на картинке"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_TITLE%22]
+msgid "Войти на сайт"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_SECURE_NOTE%22]
+msgid ""
+"Перед отправкой формы авторизации пароль будет зашифрован в браузере. Это "
+"позволит избежать передачи пароля в открытом виде."
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_NONSECURE_NOTE%22]
+msgid ""
+"Пароль будет отправлен в открытом виде. Включите JavaScript в браузере, "
+"чтобы зашифровать пароль перед отправкой."
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_REGISTRATION%22]
+msgid "Зарегистрироваться"
+msgstr ""
+
+#: %24MESS[%22SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_PWS%22]
+msgid "пароль"
+msgstr ""
+
+#: %24MESS[%22TEXT_LABEL%22]
+msgid ""
+"После регистрации на сайте вам будет доступно отслеживание состояния "
+"заказов, личный кабинет и другие новые возможности"
+msgstr ""
+
+#: %24MESS[%27SYSTEM_AUTH_AUTHORIZE_TEMPLATE1_SOCSERV_FORM_TITLE%27]
+msgid "Войти с помощью"
+msgstr ""

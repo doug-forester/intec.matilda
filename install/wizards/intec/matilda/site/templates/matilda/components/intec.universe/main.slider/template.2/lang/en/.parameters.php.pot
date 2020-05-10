@@ -1,0 +1,234 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/main.slider/template.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_USE%27]
+msgid "Использовать доп. блоки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_IBLOCK_TYPE%27]
+msgid "Доп. блоки. Тип инфоблока"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_IBLOCK_ID%27]
+msgid "Доп. блоки. Инфоблок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_MODE%27]
+msgid "Доп. блоки. Режим выбора разделов по символьному коду"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_SECTIONS%27]
+msgid "Доп. блоки. Разделы"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_ELEMENTS_COUNT%27]
+msgid "Доп. блоки. Кол-во выводимых элементов"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_HEADER_OVER%27]
+msgid "Свойство \"Надзаголовок\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_LINK%27]
+msgid "Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_LINK_BLANK%27]
+msgid "Свойство \"Ссылка. Открывать в новой вкладке\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_BUTTON_SHOW%27]
+msgid "Свойство \"Показывать кнопку\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_BUTTON_TEXT%27]
+msgid "Свойство \"Кнопка. Текст\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_TEXT_ALIGN%27]
+msgid "Свойство \"Выравнивание текста\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_TEXT_HALF%27]
+msgid "Свойство \"Текст в пол слайда\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_PICTURE%27]
+msgid "Свойство \"Доп. изображение"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_PICTURE_ALIGN_VERTICAL%27]
+msgid "Свойство \"Вертикальное выравнивание доп. изображения\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_FADE%27]
+msgid "Свойство \"Затемнить фон\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_SCHEME%27]
+msgid "Свойство \"Темный текст\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_VIDEO%27]
+msgid "Свойство \"Видео\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_VIDEO_FILE_MP4%27]
+msgid "Свойство \"Видео файл *.mp4\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_VIDEO_FILE_WEBM%27]
+msgid "Свойство \"Видео файл *.webm\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PROPERTY_VIDEO_FILE_OGV%27]
+msgid "Свойство \"Видео файл *.ogv\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_PROPERTY_LINK%27]
+msgid "Доп. блоки. Свойство \"Ссылка\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_PROPERTY_LINK_BLANK%27]
+msgid "Доп. блоки. Свойство \"Ссылка. Открывать в новой вкладке\""
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_HEIGHT%27]
+msgid "Высота"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_HEADER_SHOW%27]
+msgid "Отображать заголовок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_HEADER_VIEW%27]
+msgid "Заголовок. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_DESCRIPTION_SHOW%27]
+msgid "Отображать описание"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_DESCRIPTION_VIEW%27]
+msgid "Описание. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_HEADER_OVER_SHOW%27]
+msgid "Отображать надзаголовок"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_HEADER_OVER_VIEW%27]
+msgid "Надзаголовок. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BUTTON_VIEW%27]
+msgid "Кнопка. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_PICTURE_SHOW%27]
+msgid "Отображать доп. изображение"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_VIDEO_SHOW%27]
+msgid "Отображать видео. если есть"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_POSITION%27]
+msgid "Доп. блоки. Расположение"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_EFFECT_FADE%27]
+msgid "Доп. блоки. Эффект затемнения при наведении"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_EFFECT_SCALE%27]
+msgid "Доп. блоки. Эффект увеличения фона при наведении"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_INDENT%27]
+msgid "Доп. блоки. Отступы между элементами"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_ROUNDED%27]
+msgid "Скругление (при наличии отступов у элементов, если включены доп. блоки)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_NAV_SHOW%27]
+msgid "Отображать навигационные стрелки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_NAV_VIEW%27]
+msgid "Навигационные стрелки. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_DOTS_SHOW%27]
+msgid "Отображать навигационные точки"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_DOTS_VIEW%27]
+msgid "Навигационные точки. Вид отображения"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_LOOP%27]
+msgid "Слайдер. Зациклить прокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_AUTO_USE%27]
+msgid "Слайдер. Использовать автопрокрутку"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_AUTO_TIME%27]
+msgid "Слайдер. Автопрокрутка. Время задержки перед сменой слайда (мс)"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_SLIDER_AUTO_HOVER%27]
+msgid "Слайдер. Автопрокрутка. Останавливать при наведении курсора на слайдер"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_VIEW_1%27]
+msgid "Вид 1"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_VIEW_2%27]
+msgid "Вид 2"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_VIEW_3%27]
+msgid "Вид 3"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_VIEW_4%27]
+msgid "Вид 4"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_VIEW_5%27]
+msgid "Вид 5"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_MAIN_SLIDER_TEMPLATE_2_BLOCKS_POSITION_BOTH%27]
+msgid "Слева и справа"
+msgstr ""

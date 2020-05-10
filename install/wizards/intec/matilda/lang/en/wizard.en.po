@@ -1,0 +1,219 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:37-0700\n"
+"PO-Revision-Date: 2020-05-09 21:24-0700\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.3\n"
+"X-Poedit-Basepath: ../../../../../..\n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: en\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: %24MESS[%27wizard.steps.begin.title%27]
+msgid "Начало"
+msgstr "Start"
+
+#: %24MESS[%27wizard.steps.begin.description%27]
+#, fuzzy
+msgid "Добро пожаловать в мастер установки лендинга"
+msgstr "Welcome to the Master Landing Installation"
+
+#: %24MESS[%27wizard.steps.begin.noModule%27]
+#, fuzzy
+msgid ""
+"Не установлен модуль \"<a target=\"_blank\" href=\"http://marketplace.1c-"
+"bitrix.ru/solutions/#MODULE_ID#/\">#MODULE_ID#</a>\", возможно он уже есть в "
+"<a target=\"_blank\" href=\"/bitrix/admin/partner_modules.php\">списке</a> "
+"ваших решений, в таком случае вам необходимо просто установить его!"
+msgstr ""
+"Not installed module<a target=\"_blank\" href=\"http://marketplace.1c-bitrix."
+"ru/solutions/#MODULE_ID#/\">\"#MODULE_ID\"</a>\" \" perhaps it is already on "
+"the <a target=\"_blank\" href=\"/bitrix/admin/partner_modules.php\">list of</"
+"a> your solutions, in which case you just need to install it!"
+
+#: %24MESS[%27wizard.steps.mode.title%27]
+#, fuzzy
+msgid "Режим установки"
+msgstr "Installation mode"
+
+#: %24MESS[%27wizard.steps.mode.description%27]
+#, fuzzy
+msgid "Позволяет выбрать режим (обновить или установить)"
+msgstr "Allows you to choose mode (update or install)"
+
+#: %24MESS[%27wizard.steps.dataSite.title%27]
+#, fuzzy
+msgid "Данные сайта"
+msgstr "Site data"
+
+#: %24MESS[%27wizard.steps.dataSite.description%27]
+#, fuzzy
+msgid "Общая информация о сайте"
+msgstr "General information about the site"
+
+#: %24MESS[%27wizard.steps.dataShop.title%27]
+#, fuzzy
+msgid "Данные магазина"
+msgstr "Store data"
+
+#: %24MESS[%27wizard.steps.dataShop.description%27]
+#, fuzzy
+msgid "Общая информация о магазине"
+msgstr "General store information"
+
+#: %24MESS[%27wizard.steps.personTypes.title%27]
+#, fuzzy
+msgid "Типы плательщиков"
+msgstr "Types of payers"
+
+#: %24MESS[%27wizard.steps.locations.title%27]
+#, fuzzy
+msgid "Местоположения"
+msgstr "Location"
+
+#: %24MESS[%27wizard.steps.locations.description%27]
+#, fuzzy
+msgid ""
+"Выберите типы плательщиков, которым вы будете продавать на сайте. Для разных "
+"типов плательщиков возможны различные способы оплаты и доставки, а также "
+"различный набор свойств заказа."
+msgstr ""
+"Choose the types of payers you will sell on the site. Different types of "
+"payers may have different payment and delivery methods, as well as a "
+"different set of order properties."
+
+#: %24MESS[%27wizard.modes.install%27]
+msgid "Установка"
+msgstr "Installation"
+
+#: %24MESS[%27wizard.modes.update%27]
+msgid "Обновление"
+msgstr "Update"
+
+#: %24MESS[%27wizard.persons.fiz%27]
+msgid "Физическое лицо"
+msgstr "Individual"
+
+#: %24MESS[%27wizard.persons.ur%27]
+#, fuzzy
+msgid "Юридическое лицо"
+msgstr "Legal entity"
+
+#: %24MESS[%27wizard.locations.ussr%27]
+#, fuzzy
+msgid "Россия и СНГ (страны и города)"
+msgstr "Russia and CIS (countries and cities)"
+
+#: %24MESS[%27wizard.locations.ua%27]
+msgid "Украина"
+msgstr "Ukraine"
+
+#: %24MESS[%27wizard.locations.kz%27]
+msgid "Казахстан"
+msgstr "Kazakhstan"
+
+#: %24MESS[%27wizard.locations.usa%27]
+#, fuzzy
+msgid "США (города)"
+msgstr "Usa (cities)"
+
+#: %24MESS[%27wizard.locations.country%27]
+#, fuzzy
+msgid "Мир (страны)"
+msgstr "World (countries)"
+
+#: %24MESS[%27wizard.locations.none%27]
+#, fuzzy
+msgid "Не загружать"
+msgstr "Don't download"
+
+#: %24MESS[%27wizard.fields.errors.empty%27]
+#, fuzzy
+msgid "Поле \"#NAME#\" не должно быть пустым"
+msgstr "The \"#NAME\" field should not be empty"
+
+#: %24MESS[%27wizard.fields.siteName%27]
+#, fuzzy
+msgid "Название сайта"
+msgstr "Site name"
+
+#: %24MESS[%27wizard.fields.siteName.value%27]
+#, fuzzy
+msgid "MaTilda"
+msgstr "Matilda"
+
+#: %24MESS[%27wizard.fields.sitePhone%27]
+msgid "Телефон"
+msgstr "Phone"
+
+#: %24MESS[%27wizard.fields.sitePhone.value%27]
+#, fuzzy
+msgid "+7 (000) 000 00 00"
+msgstr "7 (000) 000 00 00"
+
+#: %24MESS[%27wizard.fields.siteAddress%27]
+msgid "Адрес"
+msgstr "Address"
+
+#: %24MESS[%27wizard.fields.siteAddress.value%27]
+#, fuzzy
+msgid "г. Челябинск"
+msgstr "Chelyabinsk"
+
+#: %24MESS[%27wizard.fields.siteMail%27]
+msgid "Эл. почта"
+msgstr "Email"
+
+#: %24MESS[%27wizard.fields.siteMail.value%27]
+#, fuzzy
+msgid "shop@example.com"
+msgstr "shop@example.com"
+
+#: %24MESS[%27wizard.fields.siteMetaDescription%27]
+#, fuzzy
+msgid "Описание сайта (Description)"
+msgstr "Description"
+
+#: %24MESS[%27wizard.fields.siteMetaDescription.value%27]
+msgid "Интернет-магазин"
+msgstr "eShop"
+
+#: %24MESS[%27wizard.fields.siteMetaKeywords%27]
+#, fuzzy
+msgid "Ключевые слова (Keywords)"
+msgstr "Keywords"
+
+#: %24MESS[%27wizard.fields.siteMetaKeywords.value%27]
+#, fuzzy
+msgid "Лендинг"
+msgstr "Landing"
+
+#: %24MESS[%27wizard.fields.shopLocation%27]
+#, fuzzy
+msgid "Местоположение магазина"
+msgstr "Store location"
+
+#: %24MESS[%27wizard.fields.shopLocation.value%27]
+msgid "Челябинск"
+msgstr "Chelyabinsk"
+
+#: %24MESS[%27wizard.fields.systemReplaceTemplate%27]
+#, fuzzy
+msgid "Заменять шаблон конструктора (если существует)"
+msgstr "Replacing the designer template (if there is one)"
+
+#: %24MESS[%27wizard.fields.systemConfigureRegions%27]
+#, fuzzy
+msgid "Настроить регионы мультирегиональности"
+msgstr "Set up multi-regional regions"
+
+#: %24MESS[%27wizard.fields.systemImportIBlocks%27]
+#, fuzzy
+msgid "Импортировать инфоблоки (если не существуют)"
+msgstr "Import infoblocks (if not)"

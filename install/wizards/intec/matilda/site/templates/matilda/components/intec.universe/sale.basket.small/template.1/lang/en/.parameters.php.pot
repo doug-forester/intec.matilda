@@ -1,0 +1,82 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/sale.basket.small/template.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_BASKET_SHOW%27]
+msgid "Отображать корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_DELAYED_SHOW%27]
+msgid "Отображать отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_FORM_SHOW%27]
+msgid "Отображать веб-форму"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_FORM_ID%27]
+msgid "Веб-форма"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_FORM_TITLE%27]
+msgid "Заголовок веб-формы"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_FORM_TITLE_DEFAULT%27]
+msgid "Обратная связь"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_PERSONAL_SHOW%27]
+msgid "Отображать личный кабинет"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_AUTO%27]
+msgid "Открывать при добавлении товара в корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_CATALOG_URL%27]
+msgid "Шаблон страницы каталога"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_BASKET_URL%27]
+msgid "Шаблон страницы корзины"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_ORDER_URL%27]
+msgid "Шаблон страницы оформления заказа"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_COMPARE_URL%27]
+msgid "Шаблон страницы сравнения товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_PERSONAL_URL%27]
+msgid "Шаблон страницы личного кабинета"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_CONSENT_URL%27]
+msgid "Шаблон ссылки на страницу соглашения"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_PANEL_SHOW%27]
+msgid "Отображать мобильную панель"
+msgstr ""

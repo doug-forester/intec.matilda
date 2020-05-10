@@ -1,0 +1,142 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/catalog.default.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_ARTICLE%27]
+msgid "Артикул"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_QUANTITY_AVAILABLE%27]
+msgid "В наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_QUANTITY_UNAVAILABLE%27]
+msgid "Нет в наличии"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_QUANTITY_BOUNDS_MANY%27]
+msgid "Много"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_QUANTITY_BOUNDS_ENOUGH%27]
+msgid "Достаточно"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_QUANTITY_BOUNDS_FEW%27]
+msgid "Мало"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PURCHASE_ORDER%27]
+msgid "Купить"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PURCHASE_ORDERED%27]
+msgid "Добавлено"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PURCHASE_ORDER_FAST%27]
+msgid "Быстрый заказ"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PURCHASE_FORM_ORDER%27]
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_DESCRIPTION%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_PROPERTIES%27]
+msgid "Характеристики"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_DOCUMENTS%27]
+msgid "Документы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_VIDEO%27]
+msgid "Видеообзоры"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_REVIEWS%27]
+msgid "Отзывы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_ADVANTAGES%27]
+msgid "Преимущества"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_ASSOCIATED%27]
+msgid "С этим товаром покупают"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_RECOMMENDED%27]
+msgid "Персональные рекомендации"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_SERVICES%27]
+msgid "Сопутствующие услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SETS%27]
+msgid "Состав комплекта"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SECTIONS_STORES%27]
+msgid "Наличие"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PRICE_RANGE_FROM%27]
+msgid "от"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PRICE_RANGE_TO%27]
+msgid "до"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PRICE_RANGE_MORE%27]
+msgid "и более"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PRICE_DIFFERENCE%27]
+msgid "Экономия "
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PROPERTIES_ALL%27]
+msgid "Все характеристики"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_FORM_TITLE%27]
+msgid "Заказать товар"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SKU_LIST_TITLE%27]
+msgid "Цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_SKU_MORE%27]
+msgid "Подробнее"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_PRICE_FROM%27]
+msgid "от "
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_FORM_CHEAPER_BUTTON%27]
+msgid "Нашли дешевле?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_CATALOG_DEFAULT_1_FORM_CHEAPER_TITLE%27]
+msgid "Нашли дешевле"
+msgstr ""

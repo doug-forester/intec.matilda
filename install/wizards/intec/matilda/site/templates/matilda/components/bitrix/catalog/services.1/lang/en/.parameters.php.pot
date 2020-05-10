@@ -1,0 +1,230 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog/services.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SETTINGS_PROFILE%27]
+msgid "Профиль глобальных настроек"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SETTINGS_PROFILE_SERVICES%27]
+msgid "Услуги"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_REGIONALITY_USE%27]
+msgid "Использовать мультирегиональность"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_REGIONALITY_FILTER_USE%27]
+msgid "Мультирегиональность. Использовать фильтр по региону"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_REGIONALITY_FILTER_PROPERTY%27]
+msgid "Мультирегиональность. Свойство фильтра по региону"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_REGIONALITY_FILTER_STRICT%27]
+msgid "Мультирегиональность. Выводить только услуги у которых выбран регион"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_MENU%27]
+msgid "Меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_MENU_TEMPLATE%27]
+msgid "Шаблон меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_MENU_ROOT%27]
+msgid "Корневой тип меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_MENU_CHILD%27]
+msgid "Вложенный тип меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_MENU_LEVEL%27]
+msgid "Уровень вложенности меню"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT%27]
+msgid "Корневые разделы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_SECTION_DESCRIPTION_SHOW%27]
+msgid "Отображать описание в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION%27]
+msgid "Позиция описания в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_TOP%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_TOP']"
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_SECTIONS_ROOT_SECTION_DESCRIPTION_POSITION_BOTTOM']"
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_CANONICAL_URL_USE%27]
+msgid "Использовать канонический адрес в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_CANONICAL_URL_TEMPLATE%27]
+msgid "Шаблон канонического адреса в корне"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_TEMPLATE%27]
+msgid "Шаблон корневых разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_MENU_SHOW%27]
+msgid "Отображать меню в корневых разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_CONTENT_BEGIN_SHOW%27]
+msgid "Отображать начальный контент в корневых разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_CONTENT_BEGIN_PATH%27]
+msgid "Путь до файла с начальным контентом в корневых разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_CONTENT_END_SHOW%27]
+msgid "Отображать конечный контент в корневых разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_ROOT_CONTENT_END_PATH%27]
+msgid "Путь до файла с конечным контентом в корневых разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN%27]
+msgid "Вложенные разделы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_SHOW%27]
+msgid "Отображать описание в разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION%27]
+msgid "Позиция описания в разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_TOP%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_TOP']"
+msgid "Сверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_SECTION_DESCRIPTION_POSITION_BOTTOM']"
+msgid "Снизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_CANONICAL_URL_USE%27]
+msgid "Использовать канонический адрес вложенных разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_CANONICAL_URL_TEMPLATE%27]
+msgid "Шаблон канонического адреса вложенных разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_TEMPLATE%27]
+msgid "Шаблон вложенных разделов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_MENU_SHOW%27]
+msgid "Отображать меню во вложенных разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_CONTENT_BEGIN_SHOW%27]
+msgid "Отображать начальный контент во вложенных разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_CONTENT_BEGIN_PATH%27]
+msgid "Путь до файла с начальным контентом во вложенных разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_CONTENT_END_SHOW%27]
+msgid "Отображать конечный контент во вложенных разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_SECTIONS_CHILDREN_CONTENT_END_PATH%27]
+msgid "Путь до файла с конечным контентом во вложенных разделах"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_ROOT%27]
+msgid "Корневые элементы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_ROOT_SHOW%27]
+msgid "Отображать корневые элементы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_ROOT_TEMPLATE%27]
+msgid "Шаблон корневых элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_ROOT_POSITION%27]
+msgid "Расположение корневых элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_ROOT_POSITION_TOP%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_LIST_ROOT_POSITION_TOP']"
+msgid "Вверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_ROOT_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_LIST_ROOT_POSITION_BOTTOM']"
+msgid "Внизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_CHILDREN%27]
+msgid "Вложенные элементы"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_CHILDREN_TEMPLATE%27]
+msgid "Шаблон вложенных элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_CHILDREN_POSITION%27]
+msgid "Расположение вложенных элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_CHILDREN_POSITION_TOP%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_LIST_CHILDREN_POSITION_TOP']"
+msgid "Вверху"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LIST_CHILDREN_POSITION_BOTTOM%27]
+msgctxt "$MESS['C_CATALOG_SERVICES_1_LIST_CHILDREN_POSITION_BOTTOM']"
+msgid "Внизу"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_LAZY_LOAD%27]
+msgid "Включить кнопку \"Показать еще\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_DETAIL%27]
+msgid "Детальная страница"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SERVICES_1_DETAIL_TEMPLATE%27]
+msgid "Шаблон детальной страницы"
+msgstr ""

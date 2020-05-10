@@ -1,0 +1,74 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/intec.universe/sale.basket.small/icons.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:31-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_WARNING%27]
+msgid "Выберите шаблон из списка"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_BASKET_TITLE%27]
+msgid "Ваша корзина"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_BASKET_SUM_TITLE%27]
+msgid "Всего:"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_CLEAR%27]
+msgid "Очистить"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_CREATE_ORDER%27]
+msgid "Оформить заказ"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_CONTINUE_SHOPPING%27]
+msgid "Продолжить покупки"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_TO_CATALOG%27]
+msgid "Перейти в каталог"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_DELAYED_TITLE%27]
+msgid "Отложенные товары"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_TO_BASKET%27]
+msgid "Перейти в корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_DECLINE_1%27]
+msgid "товар"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_DECLINE_2%27]
+msgid "товара"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_DECLINE_3%27]
+msgid "товаров"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_BUTTONS_PRODUCT_REMOVE%27]
+msgid "Удалить товар"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_BUTTONS_PRODUCT_ADD%27]
+msgid "В корзину"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_ICONS_1_BUTTONS_PRODUCT_DELAY%27]
+msgid "В избранное"
+msgstr ""

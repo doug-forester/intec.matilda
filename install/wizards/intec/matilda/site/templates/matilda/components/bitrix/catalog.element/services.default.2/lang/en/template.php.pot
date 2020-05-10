@@ -1,0 +1,74 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.element/services.default.2/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_BUTTONS_BACK_TEXT%27]
+msgid "Вернуться"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ORDER_TEXT_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_ORDER_TEXT_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_ORDER_TITLE_DEFAULT']"
+msgid "Заказать"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_BANNER_BUTTON_TEXT_DEFAULT%27]
+msgid "Онлайн-демо"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_DESCRIPTION_NAME_DEFAULT%27]
+msgid "Описание"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_VIDEO_NAME_DEFAULT%27]
+msgid "Видео"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_TAB_INFO_NAME_DEFAULT%27]
+msgid "Установка и документация"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_REVIEWS_FOOTER_SHOW%27]
+msgid "Читать все"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_FORM_TITLE_DEFAULT%27]
+msgid "Заполните форму и мы отправим вам презентацию"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_TITLE_DEFAULT%27]
+msgid "Заполните форму и получите презентацию линейки решений Universe!"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_1_BLOCK_BUTTON_TEXT_DEFAULT%27]
+msgid "Получить презентацию"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_FORM_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_FORM_TITLE_DEFAULT']"
+msgid "Не нашли подходящий пример?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_TITLE_DEFAULT%27]
+msgctxt "$MESS['C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_TITLE_DEFAULT']"
+msgid "Не нашли подходящий пример?"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_ELEMENT_SERVICES_DEFAULT_2_FORM_FEEDBACK_2_BLOCK_BUTTON_TEXT_DEFAULT%27]
+msgid "Получить портфолио"
+msgstr ""

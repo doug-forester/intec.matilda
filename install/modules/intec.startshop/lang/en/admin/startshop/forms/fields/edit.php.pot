@@ -1,0 +1,184 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/forms/fields/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить поле веб формы #NAME#"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактирование поля веб формы #NAME#"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Поле"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Поле с таким кодом уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Поле успешно добавлено!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Поле успешно изменено!"
+msgstr ""
+
+#: %24MESS[%27fields.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27fields.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27fields.sort%27]
+msgctxt "$MESS['fields.sort']"
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.expression%27]
+msgid "Регулярное выражение для проверки"
+msgstr ""
+
+#: %24MESS[%27fields.expression.value%27]
+msgctxt "$MESS['fields.expression.value']"
+msgid "Значение"
+msgstr ""
+
+#: %24MESS[%27fields.expression.flags%27]
+msgid "Флаги"
+msgstr ""
+
+#: %24MESS[%27fields.expression.test%27]
+msgctxt "$MESS['fields.expression.test']"
+msgid "Тестирование"
+msgstr ""
+
+#: %24MESS[%27fields.expression.test.valid%27]
+msgid "Верно"
+msgstr ""
+
+#: %24MESS[%27fields.expression.test.invalid%27]
+msgid "Неверно"
+msgstr ""
+
+#: %24MESS[%27fields.mask%27]
+msgid "Маска ввода"
+msgstr ""
+
+#: %24MESS[%27fields.mask.value%27]
+msgctxt "$MESS['fields.mask.value']"
+msgid "Значение"
+msgstr ""
+
+#: %24MESS[%27fields.mask.placeholder%27]
+msgid "Отображение"
+msgstr ""
+
+#: %24MESS[%27fields.mask.test%27]
+msgctxt "$MESS['fields.mask.test']"
+msgid "Тестирование"
+msgstr ""
+
+#: %24MESS[%27fields.multiline.header.value%27]
+msgid "Вариант ответа"
+msgstr ""
+
+#: %24MESS[%27fields.multiline.header.sort%27]
+msgctxt "$MESS['fields.multiline.header.sort']"
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.multiline.actions.add%27]
+msgid "Добавить вариант ответа"
+msgstr ""
+
+#: %24MESS[%27fields.multiline.actions.delete%27]
+msgid "Удалить"
+msgstr ""
+
+#: %24MESS[%27fields.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27fields.required%27]
+msgid "Обязательное"
+msgstr ""
+
+#: %24MESS[%27fields.readonly%27]
+msgid "Только для чтения"
+msgstr ""
+
+#: %24MESS[%27fields.type%27]
+msgid "Тип"
+msgstr ""
+
+#: %24MESS[%27fields.language.caption%27]
+msgid "Языковые настройки"
+msgstr ""
+
+#: %24MESS[%27fields.language.language%27]
+msgid "Язык"
+msgstr ""
+
+#: %24MESS[%27fields.language.name%27]
+msgid "Название"
+msgstr ""
+
+#: %24MESS[%27types.text%27]
+msgid "[text] Текстовое поле"
+msgstr ""
+
+#: %24MESS[%27types.textarea%27]
+msgid "[textarea] Большое текстовое поле"
+msgstr ""
+
+#: %24MESS[%27types.radio%27]
+msgid "[radio] Список радиокнопок"
+msgstr ""
+
+#: %24MESS[%27types.checkbox%27]
+msgid "[checkbox] Чекбокс"
+msgstr ""
+
+#: %24MESS[%27types.select%27]
+msgid "[select] Список"
+msgstr ""
+
+#: %24MESS[%27types.multiselect%27]
+msgid "[multiselect] Список с множественным выбором"
+msgstr ""
+
+#: %24MESS[%27types.password%27]
+msgid "[password] Пароль"
+msgstr ""
+
+#: %24MESS[%27types.hidden%27]
+msgid "[hidden] Скрытое поле"
+msgstr ""

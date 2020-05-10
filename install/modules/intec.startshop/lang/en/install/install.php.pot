@@ -1,0 +1,52 @@
+#. extracted from install/modules/intec.startshop/lang/en/install/install.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27module.install.form.submit%27]
+msgid "Установить модуль"
+msgstr ""
+
+#: %24MESS[%27module.install.form.back%27]
+msgid "Отмена"
+msgstr ""
+
+#: %24MESS[%27module.install.form.description%27]
+msgid ""
+"Вас приветствует мастер установки модуля \"Магазин «Старт»\".<br />Выберите "
+"необходимые вам параметры и нажмите \"Установить модуль\"."
+msgstr ""
+
+#: %24MESS[%27module.install.sections.sections%27]
+msgid "Разделы"
+msgstr ""
+
+#: %24MESS[%27module.install.sections.sections.install_catalog%27]
+msgid "Создать раздел с каталогом"
+msgstr ""
+
+#: %24MESS[%27module.install.sections.sections.install_cart%27]
+msgid "Создать раздел с корзиной"
+msgstr ""
+
+#: %24MESS[%27module.install.sections.sections.install_personal%27]
+msgid "Создать раздел с личным кабинетом"
+msgstr ""
+
+#: %24MESS[%27module.install.sections.sections.path_to_section%27]
+msgid "Путь к разделу"
+msgstr ""
+
+#: %24MESS[%27module.install.sections.sections.iblock_product%27]
+msgid "Инфоблок с товарами"
+msgstr ""

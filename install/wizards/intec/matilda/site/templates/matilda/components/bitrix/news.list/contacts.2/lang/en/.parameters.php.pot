@@ -1,0 +1,139 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news.list/contacts.2/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_SETTINGS_USE%27]
+msgctxt "$MESS['C_NEWS_LIST_CONTACTS_2_SETTINGS_USE']"
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_MAIN%27]
+msgid "Главный контакт"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_CITY%27]
+msgid "Свойство \"Город\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_INDEX%27]
+msgid "Свойство \"Индекс\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_ADDRESS%27]
+msgid "Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_EMAIL%27]
+msgid "Свойство \"E-mail\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_SCHEDULE%27]
+msgid "Свойство \"Расписание\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_PHONE%27]
+msgid "Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_MAP_LOCATION%27]
+msgid "Свойство \"Местоположение\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_LIST_NAME%27]
+msgid "Свойство \"Заголовок для списка\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_MAP_NAME%27]
+msgid "Свойство \"Заголовок для карты\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_MARKUP_COMPANY%27]
+msgid "Свойство \"Название компании\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_ADDRESS_SHOW%27]
+msgid "Показывать \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_SCHEDULE_SHOW%27]
+msgid "Показывать \"Расписание\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PHONE_SHOW%27]
+msgid "Показывать \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_EMAIL_SHOW%27]
+msgid "Показывать \"E-mail\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_MAP_VENDOR%27]
+msgid "Карта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_MAP_VENDOR_YANDEX%27]
+msgid "Яндекс"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_MAP_VENDOR_GOOGLE%27]
+msgid "Google"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_PROPERTY_STORE_ID%27]
+msgid "Свойство \"ID склада\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_SHOW_FORM%27]
+msgid "Показывать форму обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_WEB_FORM_TEMPLATE%27]
+msgid "Шаблон формы обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_WEB_FORM_ID%27]
+msgid "Веб форма"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_WEB_FORM_NAME%27]
+msgid "Заголовок веб формы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_WEB_FORM_CONSENT_URL%27]
+msgid "Url соглашения на обработку персональных данных"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_FEEDBACK_BUTTON_TEXT%27]
+msgid "Текст кнопки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_FEEDBACK_IMAGE%27]
+msgid "Путь до изображения блока обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_FEEDBACK_IMAGE_SHOW%27]
+msgid "Показывать изображение в блоке обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_FEEDBACK_TEXT%27]
+msgid "Текст блока обратной связи"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_LIST_CONTACTS_2_FEEDBACK_TEXT_SHOW%27]
+msgid "Показывать текст блока обратной связи"
+msgstr ""

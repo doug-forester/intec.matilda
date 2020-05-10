@@ -1,0 +1,17 @@
+
+
+find X_bitrix -type d -name "ru" | while read FNAME; do mv "$FNAME" "${FNAME//ru/en}"; done
+
+find lang -type f -name "*.php" | while read FNAME; do php2po -i "$FNAME" -o "${FNAME.po}"; done 
+
+## Move - Rename Folders ##
+##  mv "$FNAME" "${FNAME//ru/en}"; don ##
+
+## Conver PHP to PO ##
+##  php2po -i include.php -o en_include.php ##
+
+## Recusive Find ##
+##  find lang -type f -name "*.php" | ##
+
+## Recursive POT Creration ##
+##  do php2po -P "$FNAME" "${FNAME}.pot"; done

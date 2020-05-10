@@ -1,0 +1,30 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/menu/popup.3/intec.universe/sale.basket.small/template.1/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_PERSONAL%27]
+msgid "Войти"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_BASKET%27]
+msgid "Корзина"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_DELAYED%27]
+msgid "Отложенные"
+msgstr ""
+
+#: %24MESS[%27C_SALE_BASKET_SMALL_TEMPLATE_1_COMPARE%27]
+msgid "Сравнение товаров"
+msgstr ""

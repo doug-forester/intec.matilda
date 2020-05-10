@@ -1,0 +1,38 @@
+#. extracted from install/modules/intec.startshop/lang/en/install/uninstall.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27module.uninstall.form.warning%27]
+msgid "Модуль будет удален из системы!"
+msgstr ""
+
+#: %24MESS[%27module.uninstall.form.delete_data%27]
+msgid "Удаляемые данные:"
+msgstr ""
+
+#: %24MESS[%27module.uninstall.form.tables%27]
+msgid "Таблицы баз данных"
+msgstr ""
+
+#: %24MESS[%27module.uninstall.form.settings%27]
+msgid "Настройки"
+msgstr ""
+
+#: %24MESS[%27module.uninstall.form.submit%27]
+msgid "Удалить модуль"
+msgstr ""
+
+#: %24MESS[%27module.uninstall.form.back%27]
+msgid "Назад"
+msgstr ""

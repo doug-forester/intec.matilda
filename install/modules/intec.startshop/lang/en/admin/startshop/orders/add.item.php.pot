@@ -1,0 +1,68 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/orders/add.item.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title%27]
+msgid "Добавить позицию в заказ"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgctxt "$MESS['title.buttons.back']"
+msgid "Назад"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Позиция в заказе"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Позиция с таким товаром уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.warning.not_exists%27]
+msgid "Элемент не находится в торговом каталоге или его не существует!"
+msgstr ""
+
+#: %24MESS[%27fields.item%27]
+msgid "Товар"
+msgstr ""
+
+#: %24MESS[%27fields.name%27]
+msgid "Наименование"
+msgstr ""
+
+#: %24MESS[%27fields.quantity%27]
+msgid "Количество"
+msgstr ""
+
+#: %24MESS[%27fields.quantity.total%27]
+msgid "(Всего имеется #QUANTITY#)"
+msgstr ""
+
+#: %24MESS[%27fields.price%27]
+msgid "Цена"
+msgstr ""
+
+#: %24MESS[%27button.create%27]
+msgid "Добавить позицию"
+msgstr ""
+
+#: %24MESS[%27button.next%27]
+msgid "Далее"
+msgstr ""
+
+#: %24MESS[%27button.prev%27]
+msgctxt "$MESS['button.prev']"
+msgid "Назад"
+msgstr ""

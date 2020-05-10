@@ -1,0 +1,44 @@
+#. extracted from install/modules/intec.startshop/install/components/intec/startshop.profile/templates/.default/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27USE_ADAPTABILITY%27]
+msgid "Использовать адаптивность"
+msgstr ""
+
+#: %24MESS[%27AUTHORIZE_TEMPLATE%27]
+msgid "Шаблон компонента авторизации (bitrix:system.auth.authorize)"
+msgstr ""
+
+#: %24MESS[%27PROFILE_TEMPLATE%27]
+msgid "Шаблон компонента профиля (bitrix:main.profile)"
+msgstr ""
+
+#: %24MESS[%27REGISTER_TEMPLATE%27]
+msgid "Шаблон компонента регистрации (bitrix:system.auth.registration)"
+msgstr ""
+
+#: %24MESS[%27REGISTER_CONFIRM_TEMPLATE%27]
+msgid ""
+"Шаблон компонента подтверждения регистрации (bitrix:system.auth.confirmation)"
+msgstr ""
+
+#: %24MESS[%27PASSWORD_CHANGE_TEMPLATE%27]
+msgid "Шаблон компонента смены пароля (bitrix:system.auth.changepasswd)"
+msgstr ""
+
+#: %24MESS[%27PASSWORD_FORGOT_TEMPLATE%27]
+msgid ""
+"Шаблон компонента восстановления пароля (bitrix:system.auth.forgotpasswd)"
+msgstr ""

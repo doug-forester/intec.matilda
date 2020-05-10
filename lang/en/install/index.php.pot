@@ -1,0 +1,88 @@
+#. extracted from lang/en/install/index.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:26-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27intec.matilda.installer.name%27]
+msgid "Matilda"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.description%27]
+msgid "Мастер создания \"Лендинга\""
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.modules.title%27]
+msgid "Нет необходимых модулей"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.modules.message%27]
+msgid "Не установлены следующие модули:"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.modules.back%27]
+msgctxt "$MESS['intec.matilda.installer.modules.back']"
+msgid "К списку модулей"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.install.title%27]
+msgid "Установка модуля"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.install.message%27]
+msgid ""
+"Поздравляем, модуль успешно установлен!<br />\n"
+"    Для установки готового сайта, пожалуйста перейдите <a href=\"/bitrix/"
+"admin/wizard_list.php?lang=ru\">в список мастеров</a> <br />и выберите пункт "
+"«Установить» в меню мастера intec:matilda;"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.install.wizards%27]
+msgid "Открыть список мастеров"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.title%27]
+msgid "Удаление модуля"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.message%27]
+msgid "Удаление модуля успешно завершено"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.modules.title%27]
+msgctxt "$MESS['intec.matilda.installer.uninstall.modules.title']"
+msgid "Выберите доп. модули для удаления"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.modules.description%27]
+msgid ""
+"Вы можете удалить модули, приведенные ниже, если они не используются в "
+"других решениях.<br />Для их удаления отметьте их."
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.modules.continue%27]
+msgctxt "$MESS['intec.matilda.installer.uninstall.modules.continue']"
+msgid "Выберите доп. модули для удаления"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.warning%27]
+msgid "Сейчас будет произведено удаление модуля"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.go%27]
+msgid "Продолжить"
+msgstr ""
+
+#: %24MESS[%27intec.matilda.installer.uninstall.back%27]
+msgctxt "$MESS['intec.matilda.installer.uninstall.back']"
+msgid "К списку модулей"
+msgstr ""

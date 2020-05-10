@@ -1,0 +1,153 @@
+#. extracted from install/modules/intec.startshop/lang/en/admin/startshop/settings/currency/edit.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27title.add%27]
+msgid "Добавить валюту"
+msgstr ""
+
+#: %24MESS[%27title.edit%27]
+msgid "Редактирование валюты"
+msgstr ""
+
+#: %24MESS[%27title.buttons.back%27]
+msgid "Список"
+msgstr ""
+
+#: %24MESS[%27title.buttons.add%27]
+msgid "Добавить"
+msgstr ""
+
+#: %24MESS[%27tabs.common%27]
+msgid "Валюта"
+msgstr ""
+
+#: %24MESS[%27tabs.lang%26format%27]
+msgid "Языковые настройки и формат"
+msgstr ""
+
+#: %24MESS[%27messages.warning.empty_fields%27]
+msgid "Не заполнены следующие поля: #FIELDS#"
+msgstr ""
+
+#: %24MESS[%27messages.warning.exists%27]
+msgid "Валюта с таким кодом уже существует!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.added%27]
+msgid "Валюта успешно добавлена!"
+msgstr ""
+
+#: %24MESS[%27messages.notify.saved%27]
+msgid "Валюта успешно изменена!"
+msgstr ""
+
+#: %24MESS[%27fields.id%27]
+msgid "ID"
+msgstr ""
+
+#: %24MESS[%27fields.code%27]
+msgid "Код"
+msgstr ""
+
+#: %24MESS[%27fields.sort%27]
+msgid "Сортировка"
+msgstr ""
+
+#: %24MESS[%27fields.active%27]
+msgid "Активность"
+msgstr ""
+
+#: %24MESS[%27fields.base%27]
+msgid "Базовая валюта"
+msgstr ""
+
+#: %24MESS[%27fields.rating%27]
+msgid "Номинал"
+msgstr ""
+
+#: %24MESS[%27fields.rating.description%27]
+msgid ""
+"Используются <b>прямые котировки</b> валют по отношению к базовой. Для "
+"правильной конвертации необходимо указывать стоймость единицы редактируемой "
+"валюты в базовой. Для <b>базовой валюты</b> номинал и курс должны быть равны "
+"единице."
+msgstr ""
+
+#: %24MESS[%27fields.rate%27]
+msgid "Курс"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.name%27]
+msgid "Название"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.format%27]
+msgid "Формат"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.format.description%27]
+msgid ""
+"Формат валюты вида <b>..#..</b>, где символ <b>#</b> будет заменен на "
+"отформатированное значение цены, а <b>..</b> могут быть любым текстом или "
+"отсутствовать."
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.decimal%27]
+msgid "Разделитель десятичной части"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.thousands%27]
+msgid "Разделитель тысяч"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.type.none%27]
+msgid "Без разделителя"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.type.point%27]
+msgid "Точка"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.type.comma%27]
+msgid "Запятая"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.type.whitespace%27]
+msgid "Пробел"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.delimiter.type.other%27]
+msgid "Другое значение"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.decimals.count%27]
+msgid "Количество десятичных знаков"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.decimals.count.description%27]
+msgid ""
+"Количество десятичных знаков дробной части влияет только на "
+"<b>отображение</b> цены."
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.decimals.display_zero%27]
+msgid "Отображать незначащие нули в дробной части цены"
+msgstr ""
+
+#: %24MESS[%27fields.lang%26format.decimals.display_zero.description%27]
+msgid ""
+"Если дробная часть числа отсутствует, то в зависимости от параметра она либо "
+"будет выведена, либо не будет."
+msgstr ""

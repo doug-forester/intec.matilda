@@ -1,0 +1,26 @@
+#. extracted from install/modules/intec.constructorlite/lang/en/classes/models/build/File.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27intec.constructorlite.models.build.file.type.css%27]
+msgid "Css"
+msgstr ""
+
+#: %24MESS[%27intec.constructorlite.models.build.file.type.javascript%27]
+msgid "JavaScript"
+msgstr ""
+
+#: %24MESS[%27intec.constructorlite.models.build.file.type.sass%27]
+msgid "Scss"
+msgstr ""

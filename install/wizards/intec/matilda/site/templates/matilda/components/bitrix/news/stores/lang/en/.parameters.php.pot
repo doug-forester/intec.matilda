@@ -1,0 +1,78 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/news/stores/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:32-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_NEWS_STORE_1_SHOW_MAP%27]
+msgid "Показывать карту"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_API_KEY_MAP%27]
+msgid "Ключ API для карты"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_PROPERTY_MAP%27]
+msgid "Свойство \"Место на карте\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_PROPERTY_ADDRESS%27]
+msgid "Свойство \"Адрес\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_PROPERTY_PHONE%27]
+msgid "Свойство \"Телефон\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_PROPERTY_EMAIL%27]
+msgid "Свойство \"Электронная почта\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_PROPERTY_SCHEDULE%27]
+msgid "Свойство \"Время работы\""
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_MAP_VENDOR%27]
+msgid "Карта"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_MAP_VENDOR_YANDEX%27]
+msgid "Яндекс"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_MAP_VENDOR_GOOGLE%27]
+msgid "Google"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_DESCRIPTION_SHOW%27]
+msgid "Показывать текст"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_DESCRIPTION%27]
+msgid "Текст"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_PHONE_SHOW%27]
+msgid "Показывать телефон"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_SCHEDULE_SHOW%27]
+msgid "Показывать график работы"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_SETTINGS_USE%27]
+msgid "Использовать глобальные настройки"
+msgstr ""
+
+#: %24MESS[%27C_NEWS_STORE_1_LAZYLOAD_USE%27]
+msgid "Использовать \"ленивую загрузку\" изображений"
+msgstr ""

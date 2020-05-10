@@ -1,0 +1,98 @@
+#. extracted from install/wizards/intec/matilda/site/templates/matilda/components/bitrix/catalog.section/services.small.1/lang/en/.parameters.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:33-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_PROPERTY_PRICE%27]
+msgid "Свойство \"Цена\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_PROPERTY_CURRENCY%27]
+msgid "Свойство \"Валюта\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_PRICE_FORMAT%27]
+msgid "Формат цены"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_PROPERTY_PRICE_FORMAT%27]
+msgid "Свойство \"Формат цены\""
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_BORDERS%27]
+msgid "Отображать рамки элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_COLUMNS%27]
+msgid "Количество элементов в строке"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_POSITION%27]
+msgid "Выравнивание элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_POSITION_LEFT%27]
+msgid "Слева"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_POSITION_CENTER%27]
+msgid "По центру"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_POSITION_RIGHT%27]
+msgid "Справа"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SIZE%27]
+msgid "Размер элементов"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SIZE_SMALL%27]
+msgid "Маленький"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SIZE_BIG%27]
+msgid "Большой"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_USE%27]
+msgid "Использовать слайдер"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_DOTS%27]
+msgid "Показывать точки слайдера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_NAVIGATION%27]
+msgid "Показывать навигацию слайдера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_LOOP%27]
+msgid "Зациклить прокрутку слайдера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_AUTO_PLAY_USE%27]
+msgid "Использовать автопрокрутку слайдера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_AUTO_PLAY_TIME%27]
+msgid "Время автопрокрутки слайдера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_AUTO_PLAY_SPEED%27]
+msgid "Скорость автопрокрутки слайдера"
+msgstr ""
+
+#: %24MESS[%27C_CATALOG_SECTION_SERVICES_SMALL_1_SLIDER_AUTO_PLAY_HOVER_PAUSE%27]
+msgid "Останавливать автопрокрутку при наведении на элемент"
+msgstr ""

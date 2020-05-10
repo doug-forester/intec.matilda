@@ -1,0 +1,47 @@
+#. extracted from install/modules/intec.startshop/install/components/bitrix/system.auth.forgotpasswd/templates/startshop/lang/en/template.php
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PACKAGE VERSION\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-05-09 20:34-0700\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Translate Toolkit 2.5.1\n"
+
+#: %24MESS[%27STARTSHOP_PASSWORD_FORGOT%27]
+msgid ""
+"Если вы забыли пароль, введите логин или E-Mail.<br />Контрольная строка для "
+"смены пароля, а также ваши регистрационные данные, будут высланы вам по "
+"E-Mail."
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_NOTIFY_SEND%27]
+msgid ""
+"На ваш E-mail было выслано письмо с контрольной суммой и ссылкой для смены "
+"пароля!"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_LOGIN%27]
+msgid "Логин:"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_OR%27]
+msgid "или"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_EMAIL%27]
+msgid "E-mail:"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_SEND%27]
+msgid "Выслать"
+msgstr ""
+
+#: %24MESS[%27STARTSHOP_PASSWORD_TABLE_AUTHORIZE%27]
+msgid "Авторизоваться"
+msgstr ""
